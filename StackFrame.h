@@ -9,7 +9,6 @@
 
 #include <string>
 #include <stack>
-using namespace std;
 /*
 StackFrame declaration
 */
@@ -59,8 +58,8 @@ public:
     }
 };
 
-void printNSpace(int n) {for (int i = 0; i < n - 1; i++) cout << " ";}
-void printInteger(int &n) {cout << n << " ";}
+// void printNSpace(int n) {for (int i = 0; i < n - 1; i++) cout << " ";}
+// void printInteger(int &n) {cout << n << " ";}
 template<class T>
 class AVLTree {
 public: class Node;
@@ -70,79 +69,79 @@ private:
     void deleteTree(Node* node);
     Node* rotateRight(Node* root);
     Node* rotateLeft(Node* root);
-    Node* insertRec(Node* node, const T &value, const string key);
-    Node* deletion(Node*root, string key);
-    Node* searchRec(Node* node, const string value);
-    Node* findParentNodeDetail(Node* node, const string value);
-    void printInorder(Node* node) {
-        if (node == NULL) return;
-        printInorder(node->pLeft);
-        cout << node->data << " ";
-        printInorder(node->pRight);
-    }
+    Node* insertRec(Node* node, const T &value, const std::string key);
+    Node* deletion(Node*root, std::string key);
+    Node* searchRec(Node* node, const std::string value);
+    Node* findParentNodeDetail(Node* node, const std::string value);
+    // void printInorder(Node* node) {
+    //     if (node == NULL) return;
+    //     printInorder(node->pLeft);
+    //     cout << node->data << " ";
+    //     printInorder(node->pRight);
+    // }
 public:
     AVLTree() : root(nullptr) {}
     ~AVLTree() {deleteTree(root);}
     int getHeight() {return this->getHeightRec(this->root);}
-    void printTreeStructure() {
-        int height = this->getHeight();
-        if (this->root == NULL) {
-            cout << "NULL\n";
-            return;
-        }
-        queue<Node *> q;
-        q.push(root);
-        Node *temp;
-        int count = 0, maxNode = 1, level = 0, space = pow(2, height);
-        printNSpace(space / 2);
-        while (!q.empty()) {
-            temp = q.front();
-            q.pop();
-            if (temp == NULL) {
-                cout << " ";
-                q.push(NULL);
-                q.push(NULL);
-            }
-            else {
-                cout << temp->data;
-                q.push(temp->pLeft);
-                q.push(temp->pRight);
-            }
-            printNSpace(space);
-            count++;
-            if (count == maxNode) {
-                cout << endl;
-                count = 0;
-                maxNode *= 2;
-                level++;
-                space /= 2;
-                printNSpace(space / 2);
-            }
-            if (level == height) return;
-        }
-    }
-    void insert(const T &value, const string key) {root = insertRec(root, value, key);}
-    void remove(string key) {root = deletion(root, key);}
+    // void printTreeStructure() {
+    //     int height = this->getHeight();
+    //     if (this->root == NULL) {
+    //         cout << "NULL\n";
+    //         return;
+    //     }
+    //     queue<Node *> q;
+    //     q.push(root);
+    //     Node *temp;
+    //     int count = 0, maxNode = 1, level = 0, space = pow(2, height);
+    //     printNSpace(space / 2);
+    //     while (!q.empty()) {
+    //         temp = q.front();
+    //         q.pop();
+    //         if (temp == NULL) {
+    //             cout << " ";
+    //             q.push(NULL);
+    //             q.push(NULL);
+    //         }
+    //         else {
+    //             cout << temp->data;
+    //             q.push(temp->pLeft);
+    //             q.push(temp->pRight);
+    //         }
+    //         printNSpace(space);
+    //         count++;
+    //         if (count == maxNode) {
+    //             cout << endl;
+    //             count = 0;
+    //             maxNode *= 2;
+    //             level++;
+    //             space /= 2;
+    //             printNSpace(space / 2);
+    //         }
+    //         if (level == height) return;
+    //     }
+    // }
+    void insert(const T &value, const std::string key) {root = insertRec(root, value, key);}
+    void remove(const std::string key) {root = deletion(root, key);}
     int getBalance(Node*subroot) {
         return !subroot? 0 : getHeightRec(subroot->pLeft)- getHeightRec(subroot->pRight);
     }
     void printInorder() {printInorder(root);}
-    Node* search(const string value) {return searchRec(root, value);}
+    Node* search(const std::string value) {return searchRec(root, value);}
     T getData(Node* node) {return !node? T(-1, INT) : node->data;}
-    string findParentNode(const string value) {
+    std::string findParentNode(const std::string value) {
         Node* temp = findParentNodeDetail(root, value);
         if (!temp) return "undefine";
         return temp == root? "null" : temp->key;
     }
 public:
     class Node {
-        string key;
+        std::string key;
         T data;
         Node *pLeft, *pRight;
         BalanceValue balance;
         friend class AVLTree<T>;
     public:
-        Node(T value, string key) : key(key), data(value), pLeft(NULL), pRight(NULL), balance(EH) {}
+        Node(T value, std::string key) : key(key), data(value), pLeft(NULL), pRight(NULL), balance(EH) {}
         ~Node() {}
     };
 };

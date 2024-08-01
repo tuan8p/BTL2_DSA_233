@@ -97,7 +97,7 @@ typename AVLTree<T>::Node* AVLTree<T>::searchRec(typename AVLTree<T>::Node* node
     return searchRec(node->pRight, value);
 }
 template<class T>
-typename AVLTree<T>::Node* findParentNodeDetail(typename AVLTree<T>::Node* node, const std::string value) {
+typename AVLTree<T>::Node* AVLTree<T>::findParentNodeDetail(typename AVLTree<T>::Node* node, const std::string value) {
     typename AVLTree<T>::Node* current = node;
     typename AVLTree<T>::Node* parent = NULL;
     while(current != NULL && current->key != value) {
@@ -291,7 +291,7 @@ void StackFrame::loadAndStore(std::string str, std::string value) {
         avlTree->insert(temp, value);
         count++;
     }
-    else if (str == "var") {
+    else if (str == "val") {
         operation temp = avlTree->getData(avlTree->search(value));
         if (temp == operation(-1, INT)) throw UndefinedVariable(line);
         cout << temp.getOper() << "\n"; 
@@ -328,8 +328,10 @@ void StackFrame::run(string filename) {
                 float value;
                 if (str.find(".") != string::npos) value = stof(strValue);
                 else value = stoi(strValue);
-                if (str == "iconst") this->push(operation(int(value), INT));
-                else if (str == "fconst") this->push(operation(value, FLOAT));
+                if (instruction == "iconst") {
+                    this->push(operation(int(value), INT));
+                }
+                else this->push(operation(value, FLOAT));
             }
             else loadAndStore(instruction, strValue);
         }
