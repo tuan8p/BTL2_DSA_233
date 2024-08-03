@@ -289,13 +289,16 @@ void StackFrame::loadAndStore(std::string str, std::string value) {
         this->pop();
         if (str[0] == 'i' && temp.getStatus() == FLOAT) throw TypeMisMatch(line);
         else if (str[0] == 'f' && temp.getStatus() == INT) throw TypeMisMatch(line);
-        if (count >= localVarSpaceSize / 2) throw LocalSpaceFull(line);
-        avlTree->insert(temp, value);
-        count++;
+        if (avlTree->search(value)) avlTree->insert(temp, value);
+        else {
+            if (count >= localVarSpaceSize / 2) throw LocalSpaceFull(line);
+            avlTree->insert(temp, value);
+            count++;
+        }
     }
     else if (str == "val") {
         operation temp = avlTree->getData(avlTree->search(value));
-        if (temp == operation(-1, INT)) throw UndefinedVariable(line);
+        if (temp == operation(-1, OTHER)) throw UndefinedVariable(line);
         cout << temp.getOper() << "\n"; 
     }  
     else { // par
