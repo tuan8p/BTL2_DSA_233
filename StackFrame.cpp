@@ -97,15 +97,17 @@ typename AVLTree<T>::Node* AVLTree<T>::searchRec(typename AVLTree<T>::Node* node
     return searchRec(node->pRight, value);
 }
 template<class T>
-typename AVLTree<T>::Node* AVLTree<T>::findParentNodeDetail(typename AVLTree<T>::Node* node, const std::string value) {
-    typename AVLTree<T>::Node* current = node;
+std::string AVLTree<T>::findParentNode(const std::string value) {
+    typename AVLTree<T>::Node* current = root;
     typename AVLTree<T>::Node* parent = NULL;
     while(current != NULL && current->key != value) {
         parent = current;
         if (value < current->key) current = current->pLeft;
         else current = current->pRight;
     }
-    return parent;
+    if (!parent) return "null";
+    if (parent->key != value) return "undefine";
+    return parent->key;
 }
 void DoublyLinkedList::add(operation e) {
     Node* newNode = new Node(e);

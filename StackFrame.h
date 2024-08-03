@@ -1,11 +1,5 @@
 #ifndef __STACK_FRAME_H__
 #define __STACK_FRAME_H__
-/// NHỚ XÓA 3 THƯ VIỆN NÀY
-#include <iostream>
-#include <queue>
-#include <math.h>
-
-// NHỚ NHA NGHE CHƯA MẠNH TUẤN
 
 #include <string>
 #include <stack>
@@ -128,11 +122,7 @@ public:
     void printInorder() {printInorder(root);}
     Node* search(const std::string value) {return searchRec(root, value);}
     T getData(Node* node) {return !node? T(-1, INT) : node->data;}
-    std::string findParentNode(const std::string value) {
-        Node* temp = findParentNodeDetail(root, value);
-        if (!temp) return "undefine";
-        return temp == root? "null" : temp->key;
-    }
+    std::string findParentNode(const std::string value);
 public:
     class Node {
         std::string key;
