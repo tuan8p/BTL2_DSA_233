@@ -1,2 +1,5 @@
 iconst 3
-top
+istore abc
+iconst 4
+istore abcd
+par abc

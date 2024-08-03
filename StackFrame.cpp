@@ -106,7 +106,7 @@ std::string AVLTree<T>::findParentNode(const std::string value) {
         else current = current->pRight;
     }
     if (!parent) return "null";
-    if (parent->key != value) return "undefine";
+    if (!current) return "undefine";
     return parent->key;
 }
 void DoublyLinkedList::add(operation e) {
