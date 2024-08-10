@@ -299,7 +299,7 @@ void StackFrame::loadAndStore(std::string str, std::string value) {
     else if (str == "val") {
         operation temp = avlTree->getData(avlTree->search(value));
         if (temp == operation(-1, OTHER)) throw UndefinedVariable(line);
-        cout << value << ":" << temp.getOper() << "\n"; 
+        cout << temp.getOper() << "\n"; 
     }  
     else { // par
         string res = avlTree->findParentNode(value);
@@ -334,15 +334,13 @@ void StackFrame::run(string filename) {
                 float value;
                 if (str.find(".") != string::npos) value = stof(strValue);
                 else value = stoi(strValue);
-                if (instruction == "iconst") {
-                    this->push(operation(int(value), INT));
-                }
+                if (instruction == "iconst") this->push(operation(int(value), INT));
                 else this->push(operation(value, FLOAT));
             }
             else loadAndStore(instruction, strValue);
         }
         line++;
     }
-    avlTree->printTreeStructure();
+    // avlTree->printTreeStructure();
     ifs.close();
 }

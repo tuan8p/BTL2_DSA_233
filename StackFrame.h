@@ -74,61 +74,45 @@ private:
 public:
     AVLTree() : root(nullptr) {}
     ~AVLTree() {deleteTree(root);}
-    void printNSpace(int n)
-{
-    for (int i = 0; i < n - 1; i++)
-        cout << " ";
-}
-
-void printInteger(int &n)
-{
-    cout << n << " ";
-}
-void printTreeStructure() {
-    int height = this->getHeight();
-    if (this->root == nullptr) {
-        std::cout << "NULL\n";
-        return;
-    }
-
-    queue<Node *> q;
-    q.push(root);
-    int level = 0;
-    int maxNodes = 1;
-    int space = pow(2, height + 1);
-
-    printNSpace(space / 2);
-    while (!q.empty()) {
-        int nodesAtLevel = 0;
-        for (int i = 0; i < maxNodes; ++i) {
-            Node* currentNode = q.front();
-            q.pop();
-
-            if (currentNode) {
-                cout << currentNode->key << ":" << currentNode->data.getOper();
-                q.push(currentNode->pLeft);
-                q.push(currentNode->pRight);
-            } else {
-                cout << " ";
-                q.push(nullptr);
-                q.push(nullptr);
-            }
-
-            printNSpace(space);
-            nodesAtLevel++;
-        }
-
-        cout << endl;
-        level++;
-        maxNodes *= 2;
-        space /= 2;
-        printNSpace(space / 2);
-
-        if (level == height) {
-            break;
-        }
-    }
-}
+    // void printNSpace(int n) {for (int i = 0; i < n - 1; i++) cout << " ";}
+    // void printInteger(int &n) {cout << n << " ";}
+    // void printTreeStructure() {
+    //     int height = this->getHeight();
+    //     if (this->root == nullptr) {
+    //         std::cout << "NULL\n";
+    //         return;
+    //     }
+    //     queue<Node *> q;
+    //     q.push(root);
+    //     int level = 0;
+    //     int maxNodes = 1;
+    //     int space = pow(2, height + 1);
+    //     printNSpace(space / 2);
+    //     while (!q.empty()) {
+    //         int nodesAtLevel = 0;
+    //         for (int i = 0; i < maxNodes; ++i) {
+    //             Node* currentNode = q.front();
+    //             q.pop();
+    //             if (currentNode) {
+    //                 cout << currentNode->key << ":" << currentNode->data.getOper();
+    //                 q.push(currentNode->pLeft);
+    //                 q.push(currentNode->pRight);
+    //             } else {
+    //                 cout << " ";
+    //                 q.push(nullptr);
+    //                 q.push(nullptr);
+    //             }
+    //             printNSpace(space);
+    //             nodesAtLevel++;
+    //         }
+    //         cout << endl;
+    //         level++;
+    //         maxNodes *= 2;
+    //         space /= 2;
+    //         printNSpace(space / 2);
+    //         if (level == height) break;
+    //     }
+    // }
 
     int getHeight() {return this->getHeightRec(this->root);}
     void insert(const T &value, const std::string key) {root = insertRec(root, value, key);}
