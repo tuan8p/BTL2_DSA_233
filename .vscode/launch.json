@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LENOVO/OneDrive/Documents/GitHub/BTL2_DSA_233",
-      "program": "c:/Users/LENOVO/OneDrive/Documents/GitHub/BTL2_DSA_233/build/Debug/outDebug",
+      "cwd": "c:/Users/LENOVO/OneDrive/Documents/GitHub/BTL2_DSA_233/testbtl2",
+      "program": "c:/Users/LENOVO/OneDrive/Documents/GitHub/BTL2_DSA_233/testbtl2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

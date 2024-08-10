@@ -299,7 +299,7 @@ void StackFrame::loadAndStore(std::string str, std::string value) {
     else if (str == "val") {
         operation temp = avlTree->getData(avlTree->search(value));
         if (temp == operation(-1, OTHER)) throw UndefinedVariable(line);
-        cout << temp.getOper() << "\n"; 
+        cout << value << ":" << temp.getOper() << "\n"; 
     }  
     else { // par
         string res = avlTree->findParentNode(value);
@@ -328,7 +328,8 @@ void StackFrame::run(string filename) {
             || instruction == "i2f" || instruction == "f2i" || instruction == "top"
             ) checkTypeAndConvert(instruction);
         else {
-            string strValue = str.substr(index + 1, size - index);
+            const size_t reindex = str.rfind(" ");
+            string strValue = str.substr(index + 1, reindex - index - 1);
             if (instruction == "iconst" || instruction == "fconst") {
                 float value;
                 if (str.find(".") != string::npos) value = stof(strValue);
@@ -342,5 +343,6 @@ void StackFrame::run(string filename) {
         }
         line++;
     }
+    avlTree->printTreeStructure();
     ifs.close();
 }
