@@ -1,0 +1,15 @@
+iconst 5
+iconst -17
+iload h
+iadd
+igt
+imul
+iconst 11
+iconst -18
+istore l
+igt
+iload b
+istore i
+iconst 12
+iconst 6
+istore H

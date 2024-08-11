@@ -1,0 +1,16 @@
+par G
+iconst 10
+iconst -6
+fconst 1.050524
+istore F
+iadd
+fconst -9.739873
+istore d
+istore G
+iconst -16
+fstore C
+fstore J
+fneq
+idiv
+fconst 8.956430
+fdiv

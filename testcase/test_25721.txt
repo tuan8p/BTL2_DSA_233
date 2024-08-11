@@ -1,0 +1,12 @@
+par E
+fload e
+val d
+iload k
+iconst -4
+istore i
+fstore k
+fstore a
+ibnot
+istore l
+top
+fstore e

@@ -1,0 +1,14 @@
+fload A
+fstore E
+iload m
+istore e
+istore d
+fload G
+fconst -3.771963
+istore L
+fload I
+fmul
+par k
+istore D
+fconst -0.766782
+istore K

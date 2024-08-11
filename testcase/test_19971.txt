@@ -1,0 +1,12 @@
+fconst 4.086472
+fconst 6.019457
+fstore F
+fstore k
+fadd
+fconst -2.310822
+fneg
+fstore j
+iload a
+flt
+ibnot
+istore g

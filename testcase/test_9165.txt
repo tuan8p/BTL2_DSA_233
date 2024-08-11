@@ -1,0 +1,9 @@
+fconst 1.934319
+iload J
+fstore k
+fstore i
+iconst 8
+iload j
+top
+par L
+iload k

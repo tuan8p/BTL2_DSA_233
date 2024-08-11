@@ -1,0 +1,17 @@
+fconst -3.065076
+iconst 9
+fstore H
+iconst -3
+iconst 4
+fstore a
+iconst -14
+istore K
+iconst 16
+fstore m
+val k
+istore k
+fconst 8.726820
+iconst -20
+iconst 9
+fadd
+fconst -1.255842

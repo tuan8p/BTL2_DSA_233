@@ -1,0 +1,18 @@
+iload L
+iload L
+iload c
+iand
+fload f
+iload m
+fconst 9.581661
+fconst -4.922131
+iconst 6
+iload M
+fload m
+iload D
+iload d
+iconst -18
+iload B
+ibnot
+irem
+igt

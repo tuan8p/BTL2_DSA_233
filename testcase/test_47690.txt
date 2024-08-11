@@ -1,0 +1,11 @@
+iload C
+iload A
+ibnot
+iload f
+i2f
+fconst 6.644644
+fneg
+iload a
+istore C
+fstore L
+irem

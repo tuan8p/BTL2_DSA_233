@@ -1,0 +1,22 @@
+iconst -13
+istore D
+iconst 10
+i2f
+istore J
+irem
+igt
+istore M
+val h
+iconst -11
+istore d
+top
+ilt
+iconst 7
+idiv
+fload D
+iconst 20
+fconst -9.245945
+fstore E
+fstore D
+fstore D
+istore h

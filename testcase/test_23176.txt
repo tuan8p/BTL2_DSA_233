@@ -1,0 +1,13 @@
+iload c
+istore H
+iload l
+val f
+top
+iconst -3
+istore I
+iload e
+ibnot
+idiv
+istore e
+istore e
+istore F

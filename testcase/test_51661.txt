@@ -1,0 +1,10 @@
+iconst 12
+iconst -10
+iconst 14
+iconst 4
+fconst 1.969810
+fconst 0.929647
+fmul
+fstore C
+iconst 6
+istore C

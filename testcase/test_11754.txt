@@ -1,0 +1,9 @@
+iload E
+iconst 10
+istore k
+iload m
+irem
+iload G
+fconst 2.441309
+iconst 9
+fstore M

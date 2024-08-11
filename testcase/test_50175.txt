@@ -1,0 +1,10 @@
+fload K
+fstore c
+fstore J
+fconst -4.854609
+fneg
+par c
+fstore a
+fconst -6.137373
+fstore g
+iconst 2

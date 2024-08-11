@@ -1,0 +1,16 @@
+iconst -3
+iconst 2
+iadd
+iconst -15
+iconst 20
+fconst -9.448689
+fstore D
+fstore I
+iadd
+fstore j
+fconst 7.335894
+feq
+i2f
+fstore f
+iand
+iconst 0

@@ -1,0 +1,23 @@
+iload K
+iconst 7
+iconst -12
+fconst 0.689792
+fstore k
+iload g
+iconst 20
+iload m
+i2f
+iconst 11
+fconst 1.869983
+iconst 18
+fneq
+fconst 4.216074
+fstore d
+iconst -4
+iconst 9
+istore h
+istore K
+imul
+fconst -4.448771
+iconst -6
+i2f

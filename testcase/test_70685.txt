@@ -1,0 +1,17 @@
+iconst 7
+iconst 20
+fload L
+istore C
+istore D
+fload D
+isub
+istore C
+iconst -10
+fgt
+iconst -17
+iload D
+ior
+iload d
+iand
+iload b
+istore L

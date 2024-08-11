@@ -1,0 +1,14 @@
+fload C
+top
+par G
+iconst -20
+istore D
+iload g
+istore B
+iand
+ieq
+iconst 11
+fstore b
+iload d
+iload M
+fconst 7.036861

@@ -1,0 +1,10 @@
+iconst 17
+val H
+iload H
+iconst 14
+iload B
+iconst -7
+iload h
+iconst 6
+iconst -12
+iload i

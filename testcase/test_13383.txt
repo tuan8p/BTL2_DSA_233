@@ -1,0 +1,16 @@
+iconst -11
+fload b
+iload m
+iconst 7
+fstore f
+istore c
+iconst 0
+fconst 4.642444
+fadd
+fload D
+fstore C
+iconst -16
+fconst -6.326570
+iconst -1
+istore j
+ineq

@@ -1,0 +1,17 @@
+iconst 11
+istore H
+iload d
+fconst 3.620491
+f2i
+iconst -13
+iconst -12
+fconst 6.094604
+iconst -10
+fconst -0.453340
+iconst -3
+fload B
+feq
+iconst 17
+val H
+fconst -6.406034
+fmul

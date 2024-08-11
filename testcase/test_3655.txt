@@ -1,0 +1,14 @@
+val l
+iconst -4
+iload b
+par D
+fconst 7.480639
+fstore L
+fload H
+iconst -9
+fload f
+ineg
+fsub
+fadd
+fload j
+fmul

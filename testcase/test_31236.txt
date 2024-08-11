@@ -1,0 +1,18 @@
+fconst -1.375259
+fconst 0.033788
+iconst -20
+istore D
+iconst -20
+istore k
+iconst 8
+imul
+istore b
+iconst -14
+iconst -2
+iconst 3
+iconst -2
+fstore B
+i2f
+istore f
+f2i
+fsub

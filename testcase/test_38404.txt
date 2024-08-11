@@ -1,0 +1,12 @@
+val G
+iconst 10
+iconst 15
+iand
+iand
+iload G
+fconst 7.980335
+istore A
+fstore L
+istore d
+fstore G
+isub

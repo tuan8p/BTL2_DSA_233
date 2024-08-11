@@ -1,0 +1,13 @@
+iconst -13
+iconst -12
+isub
+fconst 4.201530
+istore J
+fconst 0.711537
+fstore E
+fstore J
+flt
+fconst 3.402353
+istore K
+istore K
+iadd

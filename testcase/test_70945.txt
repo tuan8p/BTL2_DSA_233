@@ -1,0 +1,19 @@
+iconst -2
+iconst 18
+iload G
+imul
+iconst 19
+fconst 6.160261
+fneg
+iconst 15
+igt
+fconst 0.095229
+fconst -4.139038
+fconst -6.673208
+fadd
+iconst 20
+fdiv
+iload I
+fconst -2.528839
+iload L
+ilt

@@ -1,0 +1,13 @@
+iconst 3
+iconst 1
+iload H
+ior
+irem
+ieq
+fconst 8.479750
+fconst -9.579866
+par h
+iload k
+ineg
+ineg
+iconst -15

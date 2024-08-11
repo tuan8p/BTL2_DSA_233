@@ -1,0 +1,10 @@
+iconst -20
+iconst 11
+istore J
+iconst 6
+ilt
+fconst -8.672030
+iconst 19
+fconst -1.367435
+ilt
+fload m

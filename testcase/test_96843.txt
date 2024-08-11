@@ -1,0 +1,14 @@
+fconst 2.721909
+iconst 2
+fconst -1.317162
+fconst 9.505659
+iconst 1
+igt
+fconst 8.481491
+igt
+irem
+fconst 5.384950
+iconst 6
+fconst 3.668116
+istore I
+iconst -7

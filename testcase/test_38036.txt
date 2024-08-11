@@ -1,0 +1,8 @@
+fconst 7.916752
+iconst -18
+istore h
+istore G
+istore h
+iconst -14
+istore l
+iconst 14

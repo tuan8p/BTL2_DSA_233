@@ -1,0 +1,16 @@
+val D
+iconst -11
+fconst -2.409141
+iload F
+fload E
+fconst -5.778552
+iconst -17
+ibnot
+iconst -13
+fconst -0.387002
+ior
+fconst -1.443261
+fconst -1.957573
+iconst -19
+fconst -3.595387
+iconst 16

@@ -1,0 +1,17 @@
+iconst -17
+iconst 20
+istore a
+iconst 13
+istore I
+istore H
+iconst -14
+iconst -6
+iconst 15
+istore I
+istore f
+istore A
+ieq
+iconst 5
+iconst -5
+fconst -3.348963
+iconst 7

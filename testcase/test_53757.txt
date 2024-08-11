@@ -1,0 +1,17 @@
+fconst 3.964493
+fconst 9.152802
+top
+fstore b
+fstore H
+fstore l
+iconst -16
+ibnot
+istore g
+iconst -9
+istore j
+iconst -1
+fconst -0.369019
+isub
+fstore M
+istore G
+iconst 2

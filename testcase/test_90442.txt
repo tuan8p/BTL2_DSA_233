@@ -1,0 +1,20 @@
+iload m
+ibnot
+iconst 14
+fconst -0.912100
+iload L
+istore I
+fconst -3.460608
+fgt
+i2f
+fadd
+iconst -19
+i2f
+iload A
+fconst 9.653130
+iconst -13
+iconst -5
+fconst -8.509913
+top
+istore M
+ilt

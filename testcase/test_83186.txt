@@ -1,0 +1,19 @@
+iconst -17
+ineg
+fconst -5.101275
+fstore E
+fconst 2.348925
+iconst -15
+fsub
+top
+fconst -3.092129
+fload a
+iconst -8
+igt
+isub
+fconst 9.985062
+iconst -13
+igt
+val d
+fconst 8.984806
+iconst -5

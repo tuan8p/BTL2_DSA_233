@@ -1,0 +1,10 @@
+iconst 16
+iconst -12
+istore a
+istore G
+fconst -0.858530
+istore B
+istore J
+fload H
+fconst 6.171822
+iconst -19

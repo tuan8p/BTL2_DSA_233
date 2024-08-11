@@ -1,0 +1,15 @@
+fconst -3.449203
+iconst 11
+fconst 6.216442
+fconst 6.799217
+iconst 4
+fconst 9.365303
+isub
+fsub
+istore g
+par b
+ineq
+fstore a
+istore C
+istore d
+fload h

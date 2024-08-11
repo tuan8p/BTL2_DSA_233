@@ -1,0 +1,14 @@
+fconst 7.713490
+iload E
+iconst -19
+istore C
+istore L
+par a
+istore C
+iand
+ilt
+iload E
+iload g
+iconst 20
+iconst 7
+fload e

@@ -1,0 +1,11 @@
+iconst 12
+iconst -18
+istore f
+istore C
+fconst 5.404039
+fstore L
+iconst 16
+istore L
+fstore I
+iconst 17
+fstore E

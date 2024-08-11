@@ -1,0 +1,17 @@
+iload i
+iload j
+isub
+i2f
+iconst -13
+iconst -5
+par J
+iconst -8
+fconst -5.109752
+iconst -18
+iload a
+ior
+iload M
+iload M
+fstore m
+igt
+iconst 19

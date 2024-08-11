@@ -1,0 +1,19 @@
+iconst 12
+istore J
+val B
+iload d
+iload b
+ieq
+istore C
+fload c
+fstore c
+fload g
+iload J
+iload B
+fdiv
+fconst -0.790817
+iconst 5
+ibnot
+idiv
+iconst 20
+ineg

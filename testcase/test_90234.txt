@@ -1,0 +1,10 @@
+iconst 17
+fload i
+istore G
+iconst -18
+isub
+ibnot
+fstore E
+fload K
+ilt
+fstore L

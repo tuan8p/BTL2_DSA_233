@@ -1,0 +1,17 @@
+fconst 1.323095
+iconst -19
+fstore B
+istore d
+top
+iconst 5
+istore l
+val J
+iadd
+imul
+fstore l
+istore g
+igt
+iconst -15
+fconst 1.075097
+fconst 9.615953
+fstore d

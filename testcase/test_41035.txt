@@ -1,0 +1,6 @@
+iconst 1
+fconst -0.970587
+top
+fstore a
+istore g
+fconst -7.973438

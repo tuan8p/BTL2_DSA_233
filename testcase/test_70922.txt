@@ -1,0 +1,5 @@
+fconst 7.846460
+par i
+iconst -9
+istore A
+iload D

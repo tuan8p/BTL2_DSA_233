@@ -1,0 +1,12 @@
+fconst -4.922262
+fconst 0.551628
+fconst -1.224109
+fconst -7.514274
+iconst 10
+fconst -8.890243
+fconst 0.066439
+fconst 5.058670
+fconst 0.192060
+iconst -16
+fload L
+iload J

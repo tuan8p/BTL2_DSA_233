@@ -1,0 +1,17 @@
+iconst 19
+iconst -2
+istore E
+fconst 1.315808
+iconst -16
+istore k
+fconst 3.703937
+istore I
+ineq
+irem
+feq
+imul
+fstore g
+fstore i
+istore c
+fstore d
+fstore f

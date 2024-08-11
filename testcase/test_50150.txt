@@ -1,0 +1,15 @@
+val a
+iconst 18
+fload j
+iload m
+fload e
+fdiv
+iconst 15
+feq
+ilt
+istore d
+fstore E
+fconst -3.152977
+fstore A
+feq
+igt

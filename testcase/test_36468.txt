@@ -1,0 +1,8 @@
+fconst 3.392879
+fstore E
+fconst 9.893410
+iconst -18
+par G
+iconst 4
+fconst 9.834862
+fconst -4.968441

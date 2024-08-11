@@ -1,0 +1,15 @@
+iload d
+iconst 14
+iload J
+istore A
+istore f
+istore c
+irem
+irem
+iload f
+iconst -18
+ilt
+imul
+iadd
+istore c
+istore c

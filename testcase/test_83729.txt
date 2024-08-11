@@ -1,0 +1,9 @@
+fconst -4.744338
+fconst -1.767106
+fconst 5.587814
+fgt
+fgt
+fconst 2.395910
+iload C
+istore g
+fconst -8.181499

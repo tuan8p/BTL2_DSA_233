@@ -1,0 +1,16 @@
+iconst -4
+istore a
+istore C
+fconst -9.591760
+istore m
+iconst -16
+istore h
+fconst 5.524307
+iconst -4
+iconst -15
+ineg
+f2i
+ineq
+irem
+istore b
+istore g

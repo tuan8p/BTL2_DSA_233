@@ -1,0 +1,14 @@
+top
+iload c
+fconst 0.649508
+iconst -11
+fconst -0.412189
+iload i
+iconst 15
+iload D
+val B
+iconst 13
+fstore b
+iconst -11
+fconst 0.645515
+feq

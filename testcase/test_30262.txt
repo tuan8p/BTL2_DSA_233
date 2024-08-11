@@ -1,0 +1,16 @@
+fload k
+val I
+iconst -16
+fconst 7.035400
+istore M
+fload m
+fconst -7.233797
+fconst -4.358667
+istore c
+iconst -6
+feq
+fconst 9.773731
+iconst 19
+iconst 16
+fstore F
+fadd

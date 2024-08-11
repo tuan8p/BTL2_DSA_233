@@ -1,0 +1,6 @@
+top
+iconst -17
+iload l
+iconst 14
+iadd
+iload J

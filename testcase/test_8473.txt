@@ -1,0 +1,11 @@
+iload j
+istore b
+istore b
+istore C
+iconst -14
+istore K
+iconst -15
+iload c
+iconst -2
+ieq
+ibnot

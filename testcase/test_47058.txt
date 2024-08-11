@@ -1,0 +1,20 @@
+fload H
+par k
+iconst 11
+istore A
+iload E
+istore l
+ibnot
+fstore l
+istore G
+i2f
+ibnot
+istore K
+iconst -17
+fconst 8.968403
+iload E
+fconst 4.142722
+fstore m
+iconst -17
+fsub
+istore i

@@ -1,0 +1,6 @@
+top
+iload E
+fload C
+fconst -1.510591
+istore K
+fgt

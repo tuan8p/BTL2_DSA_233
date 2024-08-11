@@ -1,0 +1,12 @@
+iconst 15
+iconst -10
+imul
+istore m
+idiv
+iconst -15
+iload m
+iconst -10
+istore E
+iconst 10
+fconst 4.081646
+imul

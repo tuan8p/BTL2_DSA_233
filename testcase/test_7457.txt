@@ -1,0 +1,16 @@
+iload m
+iconst 10
+iadd
+iand
+igt
+iconst 19
+val d
+iload a
+fload A
+iconst 18
+fconst -4.433190
+fconst 8.185883
+iload B
+iload l
+iconst -13
+iload K

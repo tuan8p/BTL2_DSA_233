@@ -1,0 +1,11 @@
+val F
+iload E
+fload c
+iconst -2
+ineg
+fconst -2.703394
+fstore d
+iconst -16
+i2f
+istore C
+istore I

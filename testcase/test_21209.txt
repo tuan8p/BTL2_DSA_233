@@ -1,0 +1,16 @@
+iconst 3
+fconst -8.906777
+iconst 6
+fconst 3.616255
+iadd
+fconst 8.762085
+iconst 1
+fconst -5.044935
+fstore H
+iconst 15
+fconst -6.674505
+iconst -7
+fconst 6.543266
+fmul
+fconst 9.009111
+istore a

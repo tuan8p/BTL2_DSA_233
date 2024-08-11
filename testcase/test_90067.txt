@@ -1,0 +1,19 @@
+iload k
+istore d
+iconst -13
+iconst -10
+istore k
+iload H
+istore c
+iconst 16
+iload F
+iload c
+iconst -14
+iload H
+iconst 7
+istore L
+ibnot
+istore d
+fload K
+fstore k
+ineq

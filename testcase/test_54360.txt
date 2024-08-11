@@ -1,0 +1,11 @@
+iconst -15
+iconst 2
+ineg
+iconst -20
+iload i
+iconst 17
+iconst -10
+fconst -9.736892
+igt
+iload e
+istore h

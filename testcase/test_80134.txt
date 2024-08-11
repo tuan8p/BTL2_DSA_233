@@ -1,0 +1,15 @@
+val J
+iconst -4
+fconst 9.276192
+iload D
+iconst -9
+iload L
+fconst 8.303104
+iconst 18
+feq
+iadd
+fconst 3.028374
+iload K
+irem
+iadd
+fconst 2.337035

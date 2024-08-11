@@ -1,0 +1,20 @@
+iload h
+iconst -11
+iload d
+idiv
+iload D
+fconst 5.111795
+fstore B
+fstore e
+iload k
+iload A
+istore I
+iconst -15
+fstore J
+iload K
+fconst -9.570870
+fstore e
+iload I
+fstore a
+fconst 0.326717
+iconst 10

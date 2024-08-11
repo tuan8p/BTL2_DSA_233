@@ -1,0 +1,14 @@
+iconst -10
+top
+iconst 15
+iconst 18
+i2f
+iload l
+istore i
+iconst 10
+fconst -4.958429
+fconst 4.733692
+fconst 8.726179
+ior
+iconst 18
+iconst 7

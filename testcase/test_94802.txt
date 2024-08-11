@@ -1,0 +1,21 @@
+iload h
+iload k
+par g
+val j
+fload f
+iconst 1
+fstore a
+fneg
+iload h
+iload J
+iload f
+fstore h
+fstore D
+iload K
+i2f
+fconst 9.255861
+fload d
+istore g
+iconst 8
+fstore h
+f2i

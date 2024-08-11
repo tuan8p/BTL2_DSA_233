@@ -1,0 +1,23 @@
+top
+fconst 5.369214
+iconst -6
+istore C
+fstore f
+iconst -16
+iconst 11
+iadd
+ibnot
+fconst -1.131004
+fconst -3.808205
+fmul
+iconst -15
+fadd
+ior
+iload K
+fstore K
+fstore b
+fstore F
+fstore g
+fstore L
+istore e
+iload m

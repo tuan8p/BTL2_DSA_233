@@ -1,0 +1,11 @@
+iconst -9
+istore g
+val d
+iconst 17
+iconst 12
+imul
+iconst -4
+idiv
+top
+iconst 12
+istore D

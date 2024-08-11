@@ -1,0 +1,10 @@
+fconst -3.706495
+fstore J
+fstore e
+iconst 13
+fneg
+iconst -11
+ineq
+fstore l
+iconst -1
+ineg

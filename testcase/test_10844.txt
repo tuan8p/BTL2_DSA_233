@@ -1,0 +1,13 @@
+iload k
+val M
+iconst -17
+fconst -0.264141
+fconst -0.228824
+par K
+iconst 2
+iload c
+iadd
+iload B
+iconst -4
+iconst 14
+i2f

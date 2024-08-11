@@ -1,0 +1,13 @@
+fload L
+fstore i
+par H
+iconst -6
+fload c
+istore K
+iload I
+fstore L
+iconst -5
+fload L
+fconst 1.772165
+fmul
+fgt

@@ -1,0 +1,16 @@
+iconst 9
+i2f
+fconst 2.230607
+i2f
+iconst 4
+iconst -5
+iconst -15
+iconst -9
+fconst -5.536874
+flt
+iload m
+fconst 2.992905
+iconst -3
+fconst -7.019202
+fconst 8.376183
+iload b

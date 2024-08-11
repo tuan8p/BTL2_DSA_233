@@ -1,0 +1,17 @@
+iload i
+fload a
+iload B
+iload f
+isub
+fconst -7.531470
+fstore c
+ieq
+fconst 2.891817
+iconst 4
+fconst -5.298109
+fconst 2.446456
+iconst -20
+fstore g
+imul
+fload k
+par K

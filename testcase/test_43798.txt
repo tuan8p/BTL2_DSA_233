@@ -1,0 +1,15 @@
+iload M
+val K
+iload L
+iload L
+iload M
+istore F
+istore J
+iload F
+istore M
+iand
+ibnot
+istore L
+igt
+iload f
+istore L

@@ -1,0 +1,12 @@
+iconst 2
+par L
+iload A
+ineq
+iconst 10
+iconst -14
+fconst 7.014709
+istore j
+iload B
+fstore g
+fconst -2.895070
+iload B

@@ -1,0 +1,19 @@
+fconst 3.436481
+fconst -1.789384
+iload E
+iload i
+fconst 6.897860
+iconst 19
+iconst 3
+ieq
+fconst 9.149624
+iconst -19
+iload F
+fconst -6.460480
+iload m
+idiv
+iconst 15
+fmul
+iload e
+ilt
+fconst -2.195173

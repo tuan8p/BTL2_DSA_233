@@ -1,0 +1,12 @@
+fconst -7.011558
+fneg
+iload f
+iconst -2
+iconst -10
+fconst -6.629702
+iconst -8
+fconst -4.944856
+iconst 1
+iload m
+iconst 5
+iconst 11

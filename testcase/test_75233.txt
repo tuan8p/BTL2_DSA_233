@@ -1,0 +1,15 @@
+fload G
+iconst 6
+iconst -3
+fstore E
+iconst -20
+fload F
+fstore l
+feq
+imul
+istore c
+fgt
+ior
+istore K
+irem
+iload E

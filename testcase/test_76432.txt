@@ -1,0 +1,16 @@
+iload D
+istore b
+fconst -5.380881
+fconst -9.018229
+fgt
+istore g
+fload b
+iload D
+iconst 20
+fsub
+istore M
+iload B
+iconst 16
+istore K
+iload M
+irem

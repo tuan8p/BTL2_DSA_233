@@ -1,0 +1,8 @@
+iload D
+iconst 4
+fconst 3.965704
+iconst 0
+iload F
+irem
+fstore i
+igt

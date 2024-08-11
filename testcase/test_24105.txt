@@ -1,0 +1,10 @@
+fconst 2.737302
+iconst 13
+iconst -16
+ineg
+fstore B
+val h
+fload G
+iconst 4
+feq
+istore B

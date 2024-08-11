@@ -1,0 +1,17 @@
+iconst 19
+istore G
+ineg
+iconst -5
+istore d
+igt
+fconst 7.558540
+fconst -1.657864
+fstore C
+i2f
+fneg
+fstore d
+fconst -1.864363
+fconst 7.268034
+fstore k
+fstore F
+fneg

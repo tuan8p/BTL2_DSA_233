@@ -1,0 +1,17 @@
+iconst 0
+par M
+iconst 3
+par k
+iconst -8
+iconst 3
+iconst -14
+iconst -9
+fconst 6.778839
+fconst 2.606658
+iconst 3
+iconst 14
+val F
+fconst -7.567451
+iconst 18
+istore F
+fconst 8.825357

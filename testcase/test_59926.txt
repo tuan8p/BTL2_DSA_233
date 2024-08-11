@@ -1,0 +1,11 @@
+iload f
+istore m
+iconst -19
+istore G
+i2f
+imul
+istore m
+fconst -4.427697
+igt
+istore g
+fload j

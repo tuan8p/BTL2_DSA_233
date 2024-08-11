@@ -1,0 +1,10 @@
+iconst 20
+fconst 3.049010
+istore E
+fstore G
+istore l
+ineg
+istore m
+iconst -9
+fconst 8.660372
+iconst 7

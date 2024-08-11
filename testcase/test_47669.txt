@@ -1,0 +1,20 @@
+iconst 17
+iconst -6
+fconst -3.535014
+fconst 9.091347
+fconst 0.921768
+fconst 1.488375
+iconst -17
+fconst -3.868011
+ilt
+fadd
+fneg
+fload E
+ineq
+fneg
+fload i
+iadd
+istore m
+fconst -1.873395
+fstore c
+fstore c

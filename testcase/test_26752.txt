@@ -1,0 +1,11 @@
+iconst 6
+istore c
+val g
+fconst 6.579956
+fstore I
+fconst -2.807639
+fstore j
+fneq
+val i
+iconst -11
+iconst 13

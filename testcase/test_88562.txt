@@ -1,0 +1,18 @@
+iconst 2
+iload A
+ior
+val J
+iconst -10
+imul
+istore E
+istore L
+istore A
+iconst 11
+iadd
+i2f
+iload M
+i2f
+fconst 5.175144
+iconst 16
+iload D
+ilt

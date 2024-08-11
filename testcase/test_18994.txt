@@ -1,0 +1,10 @@
+iconst 6
+iconst 14
+iconst -20
+fconst 7.614906
+iconst 11
+top
+ineg
+ior
+ineq
+fload j

@@ -1,0 +1,9 @@
+fconst 1.245542
+iconst 13
+par J
+istore j
+iconst -15
+ieq
+iconst -2
+fconst 3.567118
+fconst 7.124369

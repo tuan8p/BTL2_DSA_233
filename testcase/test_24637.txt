@@ -1,0 +1,12 @@
+fconst -3.392502
+fstore b
+iconst -15
+ineg
+fstore f
+iconst 3
+iand
+fconst -7.926192
+f2i
+ineq
+fconst -7.597973
+iadd

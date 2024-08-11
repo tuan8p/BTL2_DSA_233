@@ -1,0 +1,15 @@
+iconst -8
+iconst 15
+iload L
+val B
+iconst -18
+ineg
+iand
+iconst -4
+val f
+iconst 0
+fconst 4.311230
+fconst -7.130260
+iconst 18
+istore B
+ineg

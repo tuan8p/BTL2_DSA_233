@@ -1,0 +1,17 @@
+par A
+fconst -7.378151
+iconst 17
+fconst -6.965283
+iconst -3
+iconst -5
+iconst -17
+istore l
+fstore E
+fconst 9.065653
+istore E
+istore C
+fconst -9.303105
+iconst 4
+top
+fstore F
+istore b

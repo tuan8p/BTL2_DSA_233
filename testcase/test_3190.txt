@@ -1,0 +1,12 @@
+par e
+fconst 9.527046
+top
+iconst -19
+fconst -0.235669
+iconst 19
+iconst 13
+fconst -2.648616
+iconst 6
+fstore D
+ilt
+fdiv

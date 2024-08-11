@@ -1,0 +1,15 @@
+fload D
+iload C
+fconst 9.379745
+fconst 8.870705
+fstore K
+fconst 4.626740
+val D
+istore i
+fstore d
+fload C
+iload J
+ineq
+iload f
+fstore J
+fload D

@@ -1,0 +1,13 @@
+iconst -16
+iload j
+istore d
+imul
+iconst 0
+iconst 8
+ineq
+fconst 3.876904
+iconst 13
+irem
+fconst 1.935249
+igt
+fconst -7.192745

@@ -1,0 +1,21 @@
+iconst 13
+iconst 15
+fconst -0.812589
+fload E
+ieq
+iconst 9
+fadd
+istore f
+iconst -11
+istore j
+fneq
+iconst 3
+igt
+val B
+ilt
+iconst -11
+iconst -15
+ibnot
+fconst 8.105686
+iload I
+iconst 7

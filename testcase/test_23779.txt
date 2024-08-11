@@ -1,0 +1,17 @@
+iload k
+istore a
+top
+fconst -4.213241
+iconst -9
+fconst -8.802063
+iconst 20
+ibnot
+fneq
+idiv
+fstore C
+fconst 2.399939
+val I
+fsub
+ineq
+fstore I
+istore b

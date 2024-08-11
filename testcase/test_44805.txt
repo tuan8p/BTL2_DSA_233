@@ -1,0 +1,11 @@
+iconst 20
+fconst -5.810737
+i2f
+iconst -10
+iconst 3
+fstore F
+fconst 4.608156
+fconst -6.217999
+iconst -17
+iconst -9
+fneg

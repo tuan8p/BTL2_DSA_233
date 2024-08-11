@@ -1,0 +1,19 @@
+fload B
+iload A
+iload k
+iconst -6
+istore F
+fconst -6.657348
+istore B
+fconst -7.861902
+irem
+isub
+iconst 13
+top
+iload F
+istore b
+iconst 13
+fconst -5.735221
+val k
+iconst 13
+iload d

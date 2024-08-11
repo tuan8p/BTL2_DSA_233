@@ -1,0 +1,24 @@
+iconst 7
+iconst 9
+iload E
+fconst -8.099895
+ineq
+fconst -9.853240
+fconst -7.775215
+iconst -10
+iadd
+iconst -14
+iconst 16
+fadd
+fstore G
+val h
+f2i
+iconst 10
+fstore k
+istore A
+fneg
+fstore B
+fconst 6.676718
+fconst 3.202017
+iadd
+fneq

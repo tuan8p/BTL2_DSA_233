@@ -1,0 +1,11 @@
+iconst 3
+iload c
+i2f
+fload e
+fload j
+iconst 17
+fneg
+fload L
+fconst 7.089336
+iload H
+fconst 7.338701

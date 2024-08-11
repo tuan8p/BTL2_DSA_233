@@ -1,0 +1,15 @@
+iload C
+fconst -2.865037
+iconst 4
+iconst 1
+ineq
+iand
+imul
+fstore J
+fconst 3.300419
+iconst 2
+val B
+irem
+iconst -17
+fconst 5.151734
+fmul

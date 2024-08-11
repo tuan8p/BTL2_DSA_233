@@ -1,0 +1,15 @@
+val C
+iconst 20
+iconst 12
+iconst -5
+ior
+fconst 5.238608
+ilt
+ilt
+fstore k
+iconst 4
+fconst -2.580509
+istore e
+iconst 8
+fstore F
+ilt

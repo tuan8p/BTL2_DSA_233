@@ -1,0 +1,16 @@
+iconst -2
+iconst 14
+fconst 8.456297
+istore D
+igt
+iconst 15
+iload e
+fconst -4.479806
+ilt
+par e
+fconst -2.484594
+ineq
+fconst 7.808619
+iconst 0
+fconst 9.571537
+fconst 1.041538

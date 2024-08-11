@@ -1,0 +1,10 @@
+iload A
+iload A
+iload l
+isub
+istore D
+ieq
+istore K
+fload K
+iconst -13
+iload K

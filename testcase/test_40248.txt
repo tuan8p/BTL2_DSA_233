@@ -1,0 +1,14 @@
+fconst 3.176847
+iconst 18
+iload d
+istore g
+istore L
+ibnot
+fconst 3.139106
+istore K
+istore J
+top
+iconst 18
+istore E
+fstore g
+iload F

@@ -1,0 +1,10 @@
+iconst 11
+istore B
+istore g
+istore h
+istore M
+iload b
+iand
+iconst -13
+fconst -1.295671
+fneg

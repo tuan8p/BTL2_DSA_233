@@ -1,0 +1,11 @@
+par e
+iconst 7
+fconst 7.107422
+fstore j
+fconst -0.236778
+fstore D
+fconst -4.209678
+iload A
+fstore J
+fadd
+val A

@@ -1,0 +1,21 @@
+iconst -18
+iconst 6
+iconst -17
+iload m
+iconst 6
+ineg
+istore L
+istore g
+fconst 5.949293
+iload m
+iand
+iconst 3
+istore F
+ineg
+iadd
+fconst -7.625430
+istore M
+iand
+iadd
+fconst 5.128218
+iload L

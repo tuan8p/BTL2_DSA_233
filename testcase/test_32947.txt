@@ -1,0 +1,21 @@
+fconst 2.130561
+iconst 20
+par D
+iload f
+fstore d
+iconst 16
+fstore A
+irem
+fstore f
+fstore f
+fstore f
+fconst 2.080153
+fstore i
+fstore M
+ibnot
+ineg
+fconst 0.507611
+iadd
+iconst 20
+iconst -11
+fconst -9.143229

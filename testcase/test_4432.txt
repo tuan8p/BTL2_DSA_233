@@ -1,0 +1,8 @@
+fconst -3.553819
+fconst -5.636519
+top
+fload K
+par M
+fconst 6.951424
+fconst 8.095224
+fconst -4.853501

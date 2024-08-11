@@ -1,0 +1,20 @@
+fload H
+iload C
+istore F
+par I
+iload H
+istore h
+istore a
+val a
+fconst 8.769033
+idiv
+ineq
+fload d
+par I
+f2i
+fconst 3.139992
+iconst 6
+iconst 16
+iload H
+fconst 3.452919
+istore A

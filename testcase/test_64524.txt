@@ -1,0 +1,5 @@
+iload J
+fconst -3.739073
+iload j
+fconst -3.054252
+istore f

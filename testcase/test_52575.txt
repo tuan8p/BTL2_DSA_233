@@ -1,0 +1,19 @@
+fconst 8.389698
+iconst 4
+istore H
+val c
+fstore d
+iconst 17
+par K
+iand
+fstore b
+istore m
+istore d
+iconst 11
+iconst 20
+fconst -9.642286
+istore F
+istore M
+irem
+iconst 9
+istore B

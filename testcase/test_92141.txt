@@ -1,0 +1,23 @@
+fconst 3.247807
+fstore b
+iconst 10
+fconst -5.800290
+fadd
+iconst -16
+fconst 8.345604
+istore B
+iconst -12
+fsub
+iadd
+fconst 3.006152
+fstore M
+iconst 4
+fconst 0.508408
+fconst -8.220222
+fstore d
+flt
+fstore d
+flt
+fconst 3.361370
+fconst 9.460808
+istore F

@@ -1,0 +1,21 @@
+val f
+iconst 2
+fload F
+istore j
+iload C
+fload g
+iload k
+iconst 3
+fstore a
+fconst 1.476421
+ieq
+istore i
+isub
+fstore M
+iload b
+iload K
+istore m
+f2i
+flt
+iconst -5
+istore i

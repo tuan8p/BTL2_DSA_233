@@ -1,0 +1,14 @@
+fload D
+iconst 18
+fstore b
+ibnot
+fstore a
+fload a
+iconst -9
+iconst -11
+val I
+fmul
+iconst -20
+iconst 10
+iload L
+fstore f

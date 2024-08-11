@@ -1,0 +1,14 @@
+fconst -3.990249
+fconst 2.435418
+par D
+iconst -14
+fconst 7.715611
+fconst 1.664762
+fconst 8.579245
+ibnot
+iconst 12
+fconst -6.508801
+iconst -11
+fconst -1.479728
+iconst -7
+fconst -0.773560

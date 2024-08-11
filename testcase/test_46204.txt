@@ -1,0 +1,6 @@
+iconst 14
+istore g
+istore M
+ibnot
+iload e
+iconst 19

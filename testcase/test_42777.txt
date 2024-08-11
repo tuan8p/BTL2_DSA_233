@@ -1,0 +1,10 @@
+iconst 15
+istore H
+iconst -13
+fload a
+iconst -16
+iload H
+fconst -4.359758
+fdiv
+top
+iload j

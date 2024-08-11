@@ -1,0 +1,18 @@
+fconst 7.535259
+fstore A
+fconst -9.705496
+iconst -2
+fconst -7.848755
+iconst 18
+fsub
+fconst 6.234964
+istore g
+fconst 2.598669
+fconst 6.996401
+irem
+iconst -4
+iconst 17
+fconst 1.175638
+fstore D
+iconst -19
+fconst -4.250934

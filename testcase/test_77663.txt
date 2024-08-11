@@ -1,0 +1,12 @@
+iload g
+fconst -6.044432
+iconst 16
+fconst -8.347534
+top
+iconst -11
+iconst -5
+fload d
+flt
+istore k
+irem
+ineq

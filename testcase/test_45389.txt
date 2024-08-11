@@ -1,0 +1,19 @@
+fload h
+fneg
+top
+iload G
+iconst 2
+istore L
+istore D
+istore j
+iand
+f2i
+par B
+fstore D
+fload m
+iconst -15
+fload C
+istore G
+iload g
+ibnot
+flt

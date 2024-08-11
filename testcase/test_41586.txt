@@ -1,0 +1,20 @@
+iconst 5
+val M
+iconst 9
+fconst 2.883549
+istore h
+istore F
+istore m
+fstore e
+iadd
+iconst 6
+fconst 9.069098
+igt
+iconst -20
+ineg
+fstore k
+fstore g
+istore A
+istore k
+fconst 9.635292
+fstore b

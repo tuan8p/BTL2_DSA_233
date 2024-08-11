@@ -1,0 +1,8 @@
+iconst -6
+istore i
+i2f
+istore A
+fload E
+fstore L
+fstore H
+fstore g

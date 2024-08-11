@@ -1,0 +1,12 @@
+iconst 0
+iload b
+ilt
+iconst -13
+val D
+iconst 9
+iload B
+iconst 0
+iconst 6
+val g
+iconst 7
+fconst -2.643955

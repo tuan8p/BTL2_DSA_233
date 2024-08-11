@@ -1,0 +1,22 @@
+iconst 3
+iconst 3
+par c
+iload A
+fload a
+fstore C
+fstore E
+iconst 6
+iconst 9
+iload l
+istore i
+top
+iload C
+ineg
+fload A
+iload M
+iload f
+iadd
+iconst -5
+fload A
+iconst 13
+iconst 4

@@ -1,0 +1,10 @@
+iconst 12
+istore M
+iconst 12
+iconst 12
+ibnot
+par k
+fload h
+fload A
+iconst -5
+iconst 11

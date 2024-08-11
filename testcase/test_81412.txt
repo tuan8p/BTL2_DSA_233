@@ -1,0 +1,11 @@
+top
+iload c
+iload K
+istore a
+fconst -2.728161
+istore g
+istore d
+fstore m
+fstore F
+fstore A
+fload h

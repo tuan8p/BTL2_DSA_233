@@ -1,0 +1,11 @@
+iconst 1
+par L
+istore B
+iconst 19
+i2f
+fconst 2.198172
+fstore B
+fstore C
+f2i
+fconst 8.225082
+fneq

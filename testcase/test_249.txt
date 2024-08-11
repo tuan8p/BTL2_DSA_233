@@ -1,0 +1,11 @@
+iconst 19
+istore H
+par i
+istore m
+istore E
+fconst 1.116749
+istore J
+fconst -5.439608
+par h
+fconst -5.052515
+fload f

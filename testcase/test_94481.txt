@@ -1,0 +1,12 @@
+iconst -7
+iconst -12
+isub
+iload J
+istore i
+ilt
+fconst 2.684260
+iconst 0
+isub
+iload c
+iload E
+iconst 7

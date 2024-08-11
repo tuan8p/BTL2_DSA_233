@@ -1,0 +1,18 @@
+iconst 13
+val M
+istore K
+fload C
+iload a
+iload f
+iconst 1
+iadd
+istore d
+ieq
+istore e
+fstore j
+iconst -12
+istore m
+iconst 2
+istore G
+ineq
+iload e

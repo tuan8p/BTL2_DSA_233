@@ -1,0 +1,18 @@
+iload D
+ibnot
+iconst 12
+iload b
+iconst 5
+iload L
+iconst 9
+iconst 4
+istore g
+isub
+istore k
+iload J
+istore C
+imul
+fconst 1.860608
+istore b
+iload m
+val D

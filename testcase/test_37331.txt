@@ -1,0 +1,12 @@
+iconst -12
+fconst 6.761656
+iconst -8
+fstore f
+iconst -18
+iconst -2
+iload H
+iload D
+iload b
+val m
+iload C
+ineq

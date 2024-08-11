@@ -1,0 +1,15 @@
+val h
+iconst -14
+iconst -5
+iconst -13
+iconst 8
+imul
+istore d
+iconst 17
+istore G
+ior
+fconst -1.315851
+iload m
+istore l
+iload k
+imul

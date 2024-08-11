@@ -1,0 +1,21 @@
+iconst 5
+iconst 7
+istore A
+fconst -5.621129
+istore g
+istore H
+fconst 4.321337
+iconst 5
+istore H
+ineq
+iconst 15
+fconst 3.996845
+fstore I
+feq
+fstore c
+fmul
+top
+fstore L
+fstore g
+irem
+iconst 1

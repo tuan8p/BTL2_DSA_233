@@ -1,0 +1,11 @@
+iconst -19
+iload D
+iconst -2
+fconst 0.211742
+ilt
+irem
+iconst 14
+iconst 2
+i2f
+iconst -10
+iconst 8

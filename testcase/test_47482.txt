@@ -1,0 +1,15 @@
+iconst 19
+istore h
+istore i
+istore M
+fload C
+istore k
+fload e
+top
+fconst 0.647355
+fadd
+fstore L
+istore B
+istore L
+istore L
+istore c

@@ -1,0 +1,15 @@
+fconst 4.103202
+val K
+fconst 4.650207
+top
+fsub
+iconst -19
+fconst -0.316107
+fneg
+fmul
+fgt
+fload e
+iconst 16
+iload d
+imul
+iconst -2

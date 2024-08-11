@@ -1,0 +1,10 @@
+iload J
+val F
+iconst 8
+fconst -9.969027
+ibnot
+istore H
+i2f
+fstore i
+istore K
+fload m

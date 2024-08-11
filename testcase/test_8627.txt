@@ -1,0 +1,12 @@
+iconst 2
+top
+par h
+iconst -20
+istore c
+top
+iconst -9
+ior
+iconst 5
+fconst 5.925170
+irem
+fstore I

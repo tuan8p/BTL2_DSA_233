@@ -1,0 +1,10 @@
+iconst -3
+iload j
+iload J
+ilt
+iconst 19
+iconst 6
+istore g
+ieq
+iconst 18
+fload F

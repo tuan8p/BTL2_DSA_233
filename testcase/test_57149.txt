@@ -1,0 +1,9 @@
+top
+fload L
+top
+f2i
+iload I
+iconst -9
+istore H
+fload i
+iconst 6

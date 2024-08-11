@@ -1,0 +1,22 @@
+fconst -6.955241
+fstore A
+fconst -7.047823
+fstore D
+fconst -6.867755
+iconst 15
+istore k
+feq
+iconst 1
+iconst 15
+fconst -3.174234
+ibnot
+istore k
+iconst -4
+istore I
+irem
+fconst 8.134670
+fstore I
+imul
+iconst 18
+fstore h
+fadd

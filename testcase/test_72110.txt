@@ -1,0 +1,17 @@
+fconst 2.502010
+iconst 11
+iconst 12
+iconst -14
+istore d
+istore h
+istore m
+istore j
+isub
+istore e
+fstore l
+iconst 20
+isub
+istore c
+iload J
+iload M
+fstore A

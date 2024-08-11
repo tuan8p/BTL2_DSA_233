@@ -1,0 +1,6 @@
+iconst 6
+fconst 3.075407
+fstore D
+fstore K
+fconst -1.637210
+iconst 1

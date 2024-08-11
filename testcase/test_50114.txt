@@ -1,0 +1,19 @@
+fload a
+iconst 4
+iconst 13
+fconst -9.392763
+fconst -0.420644
+iconst -5
+istore I
+istore i
+fconst 7.444857
+par k
+fconst 3.759073
+ineq
+fneq
+fstore K
+iconst -19
+istore E
+f2i
+ineq
+fload l

@@ -1,0 +1,11 @@
+fload b
+fstore F
+val I
+fconst 7.380648
+fmul
+fstore e
+iconst 12
+fstore K
+iload A
+fstore M
+fstore B

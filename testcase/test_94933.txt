@@ -1,0 +1,16 @@
+iconst 0
+iconst 9
+ilt
+iconst -13
+iconst -5
+ibnot
+iconst -19
+iand
+igt
+istore K
+top
+iconst 8
+istore I
+iload D
+iconst -7
+fload L

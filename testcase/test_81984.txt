@@ -1,0 +1,14 @@
+iconst 20
+iconst -9
+iconst -1
+ibnot
+val L
+isub
+iload B
+iconst -14
+iconst -20
+ibnot
+iconst -3
+i2f
+top
+iconst 2

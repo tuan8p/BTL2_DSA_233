@@ -1,0 +1,12 @@
+iload F
+iconst -11
+iand
+idiv
+i2f
+fconst 6.621964
+ilt
+fstore m
+iconst -17
+iconst -11
+fstore g
+iload E

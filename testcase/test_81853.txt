@@ -1,0 +1,12 @@
+par L
+iconst 14
+iconst 10
+istore M
+iconst 12
+fconst -0.005441
+istore E
+fconst -5.830746
+fconst -6.925882
+iconst -4
+imul
+fconst -5.191596

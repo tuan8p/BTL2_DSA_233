@@ -1,0 +1,7 @@
+iconst 7
+fconst 1.805177
+fstore g
+fconst 5.988806
+fconst -0.061248
+istore b
+fconst -5.990330

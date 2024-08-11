@@ -1,0 +1,13 @@
+iconst 1
+iconst 11
+i2f
+iconst -17
+iload I
+iload l
+iload h
+ilt
+iload G
+istore G
+istore c
+iload k
+ibnot

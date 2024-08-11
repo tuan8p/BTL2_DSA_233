@@ -1,0 +1,14 @@
+iload G
+istore B
+istore i
+istore J
+iload K
+top
+iand
+ilt
+iload c
+iconst -10
+ieq
+istore a
+top
+iconst -17

@@ -1,0 +1,14 @@
+fconst -0.062918
+fstore H
+fstore M
+fconst 5.499434
+fconst 0.805542
+fstore C
+fconst 9.897087
+fconst 1.567697
+fconst 2.206682
+fconst 2.421717
+fneg
+fconst 3.776971
+fconst 3.098788
+iconst 15

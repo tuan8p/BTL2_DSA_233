@@ -1,0 +1,20 @@
+fload d
+fload e
+f2i
+top
+fconst 3.012489
+iconst -9
+fstore d
+fconst -5.333737
+fload A
+top
+fconst 2.792687
+val J
+iconst 13
+fconst 5.148300
+fconst 4.984303
+fstore i
+iconst -18
+fload L
+fconst -9.518517
+fstore a

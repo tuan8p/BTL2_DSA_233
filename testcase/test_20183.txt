@@ -1,0 +1,16 @@
+iload K
+par K
+fload f
+fconst 2.977351
+iconst -9
+istore g
+iconst 3
+ineg
+fconst -8.151102
+istore g
+iload B
+fsub
+fconst -9.948154
+iload B
+iconst 14
+iload f

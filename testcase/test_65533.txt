@@ -1,0 +1,10 @@
+val J
+fconst -5.209965
+iconst -12
+iload c
+fstore F
+iconst -11
+fstore C
+istore c
+istore K
+istore L

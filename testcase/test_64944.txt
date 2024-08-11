@@ -1,0 +1,20 @@
+iload b
+iload e
+fload j
+iload A
+fconst 9.438559
+fmul
+fadd
+top
+fadd
+imul
+istore I
+fload c
+ibnot
+fmul
+f2i
+irem
+iconst -9
+ieq
+fconst -1.241923
+iload H

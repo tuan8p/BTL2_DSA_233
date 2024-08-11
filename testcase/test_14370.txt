@@ -1,0 +1,13 @@
+iconst 12
+iconst -12
+iload B
+fconst -4.293830
+iload I
+fneg
+iadd
+fconst -4.067742
+iconst -9
+iconst -10
+iconst 2
+fconst -9.249176
+iconst 4

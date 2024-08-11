@@ -1,0 +1,15 @@
+fload b
+iconst 18
+iconst 9
+i2f
+istore I
+ilt
+ilt
+imul
+idiv
+fconst 4.488342
+ineg
+par m
+fgt
+istore m
+fconst -2.805756

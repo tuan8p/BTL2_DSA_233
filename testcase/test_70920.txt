@@ -1,0 +1,9 @@
+iconst -2
+iconst 17
+iload c
+ieq
+iadd
+fconst -1.128903
+fneg
+iconst 0
+fload C

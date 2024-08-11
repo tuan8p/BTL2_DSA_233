@@ -1,0 +1,12 @@
+iload m
+top
+istore h
+iconst -12
+iload E
+iconst 7
+iconst 2
+iconst 7
+fconst -3.666009
+istore E
+fneg
+iconst 12

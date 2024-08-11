@@ -1,0 +1,21 @@
+iconst -11
+top
+iload B
+istore f
+iconst 1
+iconst -19
+iload e
+fload b
+iload L
+fload c
+iload B
+iconst 9
+iconst -12
+ibnot
+istore k
+iconst -19
+i2f
+fload G
+iload D
+iconst -5
+iconst -4

@@ -1,0 +1,19 @@
+fconst -9.633020
+iload b
+iconst -18
+istore c
+fconst 3.777409
+iconst 12
+iconst 5
+fconst 2.068125
+par B
+fadd
+fstore J
+fconst -4.849957
+iconst 10
+fstore l
+fstore f
+istore A
+ineg
+iload f
+iconst 18

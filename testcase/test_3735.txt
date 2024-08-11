@@ -1,0 +1,12 @@
+iload E
+iconst -5
+fload m
+iload b
+iand
+fconst -1.746265
+par b
+fgt
+ineg
+iconst 5
+val F
+feq

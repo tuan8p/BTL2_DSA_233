@@ -1,0 +1,14 @@
+fconst 6.877314
+fconst -0.350717
+fconst 3.049349
+fconst -1.666281
+iconst 14
+flt
+fconst 0.467148
+f2i
+fstore B
+iconst 2
+fconst 9.154718
+fload m
+ineg
+iconst -7

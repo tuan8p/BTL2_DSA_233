@@ -1,0 +1,12 @@
+iconst 0
+iconst 9
+istore b
+iconst -15
+iload K
+iconst 8
+iconst -6
+top
+iload k
+fconst -3.890418
+fconst -3.381207
+idiv

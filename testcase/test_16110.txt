@@ -1,0 +1,11 @@
+fconst 5.798658
+iconst 18
+fstore A
+fstore C
+fconst 0.422069
+ineg
+val f
+fstore C
+i2f
+fstore m
+iconst 15

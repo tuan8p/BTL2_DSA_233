@@ -1,0 +1,20 @@
+iconst -4
+istore H
+fconst -0.636558
+istore D
+fconst 2.336977
+iconst 14
+fconst -3.909759
+val e
+fconst 2.804488
+fconst 2.428174
+irem
+fconst -0.742780
+par I
+ineg
+top
+istore D
+istore E
+iconst -3
+istore g
+ieq

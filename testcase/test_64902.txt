@@ -1,0 +1,12 @@
+fconst -5.273432
+iload e
+iconst 15
+iconst 14
+iload k
+ineg
+idiv
+iconst -6
+iconst -15
+val F
+iload c
+iload K

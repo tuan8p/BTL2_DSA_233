@@ -1,0 +1,7 @@
+top
+fconst -1.674310
+val G
+fconst -8.106163
+iconst -4
+iconst 12
+fstore g

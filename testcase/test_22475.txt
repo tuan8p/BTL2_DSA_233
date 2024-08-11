@@ -1,0 +1,19 @@
+iload b
+iload A
+istore B
+ineq
+iload a
+iconst -13
+imul
+iconst -3
+iconst -8
+iload F
+istore F
+par b
+iload h
+istore a
+fload b
+idiv
+fload m
+val G
+par M

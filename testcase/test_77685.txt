@@ -1,0 +1,20 @@
+iload A
+iconst -14
+ineq
+par D
+irem
+irem
+fconst -9.520727
+fload B
+top
+fconst 5.573946
+istore D
+isub
+fconst 8.234280
+imul
+fadd
+iconst -7
+irem
+fneq
+fconst -7.903927
+fload f

@@ -1,0 +1,18 @@
+val C
+fconst -8.093280
+fconst -3.480863
+fconst -6.728349
+fconst -6.976045
+fconst 3.568764
+fconst -3.741217
+iload I
+fconst 1.690796
+fconst 6.680101
+iconst 20
+fconst 0.552591
+top
+fconst -5.609764
+par E
+iload f
+istore G
+iconst -4

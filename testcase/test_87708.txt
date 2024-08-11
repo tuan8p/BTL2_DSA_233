@@ -1,0 +1,17 @@
+par j
+fconst 7.603905
+fstore E
+iconst 17
+iconst -11
+istore E
+fconst -0.651157
+fconst -5.869267
+istore b
+fstore m
+iand
+fconst 4.879982
+iconst 9
+istore L
+fstore B
+fconst 1.316734
+istore e

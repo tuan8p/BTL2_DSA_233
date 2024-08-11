@@ -1,0 +1,10 @@
+iconst -10
+iload H
+iload h
+istore f
+iconst -3
+iconst -18
+fconst -8.920202
+iconst 0
+fconst 5.240187
+iconst -9

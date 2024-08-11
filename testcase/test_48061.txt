@@ -1,0 +1,10 @@
+fconst 9.280066
+par I
+iconst -19
+iload d
+fconst -3.595200
+iload I
+val d
+iconst 10
+fstore A
+iadd

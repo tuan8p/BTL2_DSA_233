@@ -1,0 +1,9 @@
+iconst -19
+iconst -11
+fconst 3.535593
+fconst -2.697664
+istore J
+iand
+par C
+iconst 11
+fstore m

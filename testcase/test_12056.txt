@@ -1,0 +1,13 @@
+fload I
+iconst 3
+iconst 19
+val j
+fconst -9.711989
+fconst 3.163749
+iload G
+fdiv
+imul
+iconst -3
+fstore G
+ilt
+fstore b

@@ -1,0 +1,19 @@
+iload E
+istore A
+fload i
+i2f
+iconst -13
+istore G
+fconst 3.156462
+fstore g
+ieq
+val a
+fsub
+iload m
+fload l
+ineg
+iload l
+iconst -12
+fstore a
+fconst 0.834459
+i2f

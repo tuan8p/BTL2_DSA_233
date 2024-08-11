@@ -1,0 +1,11 @@
+iload J
+iconst -11
+val k
+istore J
+fconst 3.821664
+idiv
+fstore l
+iconst -15
+fconst 9.473732
+flt
+fconst 4.046844

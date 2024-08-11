@@ -1,0 +1,9 @@
+iconst -4
+iconst -7
+iconst -15
+iconst -18
+fconst -1.615727
+fconst 2.127742
+ilt
+fconst 4.213457
+istore g

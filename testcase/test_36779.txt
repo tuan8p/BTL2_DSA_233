@@ -1,0 +1,10 @@
+par i
+fconst 3.021359
+fstore h
+iconst -17
+iconst 2
+iconst -18
+iconst -20
+fstore B
+ibnot
+ilt

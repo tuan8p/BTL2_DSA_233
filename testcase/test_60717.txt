@@ -1,0 +1,14 @@
+fload e
+fneg
+fconst 0.956884
+iconst 14
+istore d
+iconst 18
+iload D
+iconst 5
+istore L
+iload h
+ilt
+fconst -1.333579
+iadd
+iconst -4

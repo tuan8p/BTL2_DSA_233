@@ -1,0 +1,4 @@
+val K
+fconst -7.874776
+fneg
+fstore K

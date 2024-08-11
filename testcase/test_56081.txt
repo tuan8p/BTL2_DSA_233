@@ -1,0 +1,18 @@
+fconst 3.756737
+fneg
+fload j
+fconst -5.229258
+iconst 14
+istore H
+istore K
+istore A
+fconst -0.656255
+istore g
+fadd
+iconst -9
+iconst -1
+fload j
+iconst 4
+fneq
+fconst -3.620444
+fconst -7.241034

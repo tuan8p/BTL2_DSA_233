@@ -1,0 +1,13 @@
+iconst -7
+istore g
+val D
+fconst -9.602802
+istore f
+iconst 6
+ineq
+istore A
+iconst -9
+ior
+ior
+fstore h
+fconst -8.505536

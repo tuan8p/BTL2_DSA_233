@@ -1,0 +1,12 @@
+iconst 7
+iload K
+iconst -17
+iconst -3
+iload j
+iconst 1
+iload i
+fconst -5.162797
+fconst 8.487085
+iconst 10
+fgt
+idiv

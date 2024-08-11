@@ -1,0 +1,16 @@
+iconst 0
+par c
+fconst 7.885790
+fstore A
+iconst 0
+ieq
+fconst 6.193722
+fgt
+fconst -4.550435
+fstore J
+i2f
+igt
+fgt
+flt
+fstore G
+istore J

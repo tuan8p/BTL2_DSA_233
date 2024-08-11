@@ -1,0 +1,16 @@
+par m
+fconst 7.288776
+iconst 8
+fconst -9.994652
+f2i
+iconst -16
+iconst 4
+top
+ilt
+istore b
+ineq
+fload G
+istore I
+istore a
+i2f
+iconst -6

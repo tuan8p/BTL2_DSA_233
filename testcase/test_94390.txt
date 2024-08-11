@@ -1,0 +1,10 @@
+iload f
+istore B
+iconst -10
+istore i
+iload F
+ieq
+iconst 20
+iload f
+iload h
+fconst 9.070637

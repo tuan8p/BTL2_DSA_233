@@ -1,0 +1,22 @@
+iconst 7
+ibnot
+iload g
+fconst 6.787285
+istore h
+val h
+fstore A
+iload G
+fconst 1.736785
+top
+fgt
+istore J
+ineg
+ior
+fload j
+fconst 0.734320
+fconst 6.806154
+istore c
+fconst -1.597020
+feq
+fconst -6.102344
+iconst -3

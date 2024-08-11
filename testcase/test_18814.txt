@@ -1,0 +1,10 @@
+iconst -5
+istore C
+istore f
+iconst 2
+fconst 6.298296
+istore e
+ieq
+istore B
+iconst 10
+iadd

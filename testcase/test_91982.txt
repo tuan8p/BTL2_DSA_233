@@ -1,0 +1,14 @@
+iconst -16
+iconst 2
+istore G
+istore B
+iconst -14
+istore L
+iconst 1
+ieq
+istore a
+iconst -1
+fconst -0.814919
+fconst 4.353891
+imul
+fdiv

@@ -1,0 +1,23 @@
+iconst -1
+fconst -3.411470
+fstore B
+fstore E
+iconst 0
+iconst -3
+iconst 13
+fload k
+iand
+iconst -7
+fstore c
+iconst -1
+fconst -6.760627
+fadd
+ineq
+ineg
+isub
+fstore l
+fconst -1.074702
+fstore e
+feq
+iadd
+istore a

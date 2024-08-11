@@ -1,0 +1,11 @@
+iconst 2
+istore f
+iconst -18
+par f
+ilt
+fload L
+iconst 13
+ilt
+fconst 5.784711
+ilt
+fload E

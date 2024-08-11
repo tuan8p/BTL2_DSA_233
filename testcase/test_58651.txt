@@ -1,0 +1,16 @@
+fload b
+fstore f
+fstore J
+iconst 19
+ibnot
+fload A
+iconst -14
+iconst 18
+iload C
+iconst 18
+fstore A
+iconst 0
+fload f
+fconst -9.475795
+fload L
+flt

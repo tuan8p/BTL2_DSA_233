@@ -1,0 +1,11 @@
+val l
+iconst -11
+istore c
+istore c
+istore A
+iconst -15
+iconst -16
+fconst 9.672041
+fload L
+fneg
+iconst 19

@@ -1,0 +1,14 @@
+iconst 15
+ibnot
+iload a
+iload H
+fload a
+fload f
+par B
+iload C
+fsub
+fstore L
+ilt
+istore l
+fconst 6.296152
+ineg

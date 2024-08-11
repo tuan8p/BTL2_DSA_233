@@ -1,0 +1,18 @@
+iload g
+istore J
+iconst 5
+istore i
+istore D
+ineq
+iconst -15
+iload K
+igt
+istore J
+iconst 6
+iconst -19
+istore L
+iconst 12
+istore e
+istore F
+istore g
+iadd

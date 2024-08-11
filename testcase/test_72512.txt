@@ -1,0 +1,21 @@
+iconst -14
+iconst 5
+fconst -6.381159
+fconst 1.437358
+i2f
+istore l
+istore J
+fstore E
+fconst 7.332428
+iconst 7
+fadd
+fconst -5.180357
+fconst -3.667319
+iconst -4
+fstore k
+iadd
+fconst -8.044673
+irem
+fconst 1.333480
+iconst -4
+istore K

@@ -1,0 +1,14 @@
+iload h
+istore K
+istore M
+istore j
+iconst 0
+iload c
+iload k
+ilt
+ineg
+ilt
+iconst 15
+istore F
+ibnot
+istore I

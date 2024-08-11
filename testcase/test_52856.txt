@@ -1,0 +1,19 @@
+iconst -8
+iconst -9
+iconst 4
+ibnot
+fconst -3.942990
+fconst 0.751210
+fmul
+fdiv
+fconst -3.604726
+fconst -0.221176
+ibnot
+fstore B
+val d
+iconst 14
+fstore K
+fconst 8.931492
+iconst -4
+fconst -2.292192
+fconst 2.073935

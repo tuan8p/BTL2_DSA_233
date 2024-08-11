@@ -1,0 +1,19 @@
+fload a
+fload B
+f2i
+fstore g
+iconst 4
+fstore j
+fconst 9.092722
+fstore h
+fstore a
+fstore B
+istore I
+istore I
+iload f
+iload i
+iload H
+istore E
+idiv
+fstore h
+val d

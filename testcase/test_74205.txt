@@ -1,0 +1,14 @@
+top
+iload A
+par J
+fconst 7.156708
+fconst 8.368652
+iload M
+istore j
+fconst 7.134232
+iconst 20
+ilt
+iload d
+val m
+fstore l
+feq

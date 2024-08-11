@@ -1,0 +1,17 @@
+fconst 1.367832
+fstore m
+fstore L
+fconst -1.776267
+fmul
+f2i
+par D
+fstore c
+iconst 10
+iconst -7
+iconst 12
+iconst -20
+iconst -12
+fsub
+iconst -10
+istore c
+val D

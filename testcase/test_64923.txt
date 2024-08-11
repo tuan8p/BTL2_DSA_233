@@ -1,0 +1,10 @@
+iconst 2
+top
+iconst -17
+istore h
+istore h
+iload l
+fload F
+ieq
+iconst 1
+istore c

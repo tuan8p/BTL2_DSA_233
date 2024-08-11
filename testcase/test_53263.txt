@@ -1,0 +1,13 @@
+fconst -7.606632
+fneg
+fconst -1.010390
+fconst -5.329405
+iconst -2
+fgt
+fstore J
+iconst -10
+fconst 8.874720
+istore m
+fstore M
+iconst 5
+iconst -19

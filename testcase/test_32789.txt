@@ -1,0 +1,11 @@
+iconst 7
+iconst -6
+iconst -6
+iconst 15
+istore K
+iconst 12
+idiv
+iconst 1
+iconst -16
+ieq
+iconst 6

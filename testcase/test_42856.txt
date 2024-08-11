@@ -1,0 +1,9 @@
+iload h
+iload m
+iconst 5
+par c
+igt
+iload j
+iconst 8
+iload l
+istore l

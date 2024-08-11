@@ -1,0 +1,13 @@
+fconst 9.910521
+iconst -11
+iconst -6
+iconst -19
+iload g
+fload a
+iconst 9
+iload M
+ior
+iload K
+iconst 12
+i2f
+iconst -2

@@ -1,0 +1,9 @@
+iload M
+istore k
+iconst 2
+iload I
+istore I
+istore i
+fconst 0.082145
+ilt
+fload C

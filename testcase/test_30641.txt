@@ -1,0 +1,19 @@
+fconst -0.019010
+fstore G
+fconst 5.477725
+fneq
+fstore c
+iconst 17
+fstore i
+val e
+f2i
+fstore G
+fconst -1.701239
+fconst 9.845879
+istore M
+ibnot
+fconst 0.898607
+fadd
+iconst -15
+fconst 3.993113
+fstore g

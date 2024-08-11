@@ -1,0 +1,15 @@
+iconst -16
+par k
+iconst -3
+fconst 4.936584
+ior
+fstore c
+val E
+istore B
+i2f
+istore H
+iconst -11
+fstore k
+istore a
+ineg
+istore C

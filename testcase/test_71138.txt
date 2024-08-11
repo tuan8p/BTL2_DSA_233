@@ -1,0 +1,15 @@
+iconst -20
+ibnot
+i2f
+iconst 19
+fconst 5.294764
+fconst -8.549484
+fdiv
+iconst -11
+ilt
+iadd
+fconst 3.247078
+fstore K
+fstore J
+fconst 2.039170
+iconst 15

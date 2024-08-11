@@ -1,0 +1,15 @@
+top
+iload L
+i2f
+fconst 3.884869
+istore F
+fneg
+iconst -5
+iconst -5
+imul
+iconst -8
+istore H
+iconst -1
+f2i
+par I
+fconst -7.605999

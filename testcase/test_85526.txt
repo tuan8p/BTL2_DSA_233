@@ -1,0 +1,16 @@
+iload G
+iconst 17
+iconst 15
+fconst 6.062992
+ior
+fload j
+iconst -14
+ior
+fstore A
+iconst -5
+ibnot
+ieq
+i2f
+iconst -8
+iconst 3
+iload A

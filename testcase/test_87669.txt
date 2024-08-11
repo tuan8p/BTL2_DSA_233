@@ -1,0 +1,12 @@
+fconst -4.892197
+iconst -1
+fstore F
+fstore G
+fstore I
+fstore i
+fstore j
+istore g
+istore D
+fstore A
+fstore a
+fconst -4.891384

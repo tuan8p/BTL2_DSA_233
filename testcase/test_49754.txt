@@ -1,0 +1,13 @@
+iconst 3
+iload c
+ieq
+istore l
+val f
+iconst -17
+i2f
+istore d
+istore e
+iconst 0
+istore k
+iconst 13
+iload e

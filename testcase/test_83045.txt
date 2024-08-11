@@ -1,0 +1,9 @@
+iload D
+istore m
+istore M
+fload j
+fstore a
+iconst 2
+iconst 4
+i2f
+fconst 5.977037

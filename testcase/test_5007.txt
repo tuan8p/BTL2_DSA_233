@@ -1,0 +1,15 @@
+fconst 8.955805
+par c
+fconst -2.665458
+iconst 17
+fconst -8.610367
+fload A
+iconst -6
+iconst -12
+istore m
+iconst 9
+fconst 4.505834
+ineq
+fconst 4.128566
+fconst -2.946760
+ior

@@ -1,0 +1,12 @@
+iload g
+iload H
+par K
+iconst -1
+istore G
+fconst 0.566362
+iconst -17
+istore K
+fconst 0.058764
+fconst 7.324440
+fconst 4.491335
+fneq

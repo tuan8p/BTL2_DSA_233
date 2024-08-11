@@ -1,0 +1,17 @@
+fconst 9.149361
+iload M
+f2i
+fstore I
+fneg
+fload f
+istore E
+istore K
+iload C
+ineg
+fstore m
+i2f
+iload C
+iconst 8
+istore b
+iload c
+top

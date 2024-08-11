@@ -1,0 +1,22 @@
+fconst -6.113987
+fconst -7.866971
+fstore G
+iconst -11
+fconst -4.211745
+fconst -8.498610
+fstore F
+ibnot
+fconst 5.870417
+iconst 8
+fstore m
+feq
+iconst 3
+iconst -12
+fstore m
+fneg
+ineg
+fadd
+fneg
+fstore D
+fconst -9.657355
+istore a

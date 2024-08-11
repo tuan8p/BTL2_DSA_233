@@ -1,0 +1,14 @@
+iload g
+fconst 9.682264
+iconst 1
+fconst 1.920368
+iconst -15
+igt
+fstore B
+fadd
+iconst -16
+fstore I
+imul
+istore d
+iload d
+ineg

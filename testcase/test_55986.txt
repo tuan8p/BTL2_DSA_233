@@ -1,0 +1,12 @@
+iconst -17
+iconst 4
+fconst -8.234915
+iconst 19
+iconst 15
+iconst 4
+fconst 6.095335
+ieq
+fconst 7.467657
+istore k
+fconst -3.444998
+fconst -6.794944

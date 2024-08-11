@@ -1,0 +1,15 @@
+fload k
+fconst 6.764715
+fload F
+iconst -1
+istore L
+fstore M
+iconst 15
+ior
+ineq
+ineg
+fload C
+istore f
+fstore H
+ineg
+fstore K

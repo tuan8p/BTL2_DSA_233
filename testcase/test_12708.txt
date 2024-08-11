@@ -1,0 +1,11 @@
+par c
+iconst 2
+iconst 7
+iload k
+istore m
+fload b
+istore i
+irem
+fstore L
+fload D
+flt

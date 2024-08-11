@@ -1,0 +1,9 @@
+iconst -20
+iload H
+iconst 3
+iconst -9
+iconst 13
+iload M
+iconst 20
+ineg
+iload B

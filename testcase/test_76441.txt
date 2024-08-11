@@ -1,0 +1,15 @@
+val a
+fconst 7.590849
+fstore i
+fstore f
+iload A
+iconst 8
+iadd
+istore K
+i2f
+top
+iconst 16
+iconst 3
+fload i
+fsub
+iconst -20

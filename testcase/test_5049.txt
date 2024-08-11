@@ -1,0 +1,10 @@
+iconst 18
+iload c
+istore C
+iconst 6
+iconst -8
+ineg
+fconst 5.094172
+fconst 5.706850
+fconst 8.765942
+ior

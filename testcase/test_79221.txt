@@ -1,0 +1,10 @@
+fconst -0.891127
+fconst 0.700480
+fload M
+iload F
+iload F
+fconst -6.260086
+fstore L
+fadd
+fload m
+fsub

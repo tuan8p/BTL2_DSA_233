@@ -1,0 +1,12 @@
+fconst 3.517200
+fstore f
+fconst 7.421032
+fstore b
+fload g
+fgt
+iload m
+iload k
+iconst 12
+fdiv
+iand
+par e

@@ -1,0 +1,21 @@
+iconst 13
+fconst 6.791763
+istore C
+par I
+istore h
+istore h
+istore C
+fconst 0.047284
+istore E
+iconst 5
+iconst 10
+fconst 1.535368
+fstore g
+irem
+fstore a
+istore f
+istore k
+fstore j
+fstore M
+ieq
+fconst 5.837832

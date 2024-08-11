@@ -1,0 +1,10 @@
+val B
+iconst 13
+istore g
+iconst -19
+iload i
+ineg
+iconst 19
+fconst -1.082503
+iconst 20
+ibnot

@@ -1,0 +1,20 @@
+iload a
+top
+val a
+iload K
+par K
+iconst -18
+istore h
+iconst 5
+istore m
+istore e
+fconst 3.883885
+iload G
+fconst 5.917885
+iconst -19
+istore F
+istore e
+istore H
+iconst 17
+fstore a
+feq

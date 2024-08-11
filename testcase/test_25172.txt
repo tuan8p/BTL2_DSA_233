@@ -1,0 +1,18 @@
+iconst 15
+iconst 15
+iadd
+fconst 1.728346
+par h
+iconst -1
+fconst -9.084412
+iconst -15
+fadd
+fstore g
+fstore M
+istore L
+fstore i
+fstore c
+istore L
+fstore j
+val c
+fstore D

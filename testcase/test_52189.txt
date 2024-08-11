@@ -1,0 +1,16 @@
+val D
+fconst -4.619014
+fconst 9.526108
+iconst -18
+fconst 2.218105
+iload E
+iconst -10
+ineq
+fsub
+fstore e
+flt
+fstore j
+iload D
+iconst 12
+fstore a
+fneg

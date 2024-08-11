@@ -1,0 +1,14 @@
+iconst -17
+istore d
+iload C
+ior
+iconst -17
+idiv
+iconst -4
+iconst -9
+fconst -8.208660
+ibnot
+ineg
+top
+iload k
+fconst 0.136367

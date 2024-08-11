@@ -1,0 +1,14 @@
+iconst 15
+par a
+iconst -4
+iconst 19
+istore K
+istore m
+istore E
+iconst -5
+iload f
+istore k
+iconst -2
+ior
+fconst 8.366310
+ineq

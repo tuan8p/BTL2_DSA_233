@@ -1,0 +1,12 @@
+iload I
+fconst -6.246311
+f2i
+fconst 0.573860
+fload h
+iload d
+fconst -8.904148
+fconst 7.761686
+iconst -14
+fgt
+fconst 2.017478
+fconst 5.972610

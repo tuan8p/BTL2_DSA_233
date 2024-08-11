@@ -1,0 +1,15 @@
+iconst 3
+fload h
+fconst -6.744874
+fload d
+iconst 11
+iconst -2
+iload e
+fconst 3.567286
+iconst 4
+iconst 4
+isub
+top
+fload I
+ilt
+val m

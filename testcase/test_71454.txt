@@ -1,0 +1,17 @@
+iconst -2
+fload M
+iload l
+top
+istore c
+iload i
+iload E
+iconst 17
+iload F
+i2f
+istore k
+iload K
+fstore B
+iload I
+fstore C
+iload H
+istore f

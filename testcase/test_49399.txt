@@ -1,0 +1,17 @@
+iconst 10
+fconst 2.527667
+iconst -19
+fconst -9.718328
+fconst 8.202135
+iconst 10
+iconst 2
+isub
+iconst 0
+val b
+iconst -18
+fconst -8.696598
+fconst 1.138034
+fconst 0.274090
+iload l
+fconst -3.843159
+istore B

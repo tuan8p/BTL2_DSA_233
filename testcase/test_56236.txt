@@ -1,0 +1,20 @@
+top
+fconst 2.848744
+par K
+iload m
+fneg
+iload H
+iconst -17
+fconst -2.947114
+iconst -16
+fconst -9.385695
+fconst -3.906169
+fconst 2.928210
+iconst 20
+iload E
+fconst 8.653400
+istore c
+iconst 4
+istore f
+iconst 1
+feq

@@ -1,0 +1,16 @@
+iconst 17
+i2f
+par g
+iconst 13
+istore I
+iconst 3
+fconst -6.897789
+istore k
+fstore i
+iconst -9
+iconst 11
+fstore h
+fconst -2.857392
+fconst 1.355896
+fstore B
+istore A

@@ -1,0 +1,9 @@
+fconst -5.553449
+fstore a
+iconst -15
+fconst 5.377540
+iconst 11
+fneg
+f2i
+istore D
+iconst -15

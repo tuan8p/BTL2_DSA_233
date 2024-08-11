@@ -1,0 +1,12 @@
+fconst 9.041895
+f2i
+fstore b
+fconst 5.045473
+fneq
+par c
+flt
+fstore D
+fload a
+fload H
+iload g
+fconst 4.366209

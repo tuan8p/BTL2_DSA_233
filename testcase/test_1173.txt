@@ -1,0 +1,9 @@
+iload d
+fconst 6.677292
+ibnot
+fload M
+fstore f
+fstore c
+fconst -5.448295
+fconst -4.695593
+fneq

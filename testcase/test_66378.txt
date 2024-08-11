@@ -1,0 +1,6 @@
+fconst 0.398136
+fload C
+fconst -1.266888
+fdiv
+fconst -4.221903
+top

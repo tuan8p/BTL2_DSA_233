@@ -1,0 +1,12 @@
+iload l
+istore d
+iconst 20
+istore H
+i2f
+iconst 10
+iand
+fload A
+f2i
+fload D
+istore l
+iconst -8

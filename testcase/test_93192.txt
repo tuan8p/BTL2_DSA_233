@@ -1,0 +1,10 @@
+iconst 3
+istore l
+top
+fconst 7.693607
+istore C
+fconst 7.554888
+fstore G
+fconst 1.397604
+fconst 1.213456
+istore A

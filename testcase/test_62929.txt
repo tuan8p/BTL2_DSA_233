@@ -1,0 +1,18 @@
+iload c
+ineg
+iconst -18
+iload k
+iload m
+iload C
+isub
+iconst -7
+iload E
+iload E
+istore g
+istore i
+iconst 18
+i2f
+istore k
+fconst 1.442374
+imul
+top

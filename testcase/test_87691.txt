@@ -1,0 +1,16 @@
+fconst -0.759553
+iconst 16
+istore f
+istore K
+fstore M
+top
+fstore C
+fconst 6.569616
+fstore J
+fsub
+fadd
+fstore C
+istore J
+iconst -1
+iand
+fconst -4.517009

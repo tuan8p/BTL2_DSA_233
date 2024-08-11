@@ -1,0 +1,19 @@
+fload a
+fstore J
+fstore f
+iconst 19
+iconst -2
+iconst -16
+fload F
+iload j
+i2f
+fload m
+fstore k
+iconst 17
+iand
+fstore L
+fconst 7.134403
+fdiv
+fstore F
+ibnot
+iload k

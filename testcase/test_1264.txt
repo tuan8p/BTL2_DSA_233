@@ -1,0 +1,8 @@
+fconst 5.037964
+fconst 0.038521
+iconst 9
+fstore M
+fstore g
+fconst 9.966225
+fstore E
+fadd

@@ -1,0 +1,19 @@
+par k
+fconst 6.272318
+fstore g
+iconst 18
+istore a
+ibnot
+iload a
+iconst -5
+fconst 7.020287
+fconst 5.197426
+fload B
+iconst 3
+fstore E
+fstore J
+feq
+iadd
+fconst 4.843588
+iconst -4
+istore c

@@ -1,0 +1,17 @@
+fload J
+par J
+fstore C
+iconst 7
+iconst 9
+fstore L
+fstore m
+iconst -9
+iconst -11
+iand
+fstore c
+iand
+ibnot
+fstore k
+iconst -15
+iand
+imul

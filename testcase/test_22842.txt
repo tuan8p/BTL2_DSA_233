@@ -1,0 +1,15 @@
+fconst -9.359800
+fload b
+iconst 18
+iload i
+iconst 18
+iconst 2
+iconst -18
+iconst 13
+fadd
+iconst 0
+val c
+fconst 8.001749
+iconst 9
+iconst -20
+fconst -6.757855

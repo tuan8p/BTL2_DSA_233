@@ -1,0 +1,18 @@
+fconst 6.645695
+fstore K
+iconst 9
+fconst 3.223535
+fconst -2.913514
+fconst 9.442276
+fconst 1.095467
+iconst 13
+fconst -5.385412
+fconst -2.703664
+ibnot
+idiv
+istore j
+fsub
+istore m
+fconst 9.294670
+fconst -4.898041
+top

@@ -1,0 +1,13 @@
+fconst -5.964445
+fconst 7.935774
+fconst 3.313781
+fconst -0.354412
+fstore i
+fneq
+iconst 12
+par l
+fconst -8.356984
+fstore I
+iconst -17
+igt
+i2f

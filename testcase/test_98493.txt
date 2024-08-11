@@ -1,0 +1,13 @@
+iconst -10
+iload C
+iconst -9
+iand
+fconst -0.414651
+fconst -2.708021
+fconst -4.368590
+iconst -9
+fsub
+fload d
+iconst -15
+imul
+iconst 15

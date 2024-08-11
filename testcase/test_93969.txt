@@ -1,0 +1,21 @@
+iconst -7
+fconst -3.297794
+fconst 0.364623
+fmul
+istore f
+istore A
+iload G
+iload I
+iload C
+iconst -17
+fload F
+iconst -4
+iconst 16
+fconst 3.227695
+iconst 6
+igt
+iconst -15
+istore F
+fneq
+par G
+fneq

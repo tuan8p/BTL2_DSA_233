@@ -1,0 +1,13 @@
+iload G
+iload c
+iconst -13
+iconst 15
+iconst -16
+iconst -10
+isub
+igt
+fload j
+iconst 20
+iconst -9
+irem
+i2f

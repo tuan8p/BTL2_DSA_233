@@ -1,0 +1,10 @@
+iload B
+iload D
+iconst -10
+istore D
+istore A
+iconst 7
+istore G
+iconst 16
+fload k
+istore c

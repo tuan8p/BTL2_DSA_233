@@ -1,0 +1,11 @@
+fconst -4.417896
+fneg
+fconst 1.110146
+fstore a
+iload L
+iconst 18
+iand
+iload L
+ineq
+fconst -7.010139
+fstore i

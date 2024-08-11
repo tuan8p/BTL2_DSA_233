@@ -1,0 +1,13 @@
+val j
+fload b
+fneg
+fconst -4.191022
+iconst 16
+iconst -4
+fdiv
+fconst -3.418271
+fconst 4.500165
+fstore B
+iconst -6
+fmul
+fconst 2.209420

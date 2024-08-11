@@ -1,0 +1,14 @@
+val K
+iload d
+iload I
+irem
+iload i
+iload M
+iconst -2
+iconst 9
+istore e
+fconst 8.483196
+ior
+iconst -3
+fstore C
+isub

@@ -1,0 +1,13 @@
+fconst 9.904799
+fstore a
+top
+iconst -9
+fload h
+fconst 9.074520
+fload i
+iconst -20
+i2f
+fstore k
+iconst 18
+fload f
+feq

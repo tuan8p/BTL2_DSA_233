@@ -1,0 +1,15 @@
+val E
+top
+iconst 13
+istore b
+iconst -3
+iconst 2
+ieq
+fconst 2.871822
+istore g
+istore J
+fstore c
+fconst 2.843733
+fstore C
+fconst 6.477079
+i2f

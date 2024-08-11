@@ -1,0 +1,22 @@
+iload B
+iload I
+irem
+istore A
+top
+iload M
+irem
+iload D
+fconst -1.930164
+istore g
+iconst -10
+iconst 19
+iconst 6
+irem
+iconst -6
+iload A
+fload K
+fstore H
+istore A
+fstore A
+fstore g
+ilt

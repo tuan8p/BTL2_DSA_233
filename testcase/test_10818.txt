@@ -1,0 +1,14 @@
+fconst 7.943451
+val C
+fconst 0.399916
+fconst 9.022816
+fstore h
+fstore j
+iconst -5
+par f
+fconst 3.058305
+top
+fconst -6.980155
+iconst 0
+fneg
+fconst -3.812653

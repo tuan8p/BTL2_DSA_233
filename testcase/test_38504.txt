@@ -1,0 +1,19 @@
+iload L
+iconst 19
+imul
+istore l
+iload h
+fconst -1.211078
+istore f
+istore H
+iconst 10
+isub
+fconst 9.840458
+iconst -4
+iload j
+istore M
+istore H
+fmul
+fload g
+istore F
+iload G

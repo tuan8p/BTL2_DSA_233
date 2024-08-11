@@ -1,0 +1,10 @@
+fconst -4.047897
+fconst 1.679140
+fconst 5.485771
+fconst -4.426339
+fconst 0.004848
+feq
+val f
+iconst -15
+iconst 0
+iand

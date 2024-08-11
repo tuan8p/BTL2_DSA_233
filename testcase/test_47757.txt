@@ -1,0 +1,13 @@
+iload D
+ineg
+par c
+fconst 3.214263
+iconst -19
+iconst 9
+fload a
+iconst 14
+fconst -7.575099
+fload E
+fload A
+iload e
+iload A

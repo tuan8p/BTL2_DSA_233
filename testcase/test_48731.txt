@@ -1,0 +1,13 @@
+fconst -2.837848
+fstore J
+fconst 6.438404
+iconst 19
+fstore D
+iconst -16
+iconst 1
+istore c
+top
+ineq
+fstore e
+ineq
+fconst -7.748272

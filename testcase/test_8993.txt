@@ -1,0 +1,9 @@
+iconst -15
+istore D
+ibnot
+iconst -18
+iconst -2
+iconst 4
+iand
+ior
+istore L

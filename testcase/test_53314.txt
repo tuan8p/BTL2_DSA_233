@@ -1,0 +1,13 @@
+top
+iload B
+istore k
+iload B
+ieq
+iconst 11
+iconst -4
+istore L
+iconst 17
+iconst -9
+istore B
+iadd
+istore b

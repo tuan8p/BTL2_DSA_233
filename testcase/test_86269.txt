@@ -1,0 +1,21 @@
+iconst 10
+ibnot
+ibnot
+iconst -3
+istore a
+istore i
+iconst 0
+fconst 2.618166
+fconst 0.947281
+fstore I
+top
+fstore K
+ineq
+val l
+fconst 9.842743
+fconst 9.184099
+fsub
+istore F
+ior
+fconst -3.821814
+fconst 7.497435

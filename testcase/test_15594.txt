@@ -1,0 +1,15 @@
+iload j
+iload K
+fconst -6.513988
+fconst 1.134854
+iconst -17
+top
+fconst 3.094988
+fneq
+istore K
+iconst -18
+fconst -9.609506
+iload i
+ineg
+iload d
+imul

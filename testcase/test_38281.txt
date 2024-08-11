@@ -1,0 +1,12 @@
+fconst 7.000881
+iconst 3
+iload a
+fconst 2.568803
+iload c
+fconst 5.084819
+feq
+fstore M
+iload i
+isub
+fconst 9.189558
+par I

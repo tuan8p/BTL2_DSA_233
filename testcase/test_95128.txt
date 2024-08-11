@@ -1,0 +1,12 @@
+iconst 12
+istore g
+fconst 6.296169
+fstore G
+top
+ibnot
+fstore m
+fconst 1.754324
+istore G
+fconst -5.409590
+fstore g
+feq

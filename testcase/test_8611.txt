@@ -1,0 +1,12 @@
+val b
+iconst 6
+istore D
+istore b
+istore f
+iconst 5
+istore j
+fconst -4.039560
+fload m
+istore j
+istore A
+fstore K

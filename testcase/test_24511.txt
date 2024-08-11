@@ -1,0 +1,13 @@
+fconst -0.588769
+val H
+fstore A
+fconst 3.494757
+iload A
+iload D
+fstore k
+fconst -7.031361
+iload H
+iconst 9
+fconst -9.273389
+iconst -18
+fconst 8.158577

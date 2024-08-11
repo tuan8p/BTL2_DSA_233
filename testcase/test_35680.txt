@@ -1,0 +1,8 @@
+iconst -14
+iconst -14
+imul
+istore I
+iload g
+iload H
+ilt
+ineg

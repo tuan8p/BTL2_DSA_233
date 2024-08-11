@@ -1,0 +1,8 @@
+fconst -4.230733
+fstore I
+f2i
+fconst 9.240879
+fstore M
+fload m
+iconst -10
+iconst 0

@@ -1,0 +1,12 @@
+top
+iconst 15
+fconst -6.797439
+fload c
+ibnot
+fconst 5.700018
+fconst -4.247411
+iload K
+fstore G
+fconst 6.775534
+fadd
+top

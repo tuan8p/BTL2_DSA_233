@@ -1,0 +1,15 @@
+top
+top
+val j
+iconst 17
+iconst 17
+istore b
+top
+top
+fconst -2.986003
+istore k
+fconst -8.382558
+fconst -3.253278
+fstore I
+fconst -9.002548
+fconst 6.974207

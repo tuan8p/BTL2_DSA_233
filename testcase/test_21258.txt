@@ -1,0 +1,14 @@
+fload H
+fconst 9.402039
+iconst 4
+fload E
+fload J
+fstore M
+iconst 18
+igt
+iconst -3
+fconst 6.113987
+fneg
+fload J
+iconst -7
+iadd

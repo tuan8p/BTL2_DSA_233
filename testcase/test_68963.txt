@@ -1,0 +1,16 @@
+val B
+par I
+iconst 17
+iload A
+iconst -15
+iconst 3
+irem
+iconst -13
+iload K
+ibnot
+iconst 20
+iconst -7
+fconst 1.320017
+fconst 4.155123
+iconst 7
+ieq

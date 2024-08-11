@@ -1,0 +1,12 @@
+iconst -19
+iload A
+iconst 18
+istore G
+istore e
+istore e
+i2f
+iand
+iconst 18
+iconst -18
+ieq
+fload H

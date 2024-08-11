@@ -1,0 +1,10 @@
+iload L
+iload A
+iload b
+isub
+iconst -20
+istore I
+iload d
+iload c
+fconst -2.274339
+ieq

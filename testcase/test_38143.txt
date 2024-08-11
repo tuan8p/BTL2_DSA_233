@@ -1,0 +1,14 @@
+iconst 8
+istore F
+istore L
+iconst 11
+iadd
+idiv
+istore l
+fconst -0.129085
+iconst 2
+fstore E
+istore h
+irem
+iconst -4
+istore C

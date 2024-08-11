@@ -1,0 +1,19 @@
+iconst -19
+par B
+iload H
+iand
+i2f
+iconst 10
+iconst 4
+iconst -19
+iload m
+idiv
+istore d
+ieq
+fconst -8.861996
+iload J
+ineg
+imul
+fstore m
+fconst -8.487601
+iconst 10

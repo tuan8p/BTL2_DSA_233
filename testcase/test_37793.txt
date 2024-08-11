@@ -1,0 +1,19 @@
+fconst 2.748959
+iconst 8
+iload K
+fconst 3.848872
+fconst -3.554627
+fconst -0.633108
+iand
+fconst 5.570679
+iadd
+fconst 8.011873
+istore m
+fconst 1.649868
+iload f
+fconst 5.464697
+fconst 4.164349
+iconst -19
+iconst 8
+igt
+fconst 5.229513

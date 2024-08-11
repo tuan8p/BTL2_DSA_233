@@ -1,0 +1,15 @@
+iconst 14
+par d
+istore C
+iconst 20
+fconst 7.017515
+istore B
+iconst -19
+fstore F
+igt
+fconst 0.272450
+fstore k
+iconst 3
+fstore E
+fstore C
+ieq

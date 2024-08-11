@@ -1,0 +1,15 @@
+fconst -6.213467
+fload K
+iconst 3
+istore j
+fstore E
+fconst -8.003284
+istore g
+iconst 4
+iconst 3
+fstore I
+istore f
+istore m
+iconst -3
+fconst 5.760398
+iload H

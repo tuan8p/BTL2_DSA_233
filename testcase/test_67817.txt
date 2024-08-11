@@ -1,0 +1,15 @@
+fconst -9.113935
+f2i
+iload F
+f2i
+istore a
+par A
+iload k
+iand
+istore F
+fstore E
+istore G
+iconst -15
+fstore B
+val m
+fstore b

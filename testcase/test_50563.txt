@@ -1,0 +1,17 @@
+top
+iconst -14
+fconst -4.255108
+fconst 0.268832
+iconst 16
+fadd
+fconst -0.893379
+fmul
+fconst 5.415636
+istore F
+iconst -3
+fconst -3.559503
+fconst -1.077654
+fconst 0.826093
+istore M
+f2i
+istore g

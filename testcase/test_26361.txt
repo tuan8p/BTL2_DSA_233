@@ -1,0 +1,19 @@
+fload f
+iconst 2
+fload g
+fsub
+iconst 8
+iconst -15
+iload C
+isub
+i2f
+i2f
+i2f
+imul
+fneq
+ieq
+fload g
+fsub
+iconst -6
+imul
+fload f

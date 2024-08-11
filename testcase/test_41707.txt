@@ -1,0 +1,16 @@
+fconst -8.450317
+fstore M
+fstore C
+fconst 8.025946
+iconst -12
+iconst -20
+fstore i
+irem
+feq
+istore e
+iconst -3
+par j
+fconst -0.034830
+iconst -12
+val K
+ibnot

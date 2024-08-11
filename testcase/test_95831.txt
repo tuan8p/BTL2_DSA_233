@@ -1,0 +1,13 @@
+fconst 4.973372
+fload h
+fgt
+fneg
+iconst -19
+iconst -17
+ineq
+iconst 10
+irem
+f2i
+iload H
+fconst -1.138938
+iconst -9

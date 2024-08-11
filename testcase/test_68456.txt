@@ -1,0 +1,14 @@
+iload k
+istore J
+iload I
+iconst 7
+iload j
+iconst -17
+iload c
+iload H
+ilt
+iconst 7
+iload G
+iload H
+ieq
+i2f

@@ -1,0 +1,12 @@
+par i
+val G
+iconst 19
+i2f
+iconst -13
+iconst -1
+istore b
+iload k
+fconst 9.548969
+imul
+iload J
+iload F

@@ -1,0 +1,14 @@
+fload L
+fconst -5.291214
+fload E
+iconst -17
+fstore g
+fstore H
+fneq
+iconst 5
+fconst 6.699551
+fstore L
+iconst 0
+fload G
+fneq
+iload G

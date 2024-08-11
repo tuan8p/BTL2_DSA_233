@@ -1,0 +1,16 @@
+val k
+iload j
+iconst -2
+iand
+iload a
+imul
+iconst -17
+fload d
+iload d
+istore a
+istore c
+fneg
+istore a
+fconst -6.250165
+iconst -10
+irem

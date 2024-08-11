@@ -1,0 +1,22 @@
+fconst -4.199272
+iload i
+fneg
+iload f
+idiv
+iconst 6
+fload k
+istore k
+val A
+top
+fconst -2.014363
+fconst -7.266256
+iconst 7
+ineq
+fconst -5.285671
+ineg
+iload D
+iload f
+igt
+fdiv
+istore L
+istore c

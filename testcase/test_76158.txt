@@ -1,0 +1,11 @@
+fconst -0.031076
+f2i
+fconst -4.147857
+fload D
+fconst -7.452206
+fconst 4.489589
+fconst -3.869930
+flt
+fconst -3.792326
+fconst 2.080246
+iconst 18

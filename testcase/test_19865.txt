@@ -1,0 +1,11 @@
+iconst -1
+istore l
+fload M
+fneg
+fconst 2.458242
+istore a
+fconst -1.357623
+istore M
+iload L
+istore D
+fsub

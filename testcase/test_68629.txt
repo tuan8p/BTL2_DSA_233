@@ -1,0 +1,21 @@
+iconst -6
+iconst -19
+fconst -9.015353
+fconst 9.253872
+iconst 12
+fconst -8.607384
+fstore I
+ineg
+iconst 14
+iconst -1
+ilt
+fstore e
+iadd
+iconst -20
+ior
+val c
+fstore M
+iconst -11
+fconst 6.635626
+iand
+i2f

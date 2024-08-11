@@ -1,0 +1,8 @@
+iload L
+ineg
+iload B
+iconst 14
+istore H
+top
+iconst 19
+iconst 3

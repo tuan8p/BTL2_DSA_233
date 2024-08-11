@@ -1,0 +1,21 @@
+iconst 8
+iconst 4
+istore C
+istore A
+istore b
+iconst -14
+iload f
+ilt
+fload h
+iconst 1
+iconst -5
+iconst 0
+fload I
+fstore i
+istore G
+iconst 8
+istore G
+istore G
+iadd
+iconst -4
+isub

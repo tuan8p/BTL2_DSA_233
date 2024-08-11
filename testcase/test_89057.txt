@@ -1,0 +1,13 @@
+iconst 19
+istore g
+top
+fload C
+iload l
+istore g
+iload f
+ior
+top
+fconst 7.295013
+iload l
+iconst 8
+fload b

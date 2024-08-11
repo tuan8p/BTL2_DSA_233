@@ -1,0 +1,21 @@
+iconst 17
+istore E
+iload J
+ieq
+fconst 9.933792
+istore j
+iload i
+iconst -18
+fconst -9.248547
+istore b
+isub
+iload b
+imul
+irem
+iconst -17
+iconst 13
+fmul
+iand
+iconst -20
+par G
+fconst 3.510818

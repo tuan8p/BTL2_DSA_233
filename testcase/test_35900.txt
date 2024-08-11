@@ -1,0 +1,13 @@
+fconst -1.981360
+iconst 19
+istore H
+iconst 19
+fstore A
+fstore a
+iand
+istore g
+iconst -3
+fstore m
+f2i
+ilt
+par G

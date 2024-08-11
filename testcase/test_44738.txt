@@ -1,0 +1,21 @@
+val I
+fconst -9.654533
+fconst 1.156105
+par i
+fstore i
+iconst -7
+fstore E
+fconst -0.013319
+top
+iload M
+fsub
+fstore l
+igt
+ibnot
+iconst 17
+fconst 8.203772
+iand
+fsub
+fconst -4.156236
+iconst -9
+iconst 0

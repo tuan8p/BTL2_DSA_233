@@ -1,0 +1,13 @@
+iconst -7
+ibnot
+iload a
+iconst 1
+istore G
+ibnot
+iconst 3
+iconst 13
+iload B
+iconst 6
+iconst -14
+istore b
+istore D

@@ -1,0 +1,9 @@
+fconst 7.102707
+fstore J
+fneg
+fload g
+fstore g
+iconst 5
+fconst -5.259670
+ibnot
+iconst -7

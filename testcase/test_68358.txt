@@ -1,0 +1,17 @@
+fconst -0.517745
+fstore J
+fneg
+fstore G
+fconst 6.721626
+fstore F
+fconst -6.511732
+iconst -12
+iconst 18
+iconst 4
+fstore k
+fconst -6.001541
+fstore E
+iconst 16
+fneg
+istore F
+fconst -7.152379

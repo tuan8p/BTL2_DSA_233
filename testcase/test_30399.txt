@@ -1,0 +1,13 @@
+fload f
+fconst 5.332930
+fconst -8.373405
+fsub
+iconst 8
+istore b
+fload I
+fconst -5.861995
+iconst -11
+imul
+istore I
+istore f
+fneq

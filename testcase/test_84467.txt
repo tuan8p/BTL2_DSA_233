@@ -1,0 +1,14 @@
+top
+iconst 1
+istore C
+iload j
+istore c
+istore C
+fconst 6.444080
+par l
+iconst 17
+f2i
+istore m
+val k
+istore B
+istore a

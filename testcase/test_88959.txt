@@ -1,0 +1,20 @@
+fload K
+iconst 9
+iload I
+istore B
+istore M
+fconst 2.839882
+iload L
+fconst -8.073892
+fconst 5.401144
+istore d
+istore B
+fconst 0.821489
+ibnot
+ineq
+ineg
+iconst 12
+iadd
+istore J
+fadd
+istore K

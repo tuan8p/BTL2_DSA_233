@@ -1,0 +1,12 @@
+fconst 1.984468
+iconst -2
+fconst -2.073105
+istore L
+iconst -6
+fconst -3.727727
+iconst 16
+istore i
+par a
+istore a
+ineq
+top

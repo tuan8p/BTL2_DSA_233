@@ -1,0 +1,14 @@
+iload e
+iconst 8
+iconst 14
+iload B
+iconst -6
+iconst -8
+par f
+iload I
+iconst 19
+iload k
+iload B
+iconst -3
+iload f
+fload F

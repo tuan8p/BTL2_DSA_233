@@ -1,0 +1,13 @@
+fload C
+fstore G
+fconst -8.357350
+val f
+fstore c
+flt
+fstore D
+fstore k
+fload D
+fload b
+fconst 9.021170
+fstore K
+val D

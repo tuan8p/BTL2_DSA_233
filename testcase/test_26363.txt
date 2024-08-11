@@ -1,0 +1,13 @@
+iconst 6
+iconst 1
+idiv
+fconst -6.930655
+fstore d
+fstore b
+fstore j
+fstore i
+fconst 4.521357
+fsub
+fconst -4.313160
+fdiv
+istore i

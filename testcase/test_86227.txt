@@ -1,0 +1,14 @@
+fconst 2.984438
+fconst -0.247356
+fmul
+fstore M
+fconst -6.508145
+iconst 16
+fdiv
+iconst 11
+fconst -7.896298
+fconst 1.310625
+fstore j
+iconst -3
+fneg
+istore D

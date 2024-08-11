@@ -1,0 +1,18 @@
+val D
+fconst -6.443068
+fstore k
+iconst -3
+fconst -4.493809
+fload e
+ibnot
+fstore k
+iconst 8
+iload M
+top
+ineq
+iconst 8
+fsub
+fstore I
+fmul
+fadd
+fload J

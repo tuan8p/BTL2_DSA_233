@@ -1,0 +1,14 @@
+fconst -8.059780
+fconst 2.413102
+fconst -9.318366
+fconst 4.150007
+fneq
+fstore d
+fconst -8.687180
+fstore C
+fconst 5.625280
+fneg
+iload F
+istore h
+fconst 6.674788
+fmul

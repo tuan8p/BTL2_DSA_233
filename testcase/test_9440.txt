@@ -1,0 +1,20 @@
+fconst -5.555357
+iconst 17
+iload D
+istore d
+iconst -12
+iconst 8
+fconst -7.887919
+iconst -4
+iload a
+iconst -17
+fconst -3.008637
+fconst -1.467542
+iconst -17
+iconst 19
+iconst 13
+iconst -3
+fstore b
+irem
+iload d
+fconst -0.808025

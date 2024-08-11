@@ -1,0 +1,15 @@
+fconst 7.186268
+par D
+fstore I
+fstore L
+iconst 1
+istore J
+iconst -18
+iconst -2
+iconst 17
+fload D
+iconst -11
+fneg
+fstore m
+iand
+istore j

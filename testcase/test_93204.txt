@@ -1,0 +1,13 @@
+val b
+iconst -6
+par j
+i2f
+iconst 6
+fload e
+iconst 0
+iconst 19
+istore D
+istore c
+f2i
+iload J
+fstore F

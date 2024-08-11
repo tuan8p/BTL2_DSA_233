@@ -1,0 +1,15 @@
+fload h
+fstore c
+fstore c
+iload g
+iload e
+fstore J
+iconst 8
+ibnot
+fstore f
+istore l
+fstore F
+iconst 16
+iload e
+fstore I
+fload D

@@ -1,0 +1,16 @@
+iconst 5
+iload I
+idiv
+istore I
+iload l
+iand
+ineg
+fconst -8.401058
+iadd
+fconst 1.578256
+iconst -12
+fadd
+istore c
+ieq
+fconst -8.589678
+istore h

@@ -1,0 +1,17 @@
+par M
+iconst 14
+val d
+iload i
+istore E
+fconst 9.711395
+i2f
+iconst -6
+iload g
+iload K
+iload C
+ineq
+fconst 0.670476
+fstore M
+iload m
+iconst 9
+iconst -5

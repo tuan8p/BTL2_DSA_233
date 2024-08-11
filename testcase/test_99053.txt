@@ -1,0 +1,11 @@
+iconst -18
+istore L
+istore l
+iconst 19
+iload C
+istore c
+iconst 10
+val G
+idiv
+iload l
+istore m

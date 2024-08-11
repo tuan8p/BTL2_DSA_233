@@ -1,0 +1,13 @@
+iload m
+iload k
+ineq
+iload g
+iload b
+i2f
+iconst 7
+istore g
+istore B
+istore c
+iload F
+ior
+istore f

@@ -1,0 +1,14 @@
+iconst -2
+iconst -11
+istore h
+fload h
+fload m
+iconst 16
+ilt
+iconst 17
+val L
+fdiv
+isub
+ior
+iand
+istore B

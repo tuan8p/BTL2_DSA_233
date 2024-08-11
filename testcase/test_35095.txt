@@ -1,0 +1,22 @@
+iconst 6
+fconst -8.440804
+fstore I
+fstore C
+iconst -13
+iadd
+iconst 18
+iconst 6
+iconst 14
+fconst 3.793846
+irem
+fconst 5.085306
+fstore l
+ilt
+fconst -7.870448
+fstore A
+fmul
+igt
+fstore a
+iconst 8
+iconst 18
+iconst 14

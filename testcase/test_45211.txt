@@ -1,0 +1,14 @@
+iconst 0
+istore C
+iconst -8
+iconst -4
+ibnot
+iand
+fconst 7.347742
+iload d
+fconst 7.761061
+iadd
+iconst 9
+istore K
+iload K
+i2f

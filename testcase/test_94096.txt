@@ -1,0 +1,10 @@
+fconst -4.006348
+fstore e
+fconst -1.458699
+feq
+flt
+fsub
+iconst -6
+fstore m
+istore J
+istore c

@@ -1,0 +1,16 @@
+iconst -3
+iload h
+fconst 7.408646
+ineg
+fconst 6.072823
+istore F
+fsub
+fload j
+fconst -9.922646
+fconst -7.384593
+iload K
+istore M
+fconst 7.661022
+istore j
+flt
+par M

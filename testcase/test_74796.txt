@@ -1,0 +1,19 @@
+fconst 5.669255
+fstore K
+fconst -7.914787
+iload C
+fconst 0.558769
+fconst 8.360508
+fgt
+fstore h
+fconst -8.651686
+iconst -14
+fconst 8.617184
+f2i
+fconst -2.322013
+ibnot
+fconst 2.454666
+ilt
+fstore k
+fconst -3.998285
+imul

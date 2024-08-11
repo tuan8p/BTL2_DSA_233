@@ -1,0 +1,9 @@
+iconst 4
+iload a
+istore e
+istore h
+iand
+iload K
+iload f
+ineq
+fconst 0.760728

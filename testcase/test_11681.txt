@@ -1,0 +1,13 @@
+iconst 2
+iload d
+iload k
+iconst 19
+ior
+iconst -4
+imul
+iand
+iconst -9
+istore H
+istore k
+fconst 6.828598
+par h

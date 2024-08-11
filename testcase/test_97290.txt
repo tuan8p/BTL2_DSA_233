@@ -1,0 +1,18 @@
+fload F
+par F
+iconst -9
+fstore e
+iconst -20
+fstore A
+ibnot
+fconst -5.625295
+fconst -5.410565
+irem
+fstore D
+ineg
+fneg
+iconst -1
+istore C
+par D
+iload H
+fload E

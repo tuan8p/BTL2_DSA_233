@@ -1,0 +1,18 @@
+iconst -4
+iconst 11
+fload B
+iconst -17
+iload m
+istore K
+ineg
+ibnot
+iload B
+fstore f
+isub
+iconst -17
+fconst 6.628708
+feq
+iconst 16
+feq
+iconst -15
+igt

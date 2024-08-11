@@ -1,0 +1,17 @@
+iconst -1
+istore E
+iload j
+iconst -17
+isub
+iconst -14
+iadd
+iconst 2
+iand
+iconst -1
+istore f
+ior
+iconst -2
+istore j
+iconst 4
+iconst -1
+iconst -6

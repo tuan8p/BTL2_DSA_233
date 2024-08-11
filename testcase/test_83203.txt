@@ -1,0 +1,11 @@
+iconst -18
+istore C
+iconst 6
+iconst 0
+fconst -6.249400
+iconst 14
+istore K
+iconst 14
+istore m
+istore C
+iadd

@@ -1,0 +1,8 @@
+iconst -9
+ineg
+iload K
+par M
+fconst 2.146156
+fstore c
+iconst 8
+iconst -5

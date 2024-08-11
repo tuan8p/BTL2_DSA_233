@@ -1,0 +1,19 @@
+iconst 0
+istore i
+iconst -19
+istore k
+fload h
+istore J
+istore J
+fload j
+ieq
+f2i
+fconst -2.210796
+iconst -7
+fload H
+fstore E
+iconst 7
+fstore G
+fconst -9.008477
+iconst -11
+par k

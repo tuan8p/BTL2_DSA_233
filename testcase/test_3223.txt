@@ -1,0 +1,23 @@
+iconst 18
+istore B
+ibnot
+iconst 7
+fconst -0.556693
+fconst -3.159583
+istore K
+fneg
+fadd
+fconst 5.283852
+fstore C
+ineq
+idiv
+fconst -9.879387
+iconst -16
+fconst -8.589334
+fstore c
+ieq
+istore K
+fconst 9.511332
+val K
+fgt
+iconst -18

@@ -1,0 +1,11 @@
+iload D
+fconst -5.634876
+fconst 2.958014
+fneq
+istore k
+fconst -5.763425
+ibnot
+fstore h
+fgt
+fstore e
+fneq

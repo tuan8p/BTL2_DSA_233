@@ -1,0 +1,9 @@
+par D
+fconst 8.314484
+fstore J
+fconst 0.708895
+fconst -3.554475
+fstore i
+fconst -4.220720
+iconst 7
+fload D

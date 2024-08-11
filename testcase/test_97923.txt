@@ -1,0 +1,8 @@
+iload J
+iload H
+fconst -2.616956
+fconst -7.220874
+istore k
+top
+fstore h
+fneg

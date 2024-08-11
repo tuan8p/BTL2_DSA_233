@@ -1,0 +1,19 @@
+iconst 5
+iconst -15
+idiv
+iconst 9
+iconst -19
+iconst 7
+istore J
+istore C
+istore m
+istore I
+ieq
+istore K
+fconst 7.768795
+istore l
+fconst 2.249478
+fadd
+iconst -1
+fstore i
+ilt

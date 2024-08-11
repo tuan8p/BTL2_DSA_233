@@ -1,0 +1,7 @@
+iconst 3
+iload e
+iload g
+ilt
+istore f
+iload k
+istore E

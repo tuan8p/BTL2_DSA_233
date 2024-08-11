@@ -1,0 +1,11 @@
+fconst -8.741666
+fconst -3.424520
+fadd
+iconst -12
+fstore B
+iconst -2
+fconst 1.104880
+istore D
+irem
+iload m
+iconst -8

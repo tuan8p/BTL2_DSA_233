@@ -1,0 +1,19 @@
+val J
+fconst 2.050357
+fconst -8.539948
+iconst 16
+fstore f
+fload c
+fconst 4.262172
+f2i
+fconst -3.785874
+iload L
+fload f
+istore h
+ibnot
+fconst 4.892336
+fconst -8.280976
+iload h
+fconst 7.687296
+iconst -1
+istore L

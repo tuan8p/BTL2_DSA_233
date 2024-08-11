@@ -1,0 +1,12 @@
+top
+fconst -6.877113
+fconst 7.348457
+fconst 1.563362
+fstore C
+fstore E
+fconst -1.306431
+fstore c
+fstore K
+fconst 5.257064
+fadd
+fstore d

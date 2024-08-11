@@ -1,0 +1,22 @@
+fconst -0.542961
+iconst -4
+val G
+top
+fstore F
+fstore f
+iload f
+istore k
+fstore K
+iload k
+ibnot
+fstore B
+fstore L
+fstore M
+iload d
+fload F
+iadd
+iand
+iconst -8
+iand
+fstore c
+fstore G

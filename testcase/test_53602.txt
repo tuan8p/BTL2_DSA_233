@@ -1,0 +1,15 @@
+iconst -17
+iconst 6
+iand
+iload l
+top
+ior
+iload G
+iconst -18
+i2f
+fload M
+iload k
+ineg
+fstore l
+irem
+istore D

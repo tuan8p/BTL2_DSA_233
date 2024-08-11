@@ -1,0 +1,12 @@
+fconst -7.443815
+fstore k
+f2i
+iconst 0
+iconst 4
+ineg
+iconst -2
+iload m
+ineg
+fconst -3.271433
+fconst -0.303900
+iconst 16

@@ -1,0 +1,14 @@
+iload E
+istore B
+iload I
+iconst 17
+istore M
+iadd
+iload E
+ibnot
+fconst 2.744994
+top
+iload I
+i2f
+iload K
+ilt

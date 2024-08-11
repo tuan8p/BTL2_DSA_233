@@ -1,0 +1,14 @@
+val F
+fconst 0.060922
+fconst 2.936989
+iconst 20
+iconst -18
+val A
+fstore i
+fconst -0.192341
+istore b
+fneg
+ieq
+fstore L
+istore i
+fstore i

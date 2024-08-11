@@ -1,0 +1,13 @@
+iconst 4
+iconst -12
+ineq
+fconst 1.468517
+fconst -8.193617
+iconst 16
+iload I
+fload I
+fconst 7.333204
+imul
+fstore m
+fstore L
+fstore k

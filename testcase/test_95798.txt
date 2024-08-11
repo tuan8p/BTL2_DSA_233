@@ -1,0 +1,6 @@
+par I
+iconst -9
+iconst -1
+iconst 15
+iconst -5
+istore C

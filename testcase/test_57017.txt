@@ -1,0 +1,8 @@
+par K
+iload c
+fconst 9.332314
+fconst -8.034131
+iconst -7
+val G
+ieq
+fstore i

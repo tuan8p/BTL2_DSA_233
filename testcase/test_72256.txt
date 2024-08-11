@@ -1,0 +1,10 @@
+iload g
+istore A
+val M
+iload A
+istore E
+iload E
+val M
+fconst -6.998031
+iload k
+fstore L

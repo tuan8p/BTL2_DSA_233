@@ -1,0 +1,6 @@
+iconst -14
+istore E
+fconst -6.222570
+iconst 0
+iconst 8
+fconst -1.399518

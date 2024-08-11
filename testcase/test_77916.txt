@@ -1,0 +1,10 @@
+iload f
+iconst 13
+iconst -20
+idiv
+imul
+iconst 20
+top
+istore e
+fload L
+iconst -18

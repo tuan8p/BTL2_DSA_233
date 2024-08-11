@@ -1,0 +1,13 @@
+iload J
+istore a
+iconst 0
+istore I
+iconst -14
+iadd
+fload B
+fconst -3.428898
+f2i
+istore I
+fconst 7.629696
+top
+flt

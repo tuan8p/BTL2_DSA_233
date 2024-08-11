@@ -1,0 +1,21 @@
+iconst 9
+fconst -4.057315
+fconst 2.841624
+fneg
+fconst 3.651776
+iconst -18
+fneq
+fneq
+fneq
+ibnot
+fconst -8.097218
+iand
+ieq
+fstore j
+iconst 7
+istore J
+istore L
+istore j
+ibnot
+iadd
+fconst 2.934010

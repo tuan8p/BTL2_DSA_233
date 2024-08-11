@@ -1,0 +1,18 @@
+val K
+fconst 0.808545
+fconst -2.033716
+iconst -11
+istore f
+iconst 6
+fload E
+fstore H
+istore L
+fstore a
+fconst -4.018745
+istore h
+fstore C
+iconst 1
+fstore k
+iconst -11
+istore H
+flt

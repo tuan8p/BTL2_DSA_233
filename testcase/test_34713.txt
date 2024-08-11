@@ -1,0 +1,14 @@
+fload M
+par A
+fconst 7.156027
+fstore J
+iconst 18
+iload K
+fstore D
+iconst 14
+fload a
+isub
+fstore E
+istore L
+ilt
+idiv

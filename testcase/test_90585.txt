@@ -1,0 +1,14 @@
+iconst 17
+top
+iload C
+istore G
+fconst -6.997158
+ieq
+iconst 17
+idiv
+fconst 9.255177
+iadd
+fload A
+istore g
+iconst -12
+fconst -8.786246

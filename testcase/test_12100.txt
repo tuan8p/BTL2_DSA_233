@@ -1,0 +1,19 @@
+iload j
+fload f
+top
+fstore g
+fconst 9.446342
+fconst 9.470839
+i2f
+iconst 14
+ior
+iand
+fconst 2.193945
+top
+fconst 5.117018
+par E
+iconst 17
+iconst -15
+iload g
+igt
+iload G

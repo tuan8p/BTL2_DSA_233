@@ -1,0 +1,14 @@
+fconst -4.272635
+top
+iconst -17
+iconst -6
+fconst 6.664005
+iconst -12
+fload D
+iconst 20
+irem
+isub
+istore j
+val G
+iconst -13
+iconst -13

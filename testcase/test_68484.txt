@@ -1,0 +1,13 @@
+iload i
+iload e
+fconst 2.246984
+fconst -9.007965
+ibnot
+iconst -10
+fconst 2.934988
+iload i
+ieq
+i2f
+iconst -1
+fdiv
+iload j

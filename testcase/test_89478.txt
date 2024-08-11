@@ -1,0 +1,23 @@
+iconst 17
+iload k
+par A
+isub
+iload I
+isub
+iload H
+iload H
+iload E
+iconst -20
+iload f
+fload J
+fstore c
+istore K
+fstore E
+isub
+istore f
+iconst 19
+iconst 20
+iconst 14
+fconst -3.265367
+fstore B
+fstore k

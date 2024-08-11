@@ -1,0 +1,22 @@
+fload K
+fstore b
+fload e
+iload i
+iload J
+iconst 20
+fstore L
+f2i
+iconst 13
+fstore e
+fload E
+fload e
+fstore G
+iconst -8
+fstore c
+iconst 20
+fstore D
+iconst 9
+istore e
+fstore D
+fstore m
+top

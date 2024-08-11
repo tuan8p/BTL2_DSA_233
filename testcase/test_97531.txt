@@ -1,0 +1,13 @@
+fload f
+fstore M
+fconst 5.120661
+iconst 9
+iconst 13
+ineg
+fconst 4.913367
+fstore f
+fstore G
+fstore M
+flt
+istore c
+fstore E

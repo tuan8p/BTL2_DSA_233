@@ -1,0 +1,20 @@
+val K
+fload A
+fload F
+fstore K
+fconst -9.914903
+fload f
+fconst -3.748331
+iconst -6
+iload d
+iconst -3
+iconst 3
+fconst 5.653872
+iload F
+iconst -19
+fconst -4.429492
+ineq
+fadd
+ieq
+flt
+fconst 6.527979

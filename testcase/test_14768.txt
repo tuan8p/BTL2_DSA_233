@@ -1,0 +1,14 @@
+iconst -8
+istore A
+fconst 3.076930
+istore A
+istore B
+istore H
+iload b
+iload B
+ineq
+fconst 8.737127
+iand
+idiv
+f2i
+fmul

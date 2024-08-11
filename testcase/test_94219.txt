@@ -1,0 +1,15 @@
+fload h
+par k
+iload B
+iconst -3
+fneg
+iload d
+iload L
+iconst 20
+iload F
+iadd
+istore A
+top
+iload f
+fconst -4.916367
+igt

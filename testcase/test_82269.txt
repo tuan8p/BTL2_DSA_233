@@ -1,0 +1,15 @@
+iload I
+iconst 10
+ior
+fload K
+fconst 8.048479
+iand
+iconst -8
+fconst -1.258632
+feq
+iconst -11
+iconst 7
+fgt
+feq
+fadd
+iconst 6

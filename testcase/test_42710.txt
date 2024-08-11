@@ -1,0 +1,8 @@
+iload J
+iconst -3
+iconst -11
+iload K
+fload B
+fload E
+iconst 12
+iload A

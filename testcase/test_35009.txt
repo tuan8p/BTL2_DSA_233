@@ -1,0 +1,9 @@
+iconst 14
+iload f
+istore c
+ibnot
+iconst 10
+iconst -20
+par l
+igt
+ineg

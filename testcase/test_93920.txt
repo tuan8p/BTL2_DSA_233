@@ -1,0 +1,10 @@
+iload H
+iconst 3
+iconst -20
+iconst -1
+fconst -2.004575
+iload F
+fconst -3.590195
+fsub
+fneg
+iconst 20

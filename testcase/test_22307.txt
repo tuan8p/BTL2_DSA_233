@@ -1,0 +1,18 @@
+iload G
+fconst 2.934870
+fconst -9.802671
+feq
+iload h
+feq
+feq
+fconst -8.884735
+iconst 19
+isub
+ieq
+fconst 1.891905
+fconst 7.209572
+fneq
+par b
+fdiv
+ieq
+iconst -11

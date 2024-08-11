@@ -1,0 +1,15 @@
+iconst 4
+ineg
+par K
+fconst -4.761985
+istore I
+fstore c
+f2i
+fstore a
+fconst 7.543472
+iload H
+istore g
+fstore i
+iconst 18
+istore A
+isub

@@ -1,0 +1,9 @@
+iconst 7
+fconst -4.016408
+fstore g
+i2f
+iload C
+fconst -0.928223
+fload A
+fsub
+iconst -6

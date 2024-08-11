@@ -1,0 +1,14 @@
+iload l
+iload a
+fconst 5.936607
+ieq
+fconst -1.499801
+feq
+iload k
+iload M
+isub
+iconst -16
+fconst 0.227948
+iconst -9
+val F
+fconst 2.276968

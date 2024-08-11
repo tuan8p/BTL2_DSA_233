@@ -1,0 +1,13 @@
+fload b
+iload L
+fload k
+iconst -13
+feq
+iload k
+fadd
+par h
+fload m
+fconst -8.777609
+fstore f
+ineq
+ibnot

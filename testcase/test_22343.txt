@@ -1,0 +1,18 @@
+iload F
+iload e
+isub
+fload L
+ieq
+fconst -8.416648
+fconst -8.951061
+iload a
+fconst -0.417166
+fstore H
+isub
+ior
+iconst -17
+iconst -10
+fadd
+iload D
+fsub
+fstore D

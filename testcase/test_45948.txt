@@ -1,0 +1,24 @@
+iconst 3
+iconst -4
+ior
+idiv
+fconst -3.603053
+istore A
+fconst 9.081181
+fconst -4.747446
+istore K
+fstore g
+iconst -18
+fconst 2.757462
+iconst -9
+fstore j
+fconst 7.362232
+fconst -5.969295
+imul
+iconst -7
+istore f
+fconst -2.993824
+ieq
+fconst -2.759851
+istore f
+fconst 6.673462

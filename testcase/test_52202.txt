@@ -1,0 +1,11 @@
+fload M
+fneg
+iconst 2
+iload G
+fstore b
+fstore j
+ibnot
+val d
+iconst -19
+fload I
+fconst -2.629992

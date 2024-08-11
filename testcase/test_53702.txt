@@ -1,0 +1,20 @@
+iload D
+istore a
+iload f
+istore d
+iconst 16
+fconst -4.808594
+iconst -3
+par G
+fconst -4.423374
+iconst -5
+istore e
+ineq
+iconst -3
+fconst -4.772416
+iconst 8
+ieq
+iconst 20
+fconst 0.874134
+iconst 3
+iload J

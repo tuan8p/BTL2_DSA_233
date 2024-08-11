@@ -1,0 +1,16 @@
+iload j
+istore f
+i2f
+iload c
+ineq
+fconst 5.600397
+ibnot
+istore b
+istore h
+ior
+ibnot
+iload A
+istore L
+fload H
+iload g
+istore C

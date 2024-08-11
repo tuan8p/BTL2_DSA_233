@@ -1,0 +1,18 @@
+fconst -6.180965
+fneg
+fstore M
+fstore H
+fconst -6.148467
+iload c
+fstore C
+iconst 17
+val H
+par l
+istore C
+ior
+flt
+fstore d
+f2i
+istore L
+istore H
+istore k

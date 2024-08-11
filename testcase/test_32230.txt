@@ -1,0 +1,14 @@
+fconst -6.792978
+iload l
+iconst -20
+fconst -0.069856
+iconst -7
+iconst -16
+iconst -5
+isub
+top
+igt
+iconst 1
+i2f
+fsub
+fload j

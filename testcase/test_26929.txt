@@ -1,0 +1,12 @@
+iconst -11
+iconst -14
+fconst 2.271067
+iconst -15
+fconst 0.366171
+imul
+fneg
+iconst 6
+fconst -7.788756
+istore L
+fsub
+fconst 5.193072

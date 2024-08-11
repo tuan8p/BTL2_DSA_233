@@ -1,0 +1,13 @@
+iconst -11
+fconst 1.632843
+istore d
+iconst -18
+iconst 20
+fconst 5.105549
+ilt
+fstore B
+istore G
+imul
+irem
+istore D
+istore e

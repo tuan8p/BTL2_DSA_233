@@ -1,0 +1,17 @@
+iconst 14
+iload F
+iconst -6
+iconst -1
+iconst 5
+iconst -18
+fconst 3.487125
+isub
+top
+fconst -8.065668
+fadd
+iconst -9
+fconst 8.373924
+iload h
+fload b
+ilt
+iconst -4

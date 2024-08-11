@@ -1,0 +1,12 @@
+fconst -6.240637
+fload D
+flt
+iconst -7
+iconst 12
+iconst -8
+iconst -19
+iconst 0
+istore C
+ieq
+fstore c
+ibnot

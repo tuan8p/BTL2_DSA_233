@@ -1,0 +1,12 @@
+iconst 9
+iconst -17
+iadd
+iconst -2
+isub
+fconst 5.420046
+fstore d
+iconst -10
+iload d
+ilt
+iconst 17
+istore e

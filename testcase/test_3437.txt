@@ -1,0 +1,14 @@
+fconst 3.381483
+fstore C
+fconst 0.086376
+iconst -14
+fstore f
+fstore J
+fstore F
+f2i
+iconst 7
+fconst -4.051562
+ior
+fstore m
+fconst -7.334785
+top

@@ -1,0 +1,21 @@
+iload G
+i2f
+iconst 14
+iand
+iadd
+ilt
+ior
+top
+ior
+i2f
+fconst -2.230610
+iload I
+isub
+fload K
+fload K
+i2f
+fstore c
+ibnot
+istore c
+ineq
+iload m

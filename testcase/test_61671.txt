@@ -1,0 +1,13 @@
+iconst -12
+fconst 0.975104
+iconst 13
+iconst 8
+istore c
+iconst 14
+iconst 16
+istore I
+imul
+iconst -18
+iconst 0
+istore k
+fconst -2.642247

@@ -1,0 +1,13 @@
+iconst 11
+iconst -2
+iconst -20
+val A
+fconst 3.944794
+iconst 14
+fconst 6.549881
+ieq
+iconst 11
+val H
+fconst 9.700979
+iadd
+iconst -6

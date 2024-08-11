@@ -1,0 +1,19 @@
+fconst -7.451556
+fconst -5.966788
+iconst -18
+fconst 8.844191
+fstore M
+fdiv
+fmul
+iconst 1
+fconst 2.918357
+fstore d
+imul
+fconst -5.425254
+fstore j
+fgt
+ieq
+iconst -8
+fconst 0.053267
+feq
+fconst -9.458019

@@ -1,0 +1,17 @@
+iconst 11
+iconst -11
+fconst -8.428400
+iconst 8
+fstore K
+igt
+iconst 15
+iconst 0
+fconst 4.090289
+iconst 14
+fneg
+iadd
+istore b
+iadd
+istore e
+iconst 20
+iconst -18

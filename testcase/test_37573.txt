@@ -1,0 +1,15 @@
+fconst 2.979231
+top
+iconst 16
+fconst 9.379753
+istore D
+fstore D
+iload B
+istore a
+fneq
+iload J
+istore m
+i2f
+fload b
+ibnot
+istore m

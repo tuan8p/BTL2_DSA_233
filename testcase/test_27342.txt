@@ -1,0 +1,25 @@
+fconst -7.283249
+fstore H
+fstore B
+fstore m
+iconst 6
+fconst 6.026424
+fsub
+iconst 6
+fstore H
+fconst 8.140232
+iconst 18
+iconst -10
+iconst -14
+iconst -15
+fdiv
+iconst 15
+fconst -2.165909
+fconst 2.775768
+istore K
+iconst 17
+fconst 3.353310
+iconst -17
+iconst 7
+fconst 0.028614
+ineg

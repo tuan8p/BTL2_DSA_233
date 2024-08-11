@@ -1,0 +1,15 @@
+iconst -7
+fconst 5.510264
+iconst 1
+top
+istore g
+istore h
+fconst -3.642864
+irem
+fneq
+isub
+fstore m
+ineq
+fconst -4.918410
+ibnot
+iconst 1

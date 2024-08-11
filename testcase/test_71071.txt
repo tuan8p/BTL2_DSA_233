@@ -1,0 +1,7 @@
+fload f
+fstore e
+iconst 16
+fconst 2.713170
+i2f
+fload d
+fstore C

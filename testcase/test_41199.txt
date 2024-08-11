@@ -1,0 +1,8 @@
+iconst 2
+iconst 20
+iconst -10
+iconst -1
+fconst -6.281180
+istore a
+fstore J
+ibnot

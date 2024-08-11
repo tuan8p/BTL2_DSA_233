@@ -1,0 +1,12 @@
+iconst -11
+iconst 1
+iconst -19
+iconst 17
+istore j
+ineg
+fconst -8.192430
+iconst -16
+istore E
+fstore g
+iconst -14
+iconst -17

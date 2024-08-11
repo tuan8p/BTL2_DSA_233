@@ -1,0 +1,18 @@
+iload E
+iload g
+iload m
+ior
+iconst 1
+iconst 6
+fload g
+iload I
+ibnot
+irem
+iconst -14
+iand
+fconst 7.146725
+iload l
+fstore k
+fconst 9.650005
+fstore k
+fneg

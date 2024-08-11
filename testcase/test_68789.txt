@@ -1,0 +1,11 @@
+iload A
+iload e
+ineq
+iconst -7
+iconst -18
+iconst -1
+iload K
+iadd
+iconst 2
+iload b
+iconst 5

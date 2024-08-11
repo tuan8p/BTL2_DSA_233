@@ -1,0 +1,16 @@
+iload e
+istore c
+iload M
+istore A
+igt
+par a
+iconst -11
+iconst -12
+iconst 17
+iload C
+iload A
+iload M
+idiv
+fconst -1.521648
+istore e
+top

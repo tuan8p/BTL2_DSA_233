@@ -1,0 +1,8 @@
+iconst -6
+istore B
+iload D
+fconst 6.527393
+i2f
+istore A
+istore A
+iconst -9

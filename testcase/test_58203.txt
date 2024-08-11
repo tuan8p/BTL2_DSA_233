@@ -1,0 +1,8 @@
+iload M
+iconst -12
+ieq
+iload E
+ieq
+iload b
+iconst 12
+iconst -7

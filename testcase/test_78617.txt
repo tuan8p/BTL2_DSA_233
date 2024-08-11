@@ -1,0 +1,21 @@
+fload J
+iload e
+istore A
+iload k
+top
+iload F
+fconst 2.621760
+fstore a
+fstore k
+f2i
+fload J
+fconst -9.507044
+iload K
+f2i
+fstore g
+fload K
+fconst 9.390585
+fconst 2.518284
+fload b
+istore B
+fneq

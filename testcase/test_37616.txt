@@ -1,0 +1,13 @@
+iconst 16
+istore E
+i2f
+iconst 19
+fconst -7.222875
+par d
+iconst -14
+fstore A
+iconst -11
+fconst 0.820384
+ilt
+ineg
+fconst -8.421080

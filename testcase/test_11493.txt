@@ -1,0 +1,12 @@
+iconst -9
+fconst 1.704601
+fload d
+fload E
+fconst -0.712112
+iconst 11
+iconst -1
+fneq
+fconst 3.249208
+fconst -2.419309
+fconst 0.184807
+fconst 4.617697

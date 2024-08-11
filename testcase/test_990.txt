@@ -1,0 +1,17 @@
+iload f
+fconst 4.566679
+fstore l
+fstore F
+fconst 0.224376
+iconst -16
+fstore i
+iconst 0
+fstore i
+par L
+fstore i
+iload e
+iload l
+ibnot
+iconst 14
+istore b
+iconst -19

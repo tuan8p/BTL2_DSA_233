@@ -1,0 +1,12 @@
+iconst -14
+iload G
+iload a
+fload a
+ineg
+idiv
+fconst -4.263341
+iconst 4
+igt
+fload B
+iconst -10
+iconst -9

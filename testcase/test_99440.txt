@@ -1,0 +1,19 @@
+iconst -18
+iload B
+iconst -20
+ineg
+fconst 0.090374
+istore K
+istore c
+iload j
+istore I
+ineq
+iload m
+i2f
+fconst -0.933004
+fmul
+iconst 20
+iconst -19
+ieq
+iload M
+iconst 1

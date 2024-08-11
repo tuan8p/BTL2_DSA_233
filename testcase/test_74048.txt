@@ -1,0 +1,21 @@
+iconst 3
+fload B
+iload d
+top
+fstore m
+iconst 11
+fstore M
+fload G
+iconst -5
+iconst -4
+iconst 13
+iload F
+iload B
+fconst -2.808799
+imul
+fadd
+iconst 15
+fstore A
+par A
+iconst 17
+iload l

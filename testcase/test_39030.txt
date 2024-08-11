@@ -1,0 +1,15 @@
+fconst 5.904669
+fstore G
+fstore D
+fneg
+fload F
+fstore k
+fload L
+fload J
+fstore F
+iconst -19
+istore a
+val f
+fstore J
+fconst -6.395903
+fstore a

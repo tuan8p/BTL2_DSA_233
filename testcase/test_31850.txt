@@ -1,0 +1,10 @@
+iconst 2
+iload K
+iload e
+fconst 8.638861
+fconst -6.321059
+imul
+istore E
+ieq
+iconst -10
+ieq

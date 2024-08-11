@@ -1,0 +1,10 @@
+iconst 9
+iconst -2
+fconst -3.427280
+iload F
+fstore F
+fstore G
+ineq
+fstore a
+iconst 9
+fload l

@@ -1,0 +1,20 @@
+iconst 12
+istore C
+iconst -11
+top
+iconst 5
+iconst -4
+iload d
+istore J
+iadd
+iconst 4
+istore M
+istore l
+iconst -4
+iconst 5
+iconst 10
+istore G
+fconst -2.625032
+fconst 0.152857
+istore K
+istore j

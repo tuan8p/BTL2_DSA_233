@@ -1,0 +1,17 @@
+fconst 5.496421
+iload K
+iload k
+istore i
+iload K
+ieq
+iload L
+fstore B
+idiv
+fconst 3.844740
+iload M
+irem
+istore f
+fsub
+fconst 5.573131
+iadd
+fsub

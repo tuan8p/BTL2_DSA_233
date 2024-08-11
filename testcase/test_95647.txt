@@ -1,0 +1,16 @@
+fconst 9.402853
+iconst 12
+fload j
+fneq
+par H
+fconst 6.529203
+fgt
+istore J
+iconst -14
+iload B
+ieq
+fneg
+istore d
+iload i
+iconst 1
+ineg

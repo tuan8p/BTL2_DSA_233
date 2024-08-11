@@ -1,0 +1,13 @@
+fconst 6.249685
+iconst 12
+fconst -9.167295
+iconst -6
+irem
+fconst -8.315065
+iconst -14
+fconst 4.365042
+iconst -20
+iconst -18
+istore B
+fmul
+fmul

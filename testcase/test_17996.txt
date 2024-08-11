@@ -1,0 +1,19 @@
+fload i
+fstore I
+iload J
+iconst 13
+iload l
+iconst 5
+iload c
+iload e
+istore i
+iconst -9
+iconst -13
+fstore a
+iconst 16
+iconst -11
+par K
+fstore D
+idiv
+iconst -9
+irem

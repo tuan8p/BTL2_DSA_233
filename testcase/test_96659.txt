@@ -1,0 +1,14 @@
+fconst 0.784360
+iconst 10
+fconst 3.592177
+f2i
+iload K
+idiv
+iload A
+fconst -3.426231
+ieq
+iadd
+fconst -9.972663
+iload h
+fconst -3.983376
+fload D

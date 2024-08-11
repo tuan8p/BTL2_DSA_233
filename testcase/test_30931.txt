@@ -1,0 +1,10 @@
+iconst -9
+iload B
+ineq
+iand
+fconst -6.957872
+ineg
+fstore K
+val e
+igt
+fload c

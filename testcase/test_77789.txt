@@ -1,0 +1,13 @@
+iload f
+fconst 8.978046
+fneg
+fconst -1.564600
+iconst -3
+imul
+fmul
+iload h
+imul
+fconst -2.009717
+fdiv
+fload H
+fdiv

@@ -1,0 +1,12 @@
+iload D
+par A
+val G
+iconst -6
+ineg
+fconst -3.145425
+istore e
+iconst -20
+fstore d
+f2i
+istore B
+iload I

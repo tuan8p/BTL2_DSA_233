@@ -1,0 +1,9 @@
+fconst -4.832264
+fstore G
+fconst -0.257378
+fsub
+fconst 0.612812
+fstore d
+fstore B
+par a
+iload A

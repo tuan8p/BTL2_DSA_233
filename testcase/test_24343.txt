@@ -1,0 +1,14 @@
+iconst 2
+fconst -6.504521
+iconst 2
+iconst -2
+fconst 1.556240
+iand
+fconst 2.182072
+fadd
+fstore K
+fconst 6.086084
+fconst 4.202856
+istore I
+iload G
+ineq

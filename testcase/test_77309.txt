@@ -1,0 +1,18 @@
+iconst 4
+fconst 9.422037
+fconst 8.601149
+iconst 10
+fneq
+istore L
+istore L
+istore b
+fstore a
+fstore h
+fconst 3.691946
+iconst 4
+istore a
+val E
+fconst -5.861133
+fconst -6.721997
+istore G
+iconst -3

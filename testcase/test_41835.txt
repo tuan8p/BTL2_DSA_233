@@ -1,0 +1,20 @@
+iconst -17
+val B
+istore H
+iconst 5
+iconst -13
+istore D
+istore G
+fload j
+iload d
+iconst -15
+fload K
+imul
+fadd
+iconst 17
+fstore h
+iload L
+iconst 2
+val b
+iload C
+iload d

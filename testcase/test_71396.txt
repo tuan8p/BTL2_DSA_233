@@ -1,0 +1,11 @@
+iconst 9
+istore i
+iconst 9
+fconst -7.049105
+iconst -15
+isub
+fstore k
+ior
+istore F
+istore e
+fconst 9.362846

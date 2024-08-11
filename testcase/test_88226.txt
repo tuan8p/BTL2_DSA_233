@@ -1,0 +1,7 @@
+fconst -4.865301
+fstore b
+iconst 18
+top
+fstore f
+iload J
+fconst 3.508324

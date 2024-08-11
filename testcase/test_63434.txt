@@ -1,0 +1,15 @@
+iconst -13
+iconst -15
+ieq
+par a
+fconst -2.529023
+iload B
+iconst -5
+iload G
+iload I
+fconst -1.795615
+iload D
+fsub
+fadd
+fstore a
+iconst -3

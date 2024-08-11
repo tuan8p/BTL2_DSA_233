@@ -1,0 +1,13 @@
+iconst 10
+iconst 1
+iadd
+iload i
+iconst -9
+iconst 19
+iconst -20
+iconst 5
+ior
+fconst -6.088557
+iconst 20
+istore b
+iload M

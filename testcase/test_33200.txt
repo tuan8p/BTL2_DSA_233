@@ -1,0 +1,8 @@
+iconst 10
+iconst -12
+istore c
+par g
+fconst -0.120495
+fconst 8.387354
+fconst -6.420331
+istore e

@@ -1,0 +1,21 @@
+par L
+iconst -8
+istore H
+iload D
+iload C
+ineq
+fconst -7.766744
+fconst 6.649548
+iload E
+fconst 2.099533
+iload c
+fgt
+iconst -14
+igt
+iconst 16
+istore k
+istore I
+ieq
+val d
+fconst -6.130589
+fneg

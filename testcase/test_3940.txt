@@ -1,0 +1,24 @@
+iconst 19
+fload B
+ineg
+fstore G
+fstore f
+fconst 8.726933
+fstore a
+f2i
+fstore k
+iload d
+fstore k
+iconst 3
+iconst 12
+iload h
+iconst -19
+fstore d
+fstore K
+par D
+fstore A
+fstore e
+fconst 7.346418
+ineq
+fstore M
+top

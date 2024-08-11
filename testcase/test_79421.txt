@@ -1,0 +1,15 @@
+iconst -9
+iload L
+iload L
+imul
+fconst -5.088419
+igt
+ibnot
+iconst -14
+iconst -19
+iconst -9
+iconst 16
+igt
+iconst -20
+iconst -19
+iconst 16

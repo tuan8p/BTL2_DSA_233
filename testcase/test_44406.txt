@@ -1,0 +1,14 @@
+fconst 4.121445
+iconst 4
+fstore H
+iconst -17
+iconst 14
+top
+fconst 9.589853
+f2i
+iconst -8
+iload k
+fadd
+fneq
+fload A
+iconst 19

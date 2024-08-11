@@ -1,0 +1,15 @@
+fload H
+par M
+iload f
+iload f
+iconst 8
+irem
+iadd
+fconst -9.118643
+istore J
+iconst 5
+iconst -9
+fsub
+i2f
+fdiv
+fconst -3.671870

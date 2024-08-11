@@ -1,0 +1,10 @@
+fload l
+fconst -9.525395
+fneg
+iconst -5
+fstore C
+fstore E
+fneg
+istore l
+fconst -9.658729
+fstore E

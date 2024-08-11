@@ -1,0 +1,9 @@
+iconst -7
+iconst 9
+istore c
+iconst -7
+iconst -3
+iconst -9
+iconst 6
+istore l
+iload E

@@ -1,0 +1,24 @@
+iconst 3
+iload K
+fload E
+i2f
+iconst 20
+fconst 4.231766
+ineg
+iconst -18
+iconst 1
+iconst -16
+imul
+iconst -16
+fstore C
+par i
+i2f
+iload i
+fstore m
+istore I
+fstore D
+iconst 13
+istore a
+fstore e
+fconst 7.162313
+istore G

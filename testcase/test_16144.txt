@@ -1,0 +1,22 @@
+iconst 5
+iconst -17
+iload j
+fconst 8.605503
+iconst 14
+iconst 5
+irem
+val j
+fstore h
+fstore E
+iconst 4
+iconst -15
+fconst 7.500183
+fconst -2.832532
+iconst -17
+igt
+fsub
+fload C
+fstore F
+fconst -1.679278
+iload e
+istore e

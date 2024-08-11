@@ -1,0 +1,11 @@
+iconst 18
+iconst -5
+istore d
+iconst 15
+istore i
+iconst 0
+iload K
+iload k
+istore l
+istore l
+istore G

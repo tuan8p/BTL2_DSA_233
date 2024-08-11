@@ -1,0 +1,17 @@
+iconst 14
+iconst 16
+idiv
+i2f
+fconst -3.683973
+fconst 8.879984
+fconst -2.154422
+fconst 3.839358
+iadd
+iconst -6
+iconst -14
+fstore j
+fconst 2.374611
+fmul
+fstore C
+istore a
+ilt

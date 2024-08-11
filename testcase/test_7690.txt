@@ -1,0 +1,19 @@
+par A
+iload K
+iconst 0
+istore g
+istore I
+istore D
+iconst -15
+fload k
+igt
+iload E
+iload F
+irem
+imul
+istore C
+iconst 12
+fload f
+iconst -9
+iload f
+fstore F

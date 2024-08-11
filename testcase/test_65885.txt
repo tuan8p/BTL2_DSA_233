@@ -1,0 +1,15 @@
+fconst -1.948215
+par I
+fstore b
+fconst -1.528268
+fstore L
+fconst -1.094267
+fdiv
+fload K
+fload a
+iload A
+fstore F
+fdiv
+val B
+iconst 19
+istore B

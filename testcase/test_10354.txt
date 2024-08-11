@@ -1,0 +1,9 @@
+iconst -18
+istore E
+iconst 13
+iconst 2
+i2f
+iconst -14
+isub
+iconst 1
+iconst -1

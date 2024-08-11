@@ -1,0 +1,13 @@
+iconst -4
+istore G
+val a
+iconst -19
+istore g
+fconst 1.335677
+par H
+istore C
+imul
+istore L
+iconst 6
+iconst 7
+fload J

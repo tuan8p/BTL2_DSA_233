@@ -1,0 +1,19 @@
+iconst -6
+iconst -16
+istore M
+iadd
+ibnot
+fconst -8.358616
+istore I
+fstore K
+fconst 8.631245
+fstore L
+ilt
+istore I
+fgt
+top
+fstore f
+fconst 3.142122
+ineq
+iconst 8
+fstore l

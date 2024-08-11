@@ -1,0 +1,19 @@
+iconst 20
+fconst -5.196180
+fconst 2.586074
+fload K
+fstore k
+istore I
+iconst 16
+iconst -4
+iconst 9
+iadd
+fconst 8.169252
+i2f
+iconst 16
+fload K
+val C
+fload K
+fmul
+fconst 4.633858
+fsub

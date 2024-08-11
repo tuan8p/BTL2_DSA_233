@@ -1,0 +1,8 @@
+fconst -5.903154
+fconst 9.711462
+iconst -2
+fstore a
+fstore G
+fmul
+fneq
+iconst 14

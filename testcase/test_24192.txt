@@ -1,0 +1,7 @@
+iload g
+fconst -1.628860
+istore e
+iload A
+fneg
+istore i
+iload a

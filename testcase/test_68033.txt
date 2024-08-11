@@ -1,0 +1,22 @@
+fconst 9.436266
+fload g
+iconst 13
+fneq
+iconst -13
+fstore h
+iload k
+fstore l
+iconst 6
+fconst -9.159747
+fconst 6.575659
+fadd
+isub
+imul
+par D
+fconst 9.022387
+top
+imul
+f2i
+iload a
+ibnot
+iload c

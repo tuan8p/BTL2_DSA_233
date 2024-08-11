@@ -1,0 +1,15 @@
+iload l
+fconst 4.240000
+ineg
+iload h
+iconst -10
+ineq
+isub
+istore j
+fstore g
+iload M
+fstore H
+idiv
+iload g
+istore h
+f2i

@@ -1,0 +1,13 @@
+fload D
+fconst 5.161448
+fconst 8.875563
+fconst -5.572472
+fload d
+fstore d
+fstore D
+fstore M
+fconst -1.287221
+fconst 3.528358
+fstore b
+fstore H
+fconst 4.622019

@@ -1,0 +1,16 @@
+iload a
+fconst 1.739902
+f2i
+iconst -18
+istore E
+iconst -12
+iload A
+iconst 18
+iconst 20
+iload L
+iadd
+iconst 18
+ineg
+istore d
+val d
+fconst 8.342220

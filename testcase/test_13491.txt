@@ -1,0 +1,14 @@
+fconst -4.970104
+fstore l
+fstore d
+top
+iconst -20
+fconst 4.237223
+top
+fstore m
+iload c
+iconst -12
+fconst -1.157280
+fstore L
+par h
+imul

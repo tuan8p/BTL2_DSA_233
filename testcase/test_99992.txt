@@ -1,0 +1,14 @@
+iconst -4
+iconst -12
+iconst 11
+fconst 7.994669
+iload M
+isub
+f2i
+fconst 9.048344
+fgt
+val B
+val m
+istore B
+istore C
+istore F

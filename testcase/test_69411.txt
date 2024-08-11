@@ -1,0 +1,20 @@
+iload l
+iconst 5
+iload G
+iconst 7
+iconst 4
+fconst -7.119047
+iconst -14
+iload h
+val I
+fconst -0.097097
+fsub
+fstore L
+ieq
+iconst -12
+fadd
+iconst -19
+fadd
+fload i
+fconst 8.780098
+iload I

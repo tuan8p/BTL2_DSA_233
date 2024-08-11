@@ -1,0 +1,18 @@
+fconst 3.703320
+top
+fload A
+par C
+fneg
+iconst -18
+iconst 4
+fadd
+ieq
+fstore a
+iconst 10
+isub
+iconst 8
+iload c
+iconst -7
+iconst -8
+fstore I
+iconst -10

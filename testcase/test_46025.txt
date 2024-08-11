@@ -1,0 +1,9 @@
+iload i
+istore A
+istore d
+iconst -2
+iconst -19
+iload D
+fconst -4.321381
+iconst 9
+iload L

@@ -1,0 +1,16 @@
+iconst -10
+fconst 6.245382
+fstore e
+iconst 1
+iload l
+fstore I
+iconst 4
+iconst 6
+iconst -8
+fload L
+fneg
+fadd
+iconst -9
+fstore L
+fneg
+iconst -4

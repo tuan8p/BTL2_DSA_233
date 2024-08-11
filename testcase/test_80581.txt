@@ -1,0 +1,10 @@
+fconst 4.698408
+fconst -6.322058
+top
+fstore C
+flt
+iload E
+fstore I
+fneq
+fconst -9.243157
+fconst 8.805534

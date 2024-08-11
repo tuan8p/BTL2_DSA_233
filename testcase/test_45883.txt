@@ -1,0 +1,23 @@
+par d
+fconst -1.894936
+fconst -5.966098
+iconst -10
+fconst 3.921110
+f2i
+ibnot
+i2f
+fload A
+fload c
+fadd
+val I
+iconst -16
+fconst -6.015489
+idiv
+iadd
+istore c
+fstore j
+iconst 8
+fconst -3.396802
+par B
+iload A
+iload k

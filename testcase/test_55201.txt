@@ -1,0 +1,15 @@
+fconst 0.469952
+iconst 16
+val g
+fconst -9.252483
+iconst -14
+iconst 4
+istore b
+istore M
+fconst 1.292631
+iconst -3
+istore b
+irem
+fconst 3.384658
+fconst 9.430973
+iconst 7

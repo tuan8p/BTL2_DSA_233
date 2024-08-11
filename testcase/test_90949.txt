@@ -1,0 +1,19 @@
+fconst 2.212949
+fstore G
+iconst 17
+fconst -1.776922
+iconst 19
+fconst 7.827141
+istore F
+val e
+iconst 6
+istore I
+fstore I
+iconst 2
+iconst 15
+fstore I
+fstore a
+istore l
+iadd
+fconst -3.278295
+iconst -5

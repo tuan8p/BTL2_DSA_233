@@ -1,0 +1,12 @@
+iconst -5
+istore D
+iconst 2
+iconst -9
+istore k
+istore K
+istore e
+igt
+fconst 8.547550
+fconst 7.579891
+ieq
+irem

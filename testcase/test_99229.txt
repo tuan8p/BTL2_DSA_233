@@ -1,0 +1,11 @@
+iconst -19
+iconst -8
+iconst 7
+istore I
+val a
+iconst 12
+istore i
+istore C
+istore B
+fconst 8.113602
+fstore D

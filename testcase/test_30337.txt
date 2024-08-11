@@ -1,0 +1,19 @@
+iconst 12
+iload g
+ilt
+fload H
+iadd
+istore F
+iconst 0
+istore j
+fstore m
+istore F
+iconst 12
+idiv
+iload b
+istore G
+fconst 8.559547
+ineg
+iconst 10
+fsub
+imul

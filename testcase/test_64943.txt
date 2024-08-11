@@ -1,0 +1,13 @@
+iconst 9
+iconst 9
+iand
+iconst 1
+iconst -15
+fconst 7.986195
+iload M
+fstore A
+fconst 6.886147
+fconst 2.322775
+fconst 3.511398
+iconst -3
+fgt

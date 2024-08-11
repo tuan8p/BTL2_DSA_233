@@ -1,0 +1,10 @@
+iload j
+iconst -10
+fload I
+fstore J
+iconst -12
+fconst 4.853230
+fstore J
+fneq
+igt
+isub

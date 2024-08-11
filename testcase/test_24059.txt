@@ -1,0 +1,12 @@
+par d
+iload d
+iconst -17
+imul
+fload b
+idiv
+iconst 3
+fconst -2.708559
+fstore l
+ieq
+iconst 5
+iconst 20

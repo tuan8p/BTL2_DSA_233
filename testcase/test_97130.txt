@@ -1,0 +1,20 @@
+fconst -5.205125
+iconst 10
+iconst 1
+iconst -10
+igt
+fstore i
+fconst 2.449666
+feq
+iconst 7
+fgt
+fstore I
+fstore d
+iconst -14
+iconst -10
+fconst 8.687599
+iconst -14
+iconst -8
+istore D
+fconst -5.259947
+par i

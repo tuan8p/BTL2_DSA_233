@@ -1,0 +1,12 @@
+fconst -2.808921
+fconst -3.012635
+fconst 6.520668
+fconst 5.436563
+fconst 5.136984
+fdiv
+fload j
+iconst -11
+iconst 10
+fload M
+isub
+ior

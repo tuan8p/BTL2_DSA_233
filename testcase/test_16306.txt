@@ -1,0 +1,12 @@
+fload l
+par A
+iload C
+iload E
+iload E
+iload c
+istore l
+istore J
+iload G
+iconst 0
+fload B
+val k

@@ -1,0 +1,16 @@
+fconst 5.161217
+fconst -4.567852
+fconst -7.115230
+iconst -4
+iconst 17
+iconst -4
+istore F
+iconst 17
+iconst 11
+iand
+iconst 6
+fconst -7.917804
+istore F
+fconst -0.109255
+istore M
+iconst 1

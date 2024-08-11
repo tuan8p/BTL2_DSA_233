@@ -1,0 +1,22 @@
+iload k
+iconst 16
+iload E
+istore j
+iconst -12
+iand
+istore g
+top
+ieq
+iconst 9
+igt
+idiv
+istore e
+fconst -0.354058
+istore I
+fneg
+istore I
+istore c
+fconst 7.643641
+iload J
+irem
+i2f

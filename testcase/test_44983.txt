@@ -1,0 +1,11 @@
+fconst -8.886608
+par G
+fconst -8.381017
+feq
+fstore j
+iload f
+istore f
+iconst -11
+iload I
+par m
+iconst 11

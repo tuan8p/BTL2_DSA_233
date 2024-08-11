@@ -1,0 +1,9 @@
+fload E
+fstore C
+iconst 18
+istore m
+fconst 8.002008
+istore b
+iload K
+fstore H
+fneg

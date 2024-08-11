@@ -1,0 +1,13 @@
+top
+iload j
+iload B
+fconst 5.503726
+iload l
+ineg
+istore c
+istore k
+iconst 14
+imul
+fconst -5.926940
+iload M
+iconst 8

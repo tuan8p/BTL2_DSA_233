@@ -1,0 +1,14 @@
+iconst 3
+istore k
+fload M
+fconst 8.251001
+iconst 2
+fneg
+iconst 14
+iconst 5
+iconst -20
+iconst -3
+idiv
+iconst -6
+iconst 5
+fstore C

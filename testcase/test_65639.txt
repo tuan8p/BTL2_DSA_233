@@ -1,0 +1,13 @@
+fconst 1.384927
+iload d
+istore D
+par B
+iload M
+fconst 6.831045
+istore K
+fmul
+istore f
+fconst -3.491739
+ineg
+ineg
+isub

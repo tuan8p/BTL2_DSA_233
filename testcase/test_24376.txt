@@ -1,0 +1,13 @@
+iconst 12
+ibnot
+iconst -18
+iconst 9
+iload F
+iload b
+ineq
+irem
+fconst 5.077790
+iadd
+iconst -20
+istore A
+iload B

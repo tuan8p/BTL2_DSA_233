@@ -53,10 +53,6 @@ public:
     operation operator|(const operation& other) const {
         return operation((int)this->oper | (int)other.oper, this->status);
     }
-    // void operator<<(const operation& other)
-    // {
-    //     cout << other.oper;
-    // }
 };
 
 template<class T>
@@ -69,7 +65,6 @@ private:
     Node* rotateRight(Node* root);
     Node* rotateLeft(Node* root);
     Node* insertRec(Node* node, const T &value, const std::string key);
-    Node* deletion(Node*root, std::string key);
     Node* searchRec(Node* node, const std::string value);
 public:
     AVLTree() : root(nullptr) {}
@@ -116,9 +111,8 @@ public:
 
     int getHeight() {return this->getHeightRec(this->root);}
     void insert(const T &value, const std::string key) {root = insertRec(root, value, key);}
-    void remove(const std::string key) {root = deletion(root, key);}
     int getBalance(Node*subroot) {
-        return !subroot? 0 : getHeightRec(subroot->pLeft)- getHeightRec(subroot->pRight);
+        return !subroot? 0 : getHeightRec(subroot->pLeft) - getHeightRec(subroot->pRight);
     }
     Node* search(const std::string value) {return searchRec(root, value);}
     T getData(Node* node) {return !node? T(-1, OTHER) : node->data;}
@@ -174,7 +168,6 @@ public:
     void push(operation e);
     void pop();
     operation top();
-    bool checkChar(std::string str);
     bool empty() {return list->empty();}
     int size() {return list->size();}
     void calculateBasicAndLogic(std::string str);

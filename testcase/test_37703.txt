@@ -1,0 +1,12 @@
+val a
+iconst -20
+iconst -13
+fconst -9.703157
+iconst 14
+fload e
+ibnot
+istore c
+fload H
+iconst -8
+ineq
+iload E

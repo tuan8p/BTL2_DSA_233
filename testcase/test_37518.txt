@@ -1,0 +1,13 @@
+iconst -8
+iconst -3
+ineq
+fconst 4.515008
+i2f
+f2i
+fconst -7.359251
+iconst 17
+iconst 18
+iload c
+iconst -16
+iload i
+iconst 8

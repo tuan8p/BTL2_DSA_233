@@ -1,0 +1,14 @@
+fconst 8.785370
+iconst -9
+fconst 3.709530
+fload f
+istore D
+iconst 18
+iload D
+fdiv
+par j
+iconst -12
+fneq
+iconst -15
+par K
+idiv

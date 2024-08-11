@@ -1,0 +1,23 @@
+iconst 13
+iconst -19
+istore e
+iconst 18
+iand
+iconst 7
+istore M
+iconst -5
+ibnot
+fconst -7.866539
+ineq
+f2i
+imul
+iconst 14
+istore i
+fconst 4.101628
+fconst 2.574416
+fconst 0.433605
+igt
+iconst 8
+imul
+irem
+fload A

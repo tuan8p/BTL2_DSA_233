@@ -1,0 +1,13 @@
+par a
+iconst -15
+fconst 4.343668
+iconst -4
+igt
+fload K
+fstore A
+iconst -6
+iload D
+isub
+fload a
+fstore c
+fconst -2.321682

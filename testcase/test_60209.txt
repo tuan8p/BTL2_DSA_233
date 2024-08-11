@@ -1,0 +1,12 @@
+fload g
+iconst -17
+val e
+fstore f
+fconst 3.085328
+fdiv
+iload G
+istore d
+fneg
+iconst -19
+iconst -13
+iconst -7

@@ -1,0 +1,8 @@
+fconst -3.341291
+top
+iconst 8
+fstore d
+fconst -5.467596
+fconst -1.624299
+feq
+fstore m

@@ -1,0 +1,22 @@
+iconst 18
+fconst -5.699393
+iload e
+ineq
+fstore F
+iconst 18
+fconst 2.649735
+iload I
+fneg
+istore C
+iconst -15
+fload F
+fsub
+fconst 9.330544
+fstore j
+val h
+fneq
+fload F
+fneg
+fsub
+fstore l
+iconst 3

@@ -1,0 +1,13 @@
+iload D
+istore f
+iconst 18
+iconst -17
+iconst -12
+istore l
+iconst 20
+iload e
+istore l
+iconst 20
+istore k
+istore M
+iload I

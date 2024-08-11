@@ -1,0 +1,12 @@
+iload c
+iload j
+iconst 5
+top
+iload d
+fconst 2.354458
+ineg
+val B
+iconst -1
+fconst 8.654097
+iconst -2
+iconst 15

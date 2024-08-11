@@ -1,0 +1,12 @@
+val H
+iconst 1
+fconst 7.359566
+fconst 5.064918
+feq
+fmul
+val A
+fconst -3.869133
+fconst -9.543428
+fconst 4.730324
+fstore C
+fneg

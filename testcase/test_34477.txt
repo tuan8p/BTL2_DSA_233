@@ -1,0 +1,14 @@
+iload f
+istore h
+iconst -1
+irem
+iconst 3
+iadd
+iconst -7
+istore M
+istore E
+istore L
+imul
+iconst 13
+iconst 2
+istore F

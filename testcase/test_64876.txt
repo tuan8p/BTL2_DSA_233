@@ -1,0 +1,15 @@
+fconst 4.450293
+fconst 3.868769
+fadd
+fstore e
+fstore b
+flt
+fstore A
+fneg
+fconst 6.361046
+fdiv
+fconst -8.652839
+fstore M
+fstore E
+fload j
+fconst -5.893702

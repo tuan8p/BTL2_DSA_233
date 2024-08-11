@@ -1,0 +1,15 @@
+iconst 3
+iconst -8
+fconst -6.740827
+fconst -6.698895
+iconst 4
+fconst 0.549694
+iload k
+iconst 20
+iconst -11
+iload f
+fconst -5.151929
+fconst -2.837735
+iconst -13
+ineg
+iload d

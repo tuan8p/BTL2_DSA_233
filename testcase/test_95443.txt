@@ -1,0 +1,20 @@
+fconst 1.783138
+iconst 8
+fneg
+fstore D
+iconst 4
+fconst 2.173536
+istore L
+istore i
+istore B
+idiv
+fstore J
+fstore d
+istore l
+istore k
+iconst 20
+flt
+iconst -18
+fload E
+ibnot
+fsub

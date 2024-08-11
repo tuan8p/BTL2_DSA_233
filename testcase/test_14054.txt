@@ -1,0 +1,25 @@
+iload E
+iconst 8
+fload f
+fstore D
+fstore h
+i2f
+iconst 10
+fstore a
+iconst -13
+iconst 14
+iload a
+igt
+istore M
+iconst 11
+iconst -15
+fstore a
+isub
+irem
+ineq
+iconst -19
+fstore k
+top
+val b
+istore f
+istore E

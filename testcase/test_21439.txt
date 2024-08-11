@@ -1,0 +1,13 @@
+fload A
+fstore j
+iload a
+iconst 8
+iconst 0
+iload e
+ibnot
+fconst 9.391056
+istore m
+fconst 8.004339
+ineq
+iconst -7
+iload k

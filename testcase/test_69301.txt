@@ -1,0 +1,14 @@
+top
+iconst -10
+iconst 2
+istore k
+iconst 3
+fconst 6.747587
+iconst -10
+istore M
+iconst 17
+fstore H
+fconst -6.283953
+fneg
+fdiv
+iadd

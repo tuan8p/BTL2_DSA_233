@@ -1,0 +1,9 @@
+par G
+fconst -4.238879
+iconst 12
+top
+fstore h
+iconst 3
+istore I
+iconst 7
+fneg

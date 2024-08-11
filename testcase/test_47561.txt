@@ -1,0 +1,14 @@
+iconst 8
+iconst 8
+fconst 3.768280
+iload F
+iconst -15
+istore M
+fconst 5.484710
+iconst 13
+feq
+f2i
+iand
+iconst -6
+feq
+ineq

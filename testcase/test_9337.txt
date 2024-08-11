@@ -1,0 +1,20 @@
+iload k
+fload d
+fstore d
+iconst -5
+fneg
+ior
+iload h
+fload G
+iconst 9
+igt
+fstore i
+iconst -14
+fstore L
+fstore H
+iload d
+iload J
+fstore D
+iconst 9
+fneg
+fadd

@@ -1,0 +1,13 @@
+iload a
+iconst 6
+iload G
+val H
+iload a
+istore c
+iload L
+istore E
+iconst 15
+iconst -3
+iconst -20
+istore M
+iconst 17

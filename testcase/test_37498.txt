@@ -1,0 +1,16 @@
+iconst 1
+iconst -17
+istore M
+iand
+iconst -5
+istore M
+fload m
+iconst 10
+i2f
+iconst 0
+iconst 11
+ineq
+iload B
+isub
+ineq
+ilt

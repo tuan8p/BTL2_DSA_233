@@ -1,0 +1,12 @@
+fconst 6.510443
+iload f
+f2i
+fconst 9.842018
+ibnot
+fconst 4.751545
+iconst -12
+iconst 13
+istore g
+fload j
+iload j
+ilt

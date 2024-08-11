@@ -1,0 +1,8 @@
+fconst -6.023262
+fstore m
+fstore D
+top
+fstore k
+fconst -3.603850
+val f
+fstore C

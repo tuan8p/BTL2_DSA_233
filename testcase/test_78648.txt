@@ -1,0 +1,17 @@
+iload f
+iconst 16
+i2f
+val i
+fload a
+fstore c
+fload E
+iadd
+irem
+fstore M
+feq
+val e
+fstore J
+iconst -4
+fload J
+iload M
+fstore c

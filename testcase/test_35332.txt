@@ -1,0 +1,10 @@
+val A
+iload j
+istore D
+fconst 5.940544
+f2i
+iconst 11
+istore j
+igt
+top
+iload i

@@ -1,0 +1,18 @@
+iconst 18
+iconst -20
+val l
+iconst 9
+istore H
+iload J
+iconst 2
+ior
+istore g
+fconst -9.155375
+istore E
+iconst -18
+fneg
+fconst -4.540376
+istore K
+par D
+istore b
+val l

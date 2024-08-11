@@ -1,0 +1,10 @@
+iload L
+iconst 11
+ieq
+iconst 13
+iand
+iconst 2
+iconst 20
+iconst 16
+iconst 14
+idiv

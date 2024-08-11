@@ -1,0 +1,10 @@
+fconst -3.855605
+fstore f
+fconst 7.364799
+fconst 6.152180
+fmul
+fsub
+iload E
+istore f
+top
+fconst -6.444995

@@ -1,0 +1,15 @@
+fload c
+fload A
+fneg
+iconst 6
+iconst 9
+top
+fconst 6.656750
+fstore k
+iload G
+istore I
+fconst 9.702646
+top
+imul
+fconst 1.217348
+fstore K

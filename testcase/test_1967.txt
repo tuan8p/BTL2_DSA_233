@@ -1,0 +1,13 @@
+iconst -10
+iload j
+top
+iconst 4
+iconst 0
+istore m
+istore E
+ibnot
+iload j
+iload j
+istore A
+istore j
+iconst -20

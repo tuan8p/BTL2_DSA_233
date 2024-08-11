@@ -1,0 +1,19 @@
+iload a
+iconst -4
+iload M
+iload L
+istore i
+iconst -2
+istore e
+idiv
+ineg
+istore G
+istore l
+iload B
+iconst 3
+istore F
+iload G
+iconst -6
+ineq
+i2f
+iconst -11

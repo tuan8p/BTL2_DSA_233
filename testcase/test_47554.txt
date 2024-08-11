@@ -1,0 +1,10 @@
+iconst 2
+ineg
+fload c
+iconst 1
+fstore K
+igt
+fconst -7.981829
+fstore h
+iload l
+iload k

@@ -1,0 +1,20 @@
+iconst 16
+iconst 20
+iconst -12
+top
+istore M
+istore H
+istore B
+iconst 7
+istore e
+ibnot
+iconst -8
+istore j
+istore C
+iconst -18
+iload i
+iand
+iconst -8
+isub
+fconst 6.043568
+iconst -4

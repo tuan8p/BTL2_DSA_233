@@ -1,0 +1,7 @@
+top
+iconst -10
+istore D
+par b
+iconst 20
+istore l
+iconst -7

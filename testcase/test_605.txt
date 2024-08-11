@@ -1,0 +1,13 @@
+iconst 1
+iconst 3
+fconst 7.144609
+iconst -19
+fstore d
+fconst -2.269459
+irem
+fstore J
+imul
+fconst -2.159011
+fstore m
+fdiv
+fstore l

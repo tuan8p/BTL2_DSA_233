@@ -1,0 +1,17 @@
+fload k
+fconst -5.665404
+iconst -3
+fconst 2.625708
+i2f
+iconst 18
+iconst -17
+istore B
+iconst -13
+fconst 8.589296
+iconst -6
+feq
+ineg
+fconst -8.675889
+iconst 13
+iconst -13
+iconst 5

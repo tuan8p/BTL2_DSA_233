@@ -1,0 +1,22 @@
+val k
+fload I
+iconst -20
+istore H
+fconst 0.127520
+iconst -8
+fload L
+iconst -12
+fconst 6.782444
+istore b
+fload C
+fstore G
+fload J
+fneq
+fneq
+iconst -10
+f2i
+ineg
+fstore L
+iconst -4
+iconst 20
+fstore C

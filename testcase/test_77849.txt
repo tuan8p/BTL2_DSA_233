@@ -1,0 +1,14 @@
+fload b
+fstore I
+fstore F
+f2i
+fconst -1.947221
+fstore b
+fconst -2.469148
+iconst 18
+fdiv
+fadd
+fstore h
+fstore K
+iconst -18
+feq

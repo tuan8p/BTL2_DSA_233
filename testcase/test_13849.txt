@@ -1,0 +1,19 @@
+iconst -6
+iconst 4
+iload c
+ior
+iconst -8
+fconst 6.277699
+fload L
+iconst 19
+iload c
+iadd
+ineg
+iload D
+fconst -1.437099
+fload e
+top
+iload B
+iconst 18
+fload b
+iconst -18

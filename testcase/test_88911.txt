@@ -1,0 +1,9 @@
+iconst 4
+iload L
+istore K
+ineg
+ilt
+iconst 12
+istore E
+fconst 8.030375
+fstore b

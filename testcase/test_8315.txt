@@ -1,0 +1,15 @@
+par m
+fload L
+fload j
+iload b
+iload H
+ilt
+istore a
+fload m
+i2f
+fload H
+fmul
+iconst -7
+fload l
+fconst 9.986631
+fgt

@@ -1,0 +1,18 @@
+iload M
+istore a
+iload c
+ineq
+val K
+fconst 3.666800
+fstore E
+fstore F
+iload k
+istore G
+fstore E
+fstore G
+fstore J
+iconst -10
+iload J
+ieq
+iconst 6
+fstore H

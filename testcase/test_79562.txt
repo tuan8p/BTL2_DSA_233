@@ -1,0 +1,16 @@
+iconst -2
+top
+iconst 2
+fconst 3.149994
+iconst -17
+iconst 15
+f2i
+fconst -8.779946
+imul
+iconst -12
+iconst -7
+fgt
+iconst -19
+iconst 0
+fadd
+iconst 17

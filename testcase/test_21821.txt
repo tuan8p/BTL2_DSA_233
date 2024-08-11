@@ -1,0 +1,12 @@
+par k
+fconst 2.430463
+fload H
+iconst 10
+istore h
+istore B
+fconst 2.470234
+iload J
+iload A
+fconst -1.347038
+fconst 2.014753
+fconst 8.874748

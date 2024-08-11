@@ -1,0 +1,17 @@
+iconst 0
+val a
+iconst 7
+fconst -9.873326
+iconst 12
+ineq
+iconst -2
+fconst -7.061732
+i2f
+iconst 9
+fstore c
+istore l
+val H
+imul
+iconst 13
+fstore I
+fconst -0.810648

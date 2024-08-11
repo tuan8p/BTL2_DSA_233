@@ -1,0 +1,12 @@
+iconst 16
+istore D
+istore C
+iload m
+fload E
+iload f
+iconst -20
+istore K
+iconst -9
+fload A
+fstore d
+val e

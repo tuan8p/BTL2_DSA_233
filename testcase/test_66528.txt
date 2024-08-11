@@ -1,0 +1,15 @@
+val M
+fload k
+fconst 2.166434
+fdiv
+fstore B
+fload H
+iconst 9
+iconst 0
+istore E
+iconst -5
+fdiv
+iconst -1
+iconst -11
+fstore L
+iconst -10

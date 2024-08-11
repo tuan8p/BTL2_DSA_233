@@ -1,0 +1,11 @@
+val K
+iload a
+fload K
+fconst 0.841330
+ibnot
+fconst -8.093062
+fconst 1.820865
+fconst 0.742083
+istore L
+fstore A
+fstore F

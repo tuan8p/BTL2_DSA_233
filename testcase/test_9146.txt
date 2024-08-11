@@ -1,0 +1,16 @@
+fconst -6.998838
+fstore b
+fstore E
+iconst 19
+istore c
+ibnot
+fconst -7.117184
+fadd
+fstore i
+fmul
+fsub
+fstore b
+istore B
+istore A
+fconst -7.004602
+istore A

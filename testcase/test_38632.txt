@@ -1,0 +1,15 @@
+iload M
+iconst -12
+ieq
+irem
+fconst -6.901359
+iconst 15
+iload e
+iconst -4
+istore H
+imul
+fconst 0.101130
+iload h
+istore M
+istore K
+fconst -6.417079

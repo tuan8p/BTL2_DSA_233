@@ -1,0 +1,16 @@
+iconst 5
+iconst 11
+istore K
+ior
+iconst 9
+iconst -1
+fload B
+fstore b
+fstore d
+fstore B
+iconst -16
+istore K
+idiv
+iconst 0
+ior
+ineg

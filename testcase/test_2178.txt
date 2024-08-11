@@ -1,0 +1,21 @@
+fload j
+top
+fstore D
+iload I
+iconst 0
+fconst -5.041447
+iconst 4
+igt
+iconst -15
+iand
+iconst 20
+iconst 19
+iadd
+fload h
+fstore d
+fneq
+fload i
+iconst 9
+istore H
+ieq
+val D

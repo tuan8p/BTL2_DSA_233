@@ -1,0 +1,7 @@
+fload e
+fconst 0.674038
+fload H
+iconst -16
+iconst -8
+imul
+fstore a

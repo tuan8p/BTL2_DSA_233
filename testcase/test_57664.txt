@@ -1,0 +1,14 @@
+fload j
+fconst 1.752090
+fconst -5.612957
+fload C
+fconst -0.594566
+fconst 7.537905
+iload k
+fconst -9.683572
+f2i
+iload I
+fdiv
+feq
+isub
+fload M

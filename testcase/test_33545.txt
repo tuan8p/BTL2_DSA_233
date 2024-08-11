@@ -1,0 +1,11 @@
+iload e
+iload a
+ilt
+fload I
+fload l
+iconst -15
+iconst -12
+flt
+fload L
+iload E
+iload B

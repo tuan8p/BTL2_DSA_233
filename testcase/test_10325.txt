@@ -1,0 +1,18 @@
+iconst -17
+iload l
+iload g
+iconst 16
+iload F
+iconst -1
+iload C
+iadd
+iconst 18
+iload g
+iload i
+iconst 18
+fload d
+iload M
+iload K
+istore H
+iconst -14
+iload c

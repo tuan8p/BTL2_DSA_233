@@ -1,0 +1,13 @@
+fload H
+fstore i
+iconst 9
+istore I
+top
+istore G
+iconst 8
+fneg
+iload G
+iconst 5
+fstore j
+istore J
+iconst 7

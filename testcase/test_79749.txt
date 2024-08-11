@@ -1,0 +1,6 @@
+iconst -4
+iconst -19
+istore i
+iconst -13
+ineg
+fload f

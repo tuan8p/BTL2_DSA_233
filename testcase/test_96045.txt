@@ -1,0 +1,15 @@
+top
+iload C
+fload J
+fload a
+fconst 1.129966
+fstore e
+fload A
+fstore c
+fconst -9.448915
+fsub
+ineg
+fconst -2.700377
+fload E
+fload i
+fconst -1.579273

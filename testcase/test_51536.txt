@@ -1,0 +1,11 @@
+iconst 19
+iconst -19
+iand
+iconst -5
+iconst -17
+istore B
+par L
+iload k
+iconst -5
+top
+istore i

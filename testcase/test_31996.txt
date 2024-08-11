@@ -1,0 +1,21 @@
+fload G
+iconst -2
+iconst 4
+fstore k
+iconst -2
+iand
+fstore b
+iload l
+fstore c
+top
+fconst 4.331660
+iconst 1
+irem
+fneg
+fconst -8.532105
+fstore M
+istore F
+fload J
+fdiv
+iconst -11
+fstore G

@@ -1,0 +1,14 @@
+iconst 20
+top
+iconst -8
+istore B
+iconst -7
+iload e
+iconst 14
+iload b
+istore l
+istore g
+iload g
+istore G
+iload F
+iload K

@@ -1,0 +1,9 @@
+par L
+iload G
+istore d
+istore I
+istore B
+fconst 2.900461
+fstore c
+istore J
+iconst -4

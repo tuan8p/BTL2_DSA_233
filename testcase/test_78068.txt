@@ -1,0 +1,7 @@
+fload l
+iload j
+iconst 10
+fstore h
+istore L
+fconst -1.737800
+fadd

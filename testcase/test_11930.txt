@@ -1,0 +1,20 @@
+fload D
+val e
+fstore m
+iload E
+istore g
+fstore e
+istore L
+istore M
+fstore k
+iload f
+fstore M
+fload E
+iconst -20
+iload K
+fload m
+fstore K
+fgt
+fload L
+fstore j
+ieq

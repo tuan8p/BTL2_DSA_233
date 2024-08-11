@@ -1,0 +1,14 @@
+iload m
+iload i
+iconst 16
+igt
+iload f
+ieq
+par b
+iconst 15
+iconst 10
+iload c
+isub
+iload a
+iand
+istore a

@@ -1,0 +1,14 @@
+fconst -7.329171
+par F
+fconst -3.385953
+iload E
+iconst 14
+istore a
+istore M
+iconst 4
+feq
+iconst 0
+iconst -13
+iconst -5
+top
+fconst -9.758044

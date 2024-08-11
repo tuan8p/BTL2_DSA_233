@@ -1,0 +1,7 @@
+top
+iconst -4
+fconst -4.699858
+fconst 6.814325
+iconst 6
+fload j
+fconst -9.636086

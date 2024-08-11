@@ -1,0 +1,15 @@
+iconst 4
+fconst 1.163336
+fstore K
+iconst -17
+fstore B
+fstore b
+istore d
+fconst -8.731779
+idiv
+iconst -11
+fsub
+iload d
+fsub
+iconst 14
+ior

@@ -1,0 +1,13 @@
+iconst 15
+fconst -7.847939
+iconst 5
+ilt
+fstore E
+iconst 15
+istore B
+fconst 2.224769
+iconst -11
+fstore E
+iand
+iconst -1
+iconst 20

@@ -1,0 +1,10 @@
+iconst -16
+iconst 12
+iconst -9
+iconst -14
+istore m
+istore c
+iconst 17
+iconst -19
+fconst -2.208539
+iconst 13

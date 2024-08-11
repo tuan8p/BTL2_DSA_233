@@ -1,0 +1,14 @@
+iload H
+iconst 12
+fload e
+fstore J
+fstore i
+par D
+fneg
+par k
+ior
+istore l
+fload E
+imul
+iconst 18
+iload d

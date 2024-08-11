@@ -1,0 +1,13 @@
+iload B
+i2f
+iconst -17
+ineg
+iconst -12
+iload J
+fload f
+fstore H
+iconst 0
+iload c
+fstore c
+fstore i
+iconst -17

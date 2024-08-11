@@ -1,0 +1,5 @@
+fconst -7.746841
+fconst 2.622629
+iconst -14
+top
+iload B

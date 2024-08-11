@@ -1,0 +1,16 @@
+iconst 18
+fconst -3.895361
+iconst -8
+val L
+iconst -18
+fstore E
+iand
+istore m
+fconst -1.988693
+f2i
+fconst -8.542050
+fconst -5.949285
+fconst 7.136278
+top
+istore d
+ior

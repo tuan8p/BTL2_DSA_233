@@ -1,0 +1,21 @@
+fload B
+iload G
+istore m
+i2f
+iload h
+iconst 19
+par a
+iload h
+i2f
+fload A
+iload b
+fneg
+fstore j
+istore A
+iconst -3
+fgt
+ieq
+iload b
+iconst 7
+flt
+iload f

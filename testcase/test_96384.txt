@@ -1,0 +1,13 @@
+iconst 12
+par i
+iconst -11
+istore j
+iconst 0
+istore d
+istore I
+fconst 5.475631
+f2i
+iconst -17
+top
+iload A
+fconst 0.430954

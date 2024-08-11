@@ -1,0 +1,17 @@
+fconst 6.546394
+iconst -4
+istore g
+iload d
+fconst 6.286087
+fdiv
+iload A
+fadd
+feq
+istore B
+iconst 15
+iload A
+fsub
+iload a
+iconst 4
+iconst 7
+iload G

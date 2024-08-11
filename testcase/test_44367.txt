@@ -1,0 +1,18 @@
+val j
+iconst 2
+iload i
+iconst -3
+isub
+iadd
+fconst -5.497550
+iconst -2
+iconst 19
+istore d
+fconst -5.962000
+istore J
+flt
+val M
+iconst 17
+val J
+iand
+iconst 12

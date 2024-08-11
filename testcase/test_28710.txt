@@ -1,0 +1,15 @@
+iconst -15
+istore E
+iconst -6
+istore F
+fconst 9.346601
+isub
+istore J
+iconst -8
+istore A
+fstore j
+fstore G
+iconst -9
+ineq
+iconst 8
+iconst 2

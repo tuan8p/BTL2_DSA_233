@@ -1,0 +1,22 @@
+iload b
+iload C
+val m
+top
+iconst -12
+fconst 3.978070
+iload M
+ieq
+istore J
+fconst 0.171166
+fconst 0.246186
+iload M
+iadd
+fload c
+iconst -3
+istore f
+iload f
+isub
+iconst 9
+iconst 4
+fmul
+iconst 7

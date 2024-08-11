@@ -1,0 +1,14 @@
+fconst 1.022861
+fstore B
+iconst -16
+fstore A
+ibnot
+iconst 15
+iconst 17
+ineg
+iconst -7
+val j
+istore H
+fstore d
+fstore l
+istore c

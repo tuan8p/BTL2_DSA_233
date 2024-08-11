@@ -1,0 +1,15 @@
+fconst -7.300299
+iconst 12
+fconst -3.188028
+fconst 8.474747
+iconst 9
+fstore j
+fstore d
+iconst 9
+fconst 8.640032
+imul
+isub
+fconst 3.357365
+igt
+fconst -1.155228
+fconst -0.872846

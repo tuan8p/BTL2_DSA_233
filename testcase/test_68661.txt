@@ -1,0 +1,12 @@
+iconst -2
+istore E
+fconst 1.551419
+fconst -4.204135
+istore i
+iconst -4
+fadd
+fgt
+iconst -10
+fstore K
+fstore M
+iconst -17

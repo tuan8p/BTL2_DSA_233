@@ -1,0 +1,9 @@
+fconst 9.092459
+fconst 0.957285
+fstore k
+fstore j
+fstore E
+fstore F
+fload h
+iload B
+istore k

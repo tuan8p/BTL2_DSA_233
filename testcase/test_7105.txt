@@ -1,0 +1,8 @@
+iconst 16
+iconst 9
+iconst -4
+iconst -18
+iconst 11
+iand
+istore m
+ineq

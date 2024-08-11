@@ -1,0 +1,14 @@
+iconst 10
+iconst -20
+ilt
+fconst -7.851849
+idiv
+istore j
+iconst 13
+istore K
+par K
+iconst 19
+imul
+istore I
+iconst 10
+par b

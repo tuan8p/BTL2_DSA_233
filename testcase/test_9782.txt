@@ -1,0 +1,19 @@
+iconst -1
+fconst 0.288845
+iconst 19
+imul
+ineq
+istore f
+iload I
+istore C
+ior
+ineg
+val d
+iconst 3
+irem
+iload j
+fconst -1.805655
+iconst 9
+iload J
+istore j
+istore f

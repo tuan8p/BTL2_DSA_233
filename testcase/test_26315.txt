@@ -1,0 +1,15 @@
+iload c
+iconst -20
+istore D
+istore D
+iconst 11
+istore I
+iconst -18
+iload F
+istore J
+istore j
+iconst 18
+istore K
+fconst 2.022429
+iconst 9
+ineq

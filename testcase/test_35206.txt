@@ -1,0 +1,7 @@
+iconst 5
+istore K
+fconst 7.508654
+fload a
+istore L
+iload b
+fstore f

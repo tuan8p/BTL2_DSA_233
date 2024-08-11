@@ -1,0 +1,7 @@
+iload a
+fconst 8.348984
+fstore B
+fconst 0.978507
+fstore m
+fconst 6.145632
+fconst 3.044535

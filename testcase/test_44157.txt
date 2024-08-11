@@ -1,0 +1,15 @@
+par G
+iconst -4
+istore h
+iconst 6
+ilt
+isub
+fconst 8.609833
+iconst 6
+fload E
+istore f
+istore A
+fconst -3.253849
+feq
+fmul
+iconst 16

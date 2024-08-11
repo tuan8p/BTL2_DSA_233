@@ -1,0 +1,24 @@
+iload A
+fload D
+iconst 0
+fstore D
+fconst 4.993214
+i2f
+iand
+par d
+iload e
+fstore D
+iconst -3
+isub
+ineq
+iconst 4
+iconst -2
+feq
+iconst 17
+fconst 6.754185
+iload B
+fneq
+istore J
+iconst 1
+fconst 7.292730
+ior

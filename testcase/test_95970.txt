@@ -1,0 +1,19 @@
+iconst 4
+iload m
+istore H
+istore f
+ineg
+istore G
+istore L
+istore j
+iload i
+iand
+iconst 4
+iload I
+fconst 2.290850
+top
+ieq
+iconst 13
+iand
+isub
+fstore C

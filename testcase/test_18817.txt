@@ -1,0 +1,13 @@
+iconst -7
+iconst -2
+par b
+iconst 10
+istore a
+iconst -4
+iload D
+istore H
+ineg
+istore H
+top
+iconst 15
+iload J

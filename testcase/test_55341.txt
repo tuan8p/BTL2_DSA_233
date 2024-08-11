@@ -1,0 +1,14 @@
+fload H
+fload J
+fconst -8.896181
+fconst -5.325717
+fstore c
+par f
+top
+fconst -7.111199
+fstore H
+fconst 8.800406
+iconst 16
+fneg
+iconst 14
+fload G

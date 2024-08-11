@@ -1,0 +1,13 @@
+iconst -11
+istore E
+istore l
+istore l
+istore L
+iconst -8
+istore G
+istore M
+ineq
+fconst -3.407371
+fconst -3.245183
+iconst -12
+fconst -7.109794

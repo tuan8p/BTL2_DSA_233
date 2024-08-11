@@ -53,43 +53,6 @@ typename AVLTree<T>::Node* AVLTree<T>::insertRec(typename AVLTree<T>::Node* node
     return node;
 }
 template<class T>
-typename AVLTree<T>::Node* AVLTree<T>::deletion(typename AVLTree<T>::Node* root, string key) {
-    if (!root) return nullptr;
-    if (key > root->key) root->pRight = deletion(root->pRight, key);
-    else if (key < root->key) root->pLeft = deletion(root->pLeft, key);
-    else {// node with only one child or no child
-        if ((root->pLeft == NULL) || (root->pRight == NULL)) {
-            Node *temp = root->pLeft ? root->pLeft : root->pRight;
-            if (temp == NULL) {// No child case
-                temp = root;
-                root = NULL;
-            }
-            else *root = *temp;
-            delete temp;
-        }
-        else {
-            Node *cur = root->pLeft; // travel node to find the greatest node of left subtree
-            while (cur->pRight != nullptr) cur = cur->pRight;
-            root->key = cur->key;
-            root->data = cur->data;
-            root->pLeft = deletion(root->pLeft, cur->key);
-        }
-    }
-    if (!root) return root;
-    int balance = getBalance(root);
-    if(balance > RH && getBalance(root->pLeft) >= EH) return rotateRight(root);// LL rotation
-    if(balance < LH && getBalance(root->pRight) <= EH) return rotateLeft(root);// RR rotation
-    if(balance > RH && getBalance(root->pLeft) < EH) {// LR rotation
-        root->pLeft = rotateLeft(root->pLeft);
-        return rotateRight(root);
-    }
-    if(balance < LH && getBalance(root->pRight) > EH) {// RL rotation
-        root->pRight = rotateRight(root->pRight);
-        return rotateLeft(root);
-    }
-    return root;
-}
-template<class T>
 typename AVLTree<T>::Node* AVLTree<T>::searchRec(typename AVLTree<T>::Node* node, const string value) {
     if (node == NULL) return NULL;
     if (value == node->key) return node;
@@ -200,19 +163,12 @@ operation StackFrame::top() {
     if (empty()) throw StackEmpty(line);
     return list->get(size() - 1);
 }
-bool StackFrame::checkChar(std::string str) {
-    int size = str.size();
-    for (int i = 0; i < size; ++i) 
-        if (!isalpha(str[i])) return false;
-    return true;
-}
 void StackFrame::calculateBasicAndLogic(std::string str) {
     operation topFirst = this->top();
     this->pop();
     operation topSecond = this->top();
     this->pop();
     if (str[0] == 'i') {
-        // cout << str << endl;
         if (topFirst.getStatus() == FLOAT || topSecond.getStatus() == FLOAT)
             throw TypeMisMatch(line);
         topFirst.setOper(int(topFirst.getOper()));
@@ -276,10 +232,9 @@ void StackFrame::checkTypeAndConvert(std::string str) {
     }
 }
 void StackFrame::loadAndStore(std::string str, std::string value) {
-    if (!checkChar(value)) return;
     if (str == "iload" || str == "fload") {
         operation temp = avlTree->getData(avlTree->search(value));
-        if (temp == operation(-1, INT)) throw UndefinedVariable(line);
+        if (temp == operation(-1, OTHER)) throw UndefinedVariable(line);
         if (str[0] == 'i' && temp.getStatus() == FLOAT) throw TypeMisMatch(line);
         else if (str[0] == 'f' && temp.getStatus() == INT) throw TypeMisMatch(line);
         this->push(temp);
@@ -313,7 +268,6 @@ void StackFrame::run(string filename) {
     string str;
     while(getline(ifs, str)) {
         if (str == "") continue;
-        int size = str.size();
         const size_t index = str.find(" ");
         string instruction = str;
         if (index != std::string::npos) instruction = str.substr(0, index);
@@ -328,7 +282,8 @@ void StackFrame::run(string filename) {
             || instruction == "i2f" || instruction == "f2i" || instruction == "top"
             ) checkTypeAndConvert(instruction);
         else {
-            const size_t reindex = str.rfind(" ");
+            size_t reindex = str.rfind(" ");
+            if (reindex == std::string::npos) reindex = str.size();
             string strValue = str.substr(index + 1, reindex - index - 1);
             if (instruction == "iconst" || instruction == "fconst") {
                 float value;

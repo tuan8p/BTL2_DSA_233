@@ -1,0 +1,15 @@
+iconst 16
+iconst -13
+iconst 13
+iload d
+iconst -8
+fconst 0.363093
+iconst 15
+fconst 1.677979
+idiv
+iconst -9
+iadd
+fconst 9.378233
+iload m
+ior
+fconst -4.176154

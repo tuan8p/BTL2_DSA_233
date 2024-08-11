@@ -1,0 +1,10 @@
+iconst -5
+iconst -1
+fload H
+fstore h
+istore H
+istore K
+fstore L
+fstore M
+istore K
+iload I

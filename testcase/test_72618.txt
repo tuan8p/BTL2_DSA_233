@@ -1,0 +1,13 @@
+iconst 2
+fconst -9.769551
+iload J
+iadd
+iconst 14
+par b
+fstore D
+fstore d
+iload l
+iload i
+iconst 12
+ilt
+istore B

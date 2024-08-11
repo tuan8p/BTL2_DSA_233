@@ -1,0 +1,18 @@
+par g
+iconst -19
+i2f
+iconst -8
+iconst 16
+fload L
+fload f
+fconst -5.281728
+iconst 6
+fconst -3.958643
+istore G
+iconst 20
+fconst -3.219542
+iand
+istore I
+fconst 9.666182
+val M
+fconst -4.612818

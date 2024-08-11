@@ -1,0 +1,10 @@
+fconst -1.584341
+val c
+fconst 9.511656
+iconst 10
+feq
+istore e
+iload H
+istore d
+fconst -9.908809
+iconst 13

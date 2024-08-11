@@ -1,0 +1,13 @@
+fconst 2.270547
+fstore m
+top
+fconst 4.782710
+fsub
+iconst 0
+iconst 13
+fload M
+iload l
+fsub
+fstore E
+ieq
+fconst 9.896431

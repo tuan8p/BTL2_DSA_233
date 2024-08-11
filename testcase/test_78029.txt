@@ -1,0 +1,18 @@
+iload B
+iconst 4
+iconst 5
+ineg
+istore D
+istore b
+istore G
+iconst 16
+ior
+iload A
+istore B
+iconst -1
+istore c
+iload D
+iload c
+idiv
+fconst 4.620795
+istore L

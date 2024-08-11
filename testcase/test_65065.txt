@@ -1,0 +1,13 @@
+iconst 0
+iconst -8
+iconst -12
+top
+istore H
+ilt
+fconst 7.868267
+fconst 9.695555
+f2i
+iconst -17
+fconst -8.723345
+fconst 6.540382
+istore L

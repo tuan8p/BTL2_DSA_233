@@ -1,0 +1,21 @@
+fload h
+fneg
+fstore F
+fstore A
+fconst -8.907435
+fconst 8.982922
+iconst 17
+iload a
+fgt
+val i
+top
+fconst 8.598000
+fconst 2.839918
+fload a
+iconst -7
+f2i
+fconst 8.797216
+ineg
+iload A
+fload m
+iload e

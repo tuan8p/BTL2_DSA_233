@@ -1,0 +1,16 @@
+iload f
+ineg
+iload H
+istore m
+iload L
+ilt
+iconst -18
+iadd
+iconst 10
+iconst 1
+istore b
+iconst 1
+iconst 18
+iconst -18
+istore H
+irem

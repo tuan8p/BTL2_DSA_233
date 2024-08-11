@@ -1,0 +1,18 @@
+par K
+fconst -7.258674
+iconst -6
+fconst 4.371948
+fconst 5.594741
+fstore E
+fgt
+top
+istore K
+istore D
+iload H
+iconst 2
+istore i
+iconst 20
+istore G
+iand
+fconst -2.209358
+iconst 14

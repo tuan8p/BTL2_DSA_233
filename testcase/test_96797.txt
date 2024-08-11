@@ -1,0 +1,7 @@
+fload g
+fstore i
+fstore j
+fconst -6.564538
+iload B
+fconst 8.371218
+f2i

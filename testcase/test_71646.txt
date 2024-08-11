@@ -1,0 +1,22 @@
+iconst 0
+iload D
+iload m
+iconst 19
+iconst -15
+iconst -8
+iload k
+iconst 14
+iand
+iload d
+iload m
+fconst 9.566999
+fconst -8.261744
+iconst 3
+fgt
+fconst 7.930164
+fconst 8.098131
+iconst -6
+fdiv
+iconst 0
+iconst 5
+iload g

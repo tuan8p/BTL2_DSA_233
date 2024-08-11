@@ -1,0 +1,11 @@
+iload K
+iload i
+ieq
+fconst 6.268311
+istore L
+istore a
+istore a
+iconst 18
+ior
+iconst -12
+iconst 3

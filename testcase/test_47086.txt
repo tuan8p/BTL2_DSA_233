@@ -1,0 +1,12 @@
+fconst -3.691855
+fneg
+iload E
+fconst -1.073020
+iload K
+fstore g
+fconst 9.018620
+fneg
+irem
+fstore e
+fstore H
+fconst -2.404110

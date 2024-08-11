@@ -1,0 +1,7 @@
+iload b
+par j
+iconst 1
+ibnot
+iconst -8
+iand
+iload B

@@ -1,0 +1,15 @@
+fconst 7.844162
+fstore H
+val C
+fconst -7.723164
+fload J
+fconst -6.557881
+fstore l
+fconst -7.895668
+fconst -7.128131
+par m
+fstore c
+fstore M
+fconst 9.640581
+iconst -14
+fconst -5.291894

@@ -1,0 +1,16 @@
+iconst -12
+iconst -4
+iconst -4
+ior
+iadd
+iconst 2
+ineg
+ineq
+iconst 0
+iconst 9
+iload K
+iload k
+ineq
+fconst -9.085468
+iconst 15
+fconst 8.383951

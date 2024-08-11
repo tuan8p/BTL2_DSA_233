@@ -1,0 +1,18 @@
+iconst 9
+iconst 6
+iconst -14
+top
+fconst -9.826542
+ineg
+istore m
+fconst -7.186940
+iconst -8
+iconst -14
+fconst 3.687616
+iconst -14
+ior
+ineq
+iconst -17
+fconst -1.760763
+istore E
+iload J

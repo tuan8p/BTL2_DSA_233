@@ -1,0 +1,19 @@
+top
+iconst -16
+par F
+fload m
+istore c
+iconst -5
+fconst 5.842709
+fsub
+imul
+flt
+f2i
+ilt
+iload m
+istore h
+istore J
+ior
+fconst 2.395468
+istore a
+fconst -7.254411

@@ -1,0 +1,12 @@
+fconst -9.477519
+iload g
+fconst 0.582284
+istore i
+val b
+istore F
+fload a
+fgt
+fconst -8.132595
+fconst -2.946904
+fstore m
+ibnot

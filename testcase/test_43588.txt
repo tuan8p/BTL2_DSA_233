@@ -1,0 +1,17 @@
+iconst -3
+iconst 9
+istore i
+fload A
+ineq
+ineg
+istore E
+fconst -0.115302
+top
+istore k
+iconst 4
+ineq
+par D
+iconst 12
+iconst 10
+istore i
+ineq

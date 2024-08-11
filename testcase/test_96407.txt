@@ -1,0 +1,14 @@
+top
+iconst 7
+iconst -3
+ineq
+fconst -1.464747
+imul
+iconst 12
+fconst 3.406609
+iload B
+iconst -6
+fconst -2.891763
+imul
+ibnot
+fconst 6.696215

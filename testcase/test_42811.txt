@@ -1,0 +1,12 @@
+iconst 9
+iconst 1
+iand
+iconst 4
+iconst 0
+iload a
+iconst 15
+fconst -8.900151
+fconst 4.139759
+ior
+iconst -18
+fconst -4.347338

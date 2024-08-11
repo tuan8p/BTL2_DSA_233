@@ -1,0 +1,23 @@
+iload J
+fconst 7.128090
+fstore b
+fstore H
+fconst 6.750671
+ineg
+istore m
+iload j
+iconst 19
+iload H
+istore B
+iload M
+ibnot
+iload j
+iconst 0
+fstore c
+fadd
+fconst 1.706461
+iload C
+iconst 0
+iconst -4
+fconst -7.438721
+istore f

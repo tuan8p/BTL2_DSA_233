@@ -1,0 +1,9 @@
+iload i
+fconst -1.626367
+iconst 18
+istore C
+iload J
+iconst 5
+iand
+idiv
+istore F

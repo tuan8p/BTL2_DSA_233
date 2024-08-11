@@ -1,0 +1,7 @@
+fload I
+iload m
+fstore g
+fstore G
+ibnot
+istore g
+iconst -6

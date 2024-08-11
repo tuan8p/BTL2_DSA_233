@@ -1,0 +1,19 @@
+fconst 0.567457
+iconst 19
+fconst -8.397993
+val b
+fgt
+iconst 18
+ieq
+ieq
+i2f
+istore M
+fstore c
+fconst 2.232060
+fload H
+istore l
+iload B
+ibnot
+fconst 6.483423
+fload i
+fsub

@@ -1,0 +1,13 @@
+val D
+iload g
+iconst -2
+par G
+fconst 6.085424
+fneg
+iconst 11
+iload G
+iconst 5
+ineg
+iconst 4
+idiv
+fconst -0.846711

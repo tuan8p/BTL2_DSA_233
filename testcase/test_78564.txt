@@ -1,0 +1,15 @@
+iconst -2
+val B
+iconst -16
+iconst 8
+istore c
+fconst 0.829550
+fconst 1.046011
+ilt
+iconst 12
+fadd
+istore M
+fconst -8.437137
+i2f
+iconst 14
+fstore A

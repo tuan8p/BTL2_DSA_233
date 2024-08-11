@@ -1,0 +1,18 @@
+iconst -20
+par l
+iload a
+iconst -9
+iconst -6
+iconst -9
+val c
+iadd
+fload d
+iconst -6
+iconst 8
+fstore a
+fstore m
+iconst -20
+idiv
+fconst -5.301172
+ineq
+ior

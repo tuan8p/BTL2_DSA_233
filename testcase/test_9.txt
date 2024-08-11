@@ -1,0 +1,25 @@
+fconst 1.188755
+iconst -13
+fstore F
+ibnot
+fconst -3.279487
+fconst -9.528672
+iconst 11
+fconst -6.574850
+fload h
+fsub
+fconst 6.795546
+fdiv
+fconst 0.247152
+fgt
+fconst 7.208086
+val j
+fload h
+iconst 12
+isub
+iconst -13
+fconst -9.432453
+istore A
+ilt
+imul
+fdiv

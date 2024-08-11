@@ -1,0 +1,15 @@
+iconst 1
+fload K
+iload K
+fneg
+fstore i
+iconst 10
+imul
+fconst 6.490559
+fstore G
+iload I
+iconst -19
+fstore C
+val E
+fstore J
+istore J

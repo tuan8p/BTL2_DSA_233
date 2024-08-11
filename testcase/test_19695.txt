@@ -1,0 +1,7 @@
+iconst 6
+istore a
+istore k
+iconst 2
+idiv
+val g
+iconst 6

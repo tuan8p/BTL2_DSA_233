@@ -1,0 +1,13 @@
+iload K
+iload f
+iconst -18
+ilt
+ineg
+isub
+iload b
+iload f
+istore g
+fconst 4.783150
+istore k
+iand
+ineq

@@ -1,0 +1,20 @@
+iconst 6
+par H
+fload D
+istore m
+istore D
+istore m
+istore H
+iconst 14
+idiv
+istore A
+iconst 2
+fconst -5.536890
+iconst -10
+istore k
+istore g
+iconst -7
+iconst -15
+fmul
+fdiv
+istore f

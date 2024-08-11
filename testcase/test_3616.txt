@@ -1,0 +1,14 @@
+iconst -13
+iconst 19
+iconst 1
+fconst -9.786613
+par b
+iconst -9
+fconst -9.509068
+fstore J
+iload C
+fconst -5.656400
+feq
+top
+fstore A
+fstore B

@@ -1,0 +1,14 @@
+top
+par L
+fconst -6.566651
+par j
+iload a
+iconst -15
+fconst -5.685233
+ineg
+istore i
+iconst -18
+fload b
+fconst -7.795260
+iconst -14
+fadd

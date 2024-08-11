@@ -1,0 +1,14 @@
+fload f
+fconst -4.851685
+fconst -9.789658
+val j
+fload k
+iload I
+fconst 2.893686
+iconst 18
+fconst -9.443123
+fload J
+fadd
+fneg
+fconst -6.815441
+fconst -5.057646

@@ -1,0 +1,18 @@
+iload l
+iconst 20
+ibnot
+iload b
+ior
+istore j
+istore l
+i2f
+iconst -10
+val c
+fconst -4.103703
+istore A
+iconst 3
+top
+istore H
+iconst -12
+iconst -4
+iconst -19

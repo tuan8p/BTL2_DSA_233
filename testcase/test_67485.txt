@@ -1,0 +1,23 @@
+val h
+iload e
+iconst -19
+ibnot
+istore M
+iload B
+iconst 8
+iconst -6
+fconst -1.075277
+fconst 2.045662
+i2f
+fconst -5.271212
+iconst 18
+istore m
+ilt
+iconst 7
+iload l
+fneq
+fstore b
+iload k
+iconst 15
+istore L
+fstore f

@@ -1,0 +1,17 @@
+fload B
+fconst 5.930599
+iconst -3
+fstore K
+iconst 18
+fstore a
+fconst -6.553164
+ineq
+fneq
+iconst -8
+fstore L
+iconst 17
+istore D
+fconst -7.599709
+fstore c
+val A
+fstore d

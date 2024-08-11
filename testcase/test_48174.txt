@@ -1,0 +1,12 @@
+iconst 3
+istore I
+istore B
+fconst 8.706667
+iload h
+iconst -12
+par e
+iload j
+istore C
+iconst 5
+iload a
+iload L

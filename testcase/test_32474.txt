@@ -1,0 +1,9 @@
+iload C
+iconst -4
+fconst -9.511615
+iconst -19
+fconst 8.278908
+iload d
+fconst -8.607409
+fconst 8.225519
+iconst 8

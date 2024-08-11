@@ -1,0 +1,14 @@
+iconst -4
+par L
+fload e
+istore B
+fstore A
+fconst 6.692673
+fload J
+fconst -0.007504
+fconst 6.628038
+fconst 7.953911
+fneq
+fconst -5.765223
+fconst -4.235141
+fstore B

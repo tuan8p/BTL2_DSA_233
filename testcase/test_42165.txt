@@ -1,0 +1,16 @@
+iload K
+iconst 4
+idiv
+isub
+fconst 0.313052
+iconst 5
+ibnot
+iconst 15
+istore D
+iconst -12
+fconst 2.699342
+istore i
+istore c
+iconst 17
+iconst 15
+fconst -1.044895

@@ -1,0 +1,14 @@
+fconst 1.348331
+val m
+iconst -8
+fstore a
+fconst -5.856990
+iload K
+top
+iconst -8
+ieq
+fload L
+iconst 9
+flt
+iadd
+fsub

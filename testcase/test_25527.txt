@@ -1,0 +1,10 @@
+par B
+top
+iload L
+iconst 3
+fconst 3.824405
+i2f
+fload D
+istore B
+fdiv
+fstore A

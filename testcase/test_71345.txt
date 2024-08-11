@@ -1,0 +1,12 @@
+val d
+iconst -4
+iload B
+iconst 16
+fconst 6.033230
+iload A
+f2i
+iconst -10
+iconst 12
+irem
+ibnot
+istore b

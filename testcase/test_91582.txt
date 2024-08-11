@@ -1,0 +1,19 @@
+iload m
+iconst -20
+iload D
+iload H
+iconst -10
+iconst 3
+fconst -3.549680
+fload h
+iload E
+fconst 3.966413
+ilt
+iconst -2
+iload A
+iconst 1
+iconst -10
+fconst 1.863199
+iconst -10
+fmul
+f2i

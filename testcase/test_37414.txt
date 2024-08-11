@@ -1,0 +1,13 @@
+top
+top
+fconst 3.695183
+iconst -14
+par g
+iconst 8
+fconst 9.786013
+fload e
+iconst -16
+fconst 6.414513
+ibnot
+iconst -5
+iconst 1

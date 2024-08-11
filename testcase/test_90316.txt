@@ -1,0 +1,19 @@
+fload g
+fstore A
+fstore j
+fneg
+fstore G
+iconst -8
+iload C
+fstore D
+iconst 17
+iconst 10
+iconst -20
+i2f
+fconst -8.999965
+fstore J
+fstore e
+iload l
+fmul
+fstore l
+ieq

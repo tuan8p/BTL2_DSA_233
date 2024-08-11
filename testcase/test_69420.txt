@@ -1,0 +1,18 @@
+fconst -2.645107
+fstore L
+iconst 19
+iconst 2
+top
+top
+fload k
+fstore m
+top
+istore a
+fconst -4.387772
+fadd
+fconst -6.045394
+iconst 13
+iload b
+top
+fconst 3.010271
+iload k

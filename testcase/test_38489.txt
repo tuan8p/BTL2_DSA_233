@@ -1,0 +1,10 @@
+fconst -1.109518
+iconst -4
+fstore K
+f2i
+fneg
+istore B
+istore K
+fconst -0.707138
+fstore H
+fsub

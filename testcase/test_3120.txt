@@ -1,0 +1,10 @@
+val m
+iconst 7
+iconst 2
+istore j
+istore D
+i2f
+iconst -12
+iload L
+istore m
+iconst 2

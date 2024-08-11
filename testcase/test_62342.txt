@@ -1,0 +1,11 @@
+iload h
+istore I
+ibnot
+istore h
+iconst -5
+istore G
+fconst 9.076988
+iload G
+par m
+iload a
+ineg

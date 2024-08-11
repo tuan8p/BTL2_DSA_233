@@ -1,0 +1,12 @@
+iconst 14
+val B
+fconst 7.657219
+fconst 0.171685
+fstore e
+iconst -16
+fconst 9.758774
+fstore I
+fmul
+igt
+fconst 9.627512
+fstore K

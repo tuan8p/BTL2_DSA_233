@@ -1,0 +1,20 @@
+fconst -4.398861
+fconst 4.354059
+fconst 1.114761
+iconst -20
+istore c
+istore D
+iconst 15
+istore c
+top
+fneg
+iconst -5
+imul
+iconst -11
+istore E
+fdiv
+fconst -5.751339
+fconst 8.058258
+istore i
+fconst -7.750616
+i2f

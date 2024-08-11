@@ -1,0 +1,9 @@
+fconst -8.268963
+top
+fstore F
+fstore f
+val I
+iconst 17
+iconst 15
+fconst 5.565133
+istore C

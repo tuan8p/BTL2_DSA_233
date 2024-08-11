@@ -1,0 +1,15 @@
+fload b
+f2i
+top
+fstore c
+fstore h
+iload H
+fconst -0.001134
+iconst -11
+fload j
+ior
+iload M
+imul
+istore g
+fstore j
+iconst -10

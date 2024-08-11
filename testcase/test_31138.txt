@@ -1,0 +1,15 @@
+iconst -8
+iconst 19
+istore a
+fconst -1.250821
+iconst 14
+iconst 3
+top
+iconst 11
+ineg
+fconst -6.235137
+istore G
+iconst 7
+ieq
+iload K
+fconst -7.716192

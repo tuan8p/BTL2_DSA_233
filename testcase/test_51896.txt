@@ -1,0 +1,13 @@
+fload i
+iload J
+fconst 8.254234
+iload a
+i2f
+fstore c
+isub
+fstore a
+fmul
+iconst 5
+fdiv
+i2f
+fconst 8.872396

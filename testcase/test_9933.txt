@@ -1,0 +1,20 @@
+iconst -4
+iconst -7
+ibnot
+istore I
+iand
+istore m
+fconst 0.781664
+fstore K
+istore m
+fstore D
+fconst 7.610523
+iconst 14
+fstore J
+iconst -2
+fgt
+iload b
+fstore H
+idiv
+fstore K
+iconst -16

@@ -1,0 +1,12 @@
+iconst -4
+iconst -12
+iconst 18
+iload i
+par I
+ieq
+istore c
+iconst -12
+igt
+i2f
+ibnot
+istore D

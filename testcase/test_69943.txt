@@ -1,0 +1,13 @@
+val b
+fconst 3.422046
+fneg
+iconst -7
+fstore a
+iload g
+iload J
+top
+iconst 17
+top
+ilt
+fconst 8.150385
+iconst 0

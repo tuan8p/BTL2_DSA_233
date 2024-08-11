@@ -1,0 +1,19 @@
+val c
+par d
+fload G
+iconst -2
+fload L
+iload g
+iconst -16
+fconst -5.974793
+iload d
+ineq
+igt
+fconst 6.116488
+iconst -9
+par c
+iconst 18
+fconst 2.578362
+fconst -7.101122
+iconst 0
+istore D

@@ -1,0 +1,13 @@
+iconst 20
+top
+istore k
+iconst 7
+iload K
+ieq
+i2f
+iconst 14
+iadd
+fconst -5.690482
+par E
+istore D
+iconst -6

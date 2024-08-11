@@ -1,0 +1,15 @@
+fload b
+iconst 4
+iload e
+fconst 5.930623
+fstore m
+iload h
+fneg
+isub
+iconst -2
+istore h
+iload H
+fconst 2.020049
+iconst -9
+fconst -2.547922
+idiv

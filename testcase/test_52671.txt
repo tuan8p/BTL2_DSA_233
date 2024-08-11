@@ -1,0 +1,12 @@
+val i
+iconst 19
+fconst 8.752687
+iconst 12
+istore G
+iconst 5
+fconst 9.509052
+iconst 0
+iload e
+iload E
+imul
+f2i

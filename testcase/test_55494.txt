@@ -1,0 +1,10 @@
+top
+iload H
+iconst -17
+iconst -15
+iload l
+val i
+istore F
+fload G
+iconst -9
+f2i

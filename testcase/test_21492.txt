@@ -1,0 +1,10 @@
+iload I
+iload D
+fconst -9.389793
+iload H
+iconst -2
+idiv
+fconst 1.822945
+iconst 5
+fneq
+igt

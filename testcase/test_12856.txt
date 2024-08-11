@@ -1,0 +1,17 @@
+par m
+iconst -9
+val m
+iconst -4
+istore M
+ilt
+iload M
+fconst 2.256160
+fload c
+fconst 1.550521
+iconst -3
+iconst 6
+igt
+iload b
+iconst -11
+f2i
+iload j

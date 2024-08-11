@@ -1,0 +1,13 @@
+iload l
+iconst 17
+iload d
+istore e
+iconst 16
+istore b
+iload G
+ieq
+fconst -7.266464
+fload C
+iconst -14
+fsub
+fadd

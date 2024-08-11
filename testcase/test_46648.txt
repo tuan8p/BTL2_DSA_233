@@ -1,0 +1,11 @@
+iconst -20
+fconst -7.992247
+ineg
+fconst 0.386968
+fstore c
+fstore h
+fadd
+fconst -3.853770
+fconst -0.565578
+val g
+iconst -9

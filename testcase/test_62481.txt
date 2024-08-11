@@ -1,0 +1,16 @@
+top
+fconst 6.047972
+fload k
+iconst 10
+istore I
+iconst 3
+ibnot
+iconst -2
+istore E
+fstore j
+istore C
+iload B
+iconst -4
+iload K
+istore a
+fload A

@@ -1,0 +1,8 @@
+top
+iconst 17
+iconst 15
+iconst -13
+iconst 15
+iload K
+i2f
+fconst -0.759136

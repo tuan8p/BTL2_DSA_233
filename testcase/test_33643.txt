@@ -1,0 +1,8 @@
+fconst -3.836822
+iconst 1
+fconst -7.810206
+iconst 0
+iconst 4
+ilt
+iload J
+ibnot

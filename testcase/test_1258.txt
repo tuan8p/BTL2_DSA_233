@@ -1,0 +1,19 @@
+iconst 14
+fconst 4.793433
+ineg
+iconst 18
+ineq
+iconst -12
+fconst 5.153374
+fdiv
+imul
+iconst -17
+istore g
+fload j
+isub
+fstore B
+iconst 7
+iconst -11
+iconst -11
+fadd
+istore m

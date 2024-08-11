@@ -1,0 +1,16 @@
+iconst -20
+iconst -1
+fconst 4.361673
+irem
+fconst 4.669817
+fconst -6.012374
+iconst 1
+iload C
+iconst 7
+fconst -7.519225
+isub
+fconst 5.878161
+f2i
+fconst 2.464252
+iconst -9
+fconst -2.505088

@@ -1,0 +1,19 @@
+top
+iload j
+iconst 11
+iload i
+iconst -8
+iconst 12
+iload M
+istore J
+iconst 10
+fconst 7.354383
+istore m
+fload D
+ieq
+iconst 0
+ieq
+iconst -17
+iconst -6
+fconst 7.091068
+par K

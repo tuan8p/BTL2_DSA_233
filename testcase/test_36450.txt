@@ -1,0 +1,20 @@
+iconst 12
+fconst 5.180132
+fneg
+iconst -14
+istore k
+iload j
+fstore M
+fstore H
+iconst 19
+irem
+iconst -14
+istore C
+fstore k
+iload H
+ior
+iconst 19
+fload h
+iadd
+iand
+fstore I

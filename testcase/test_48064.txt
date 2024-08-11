@@ -1,0 +1,24 @@
+iconst -14
+iconst 3
+iload k
+ieq
+fconst 4.740907
+iload h
+fload D
+iconst 11
+iload c
+istore l
+istore I
+iload G
+iconst -2
+iconst -1
+iconst 16
+par g
+irem
+istore D
+istore D
+ineg
+iconst 3
+fconst 4.401761
+ineq
+iconst 6

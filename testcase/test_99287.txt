@@ -1,0 +1,14 @@
+iconst -3
+iconst -14
+ilt
+ibnot
+istore A
+istore i
+par f
+istore d
+iload A
+fload I
+iload B
+iload A
+iconst -11
+iconst 2

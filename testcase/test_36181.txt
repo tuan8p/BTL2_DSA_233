@@ -1,0 +1,15 @@
+top
+iload D
+fload d
+fstore m
+fstore m
+f2i
+fconst 0.634347
+fneq
+fconst 3.596050
+fload F
+iconst -7
+fstore f
+iand
+fstore F
+fmul

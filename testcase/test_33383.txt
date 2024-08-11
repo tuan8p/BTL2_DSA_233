@@ -1,0 +1,18 @@
+top
+iconst 11
+iconst -7
+fconst 4.220551
+fload f
+idiv
+imul
+iload J
+ineq
+istore H
+fconst 4.478535
+fconst -2.523768
+par D
+istore g
+ior
+fconst -9.259418
+fadd
+iconst 14

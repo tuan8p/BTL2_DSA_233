@@ -1,0 +1,20 @@
+iload m
+fconst -5.387983
+fconst 1.272657
+fstore A
+fneg
+par a
+fconst 9.327082
+fload F
+fstore J
+fconst 1.497339
+fconst -8.612472
+top
+fconst -7.041140
+fconst 7.016489
+fconst 3.771898
+ineg
+f2i
+fload D
+fconst 5.145783
+fdiv

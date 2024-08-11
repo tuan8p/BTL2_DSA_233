@@ -1,0 +1,13 @@
+iconst -4
+ineg
+fload A
+f2i
+iload D
+istore h
+top
+ineg
+iconst -18
+ieq
+iload B
+fstore J
+fconst -2.211370

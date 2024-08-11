@@ -1,0 +1,22 @@
+val m
+fconst 4.828083
+fconst -2.879448
+fconst -8.452106
+iconst 15
+fconst -0.133423
+fconst -5.653480
+fconst 3.290404
+fconst -2.015445
+fconst -0.602828
+istore C
+iconst 14
+fconst -4.149975
+iconst -1
+fconst 7.287506
+fstore m
+iconst -8
+fstore E
+isub
+iconst 1
+iconst 20
+fconst 9.539427

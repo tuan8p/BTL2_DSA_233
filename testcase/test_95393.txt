@@ -1,0 +1,7 @@
+iload e
+iconst 10
+fconst -7.388844
+par H
+iconst -3
+fstore J
+igt

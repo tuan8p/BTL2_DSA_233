@@ -1,0 +1,15 @@
+iconst 17
+iconst -13
+istore c
+fconst 9.475328
+istore g
+iconst -20
+iconst -14
+fconst 5.454018
+top
+iconst -14
+ibnot
+fconst 3.501942
+istore g
+fconst -9.124541
+fconst -8.215235

@@ -1,0 +1,15 @@
+fload k
+fload k
+iconst -5
+fmul
+ibnot
+fconst 2.180759
+fstore h
+fconst 0.925317
+fstore l
+iload A
+val a
+iconst -5
+fconst -9.555799
+iconst -18
+fconst -9.630452

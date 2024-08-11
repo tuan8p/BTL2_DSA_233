@@ -1,0 +1,22 @@
+fconst -0.426344
+fstore D
+iconst -6
+istore F
+fstore D
+fstore d
+istore G
+fconst 2.277217
+fstore C
+fconst -6.294007
+iload h
+istore G
+iconst -13
+flt
+fneg
+val D
+fload g
+val K
+fconst 9.373461
+fstore a
+iload c
+iconst -1

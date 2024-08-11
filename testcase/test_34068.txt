@@ -1,0 +1,11 @@
+iload H
+iload h
+iload m
+par M
+iconst 17
+iload a
+iload D
+i2f
+iconst -16
+fload j
+iconst 11

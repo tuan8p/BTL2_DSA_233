@@ -1,0 +1,21 @@
+iconst 20
+ineg
+iload H
+iconst -6
+iconst 18
+fconst 5.203018
+iload a
+iconst 12
+fconst 3.678895
+iconst -6
+iconst -15
+par b
+ineq
+istore a
+flt
+fconst 0.774057
+fmul
+iconst -10
+istore i
+fconst -3.127357
+iload A

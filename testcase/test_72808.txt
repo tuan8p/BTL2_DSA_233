@@ -1,0 +1,19 @@
+fconst -4.662266
+val A
+iconst 0
+fconst -1.802572
+feq
+fconst -0.132621
+fconst -3.555200
+iconst -19
+iload l
+irem
+iload A
+ineg
+fconst 4.829712
+iconst 15
+iconst -8
+fconst 9.867079
+istore C
+fdiv
+istore G

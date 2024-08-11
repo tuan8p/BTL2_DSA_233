@@ -1,0 +1,7 @@
+iconst -9
+iconst 13
+iload a
+iload h
+iload D
+ineg
+fconst 2.189192

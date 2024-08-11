@@ -1,0 +1,20 @@
+fconst -6.090300
+iconst -10
+fconst -7.330964
+fconst -2.086935
+ineg
+iconst -10
+fneq
+fconst -4.716594
+iconst 1
+fneg
+fneq
+ineg
+top
+f2i
+fload f
+iconst -12
+istore d
+ieq
+fconst 7.095167
+fconst -3.606126

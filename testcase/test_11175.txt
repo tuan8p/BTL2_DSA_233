@@ -1,0 +1,16 @@
+iload m
+iload E
+iconst -13
+iload K
+fconst 0.443893
+iload l
+iload M
+i2f
+iand
+istore k
+f2i
+istore D
+ineq
+ior
+fconst 2.506462
+i2f

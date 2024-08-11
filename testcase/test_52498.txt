@@ -1,0 +1,8 @@
+iconst -18
+iconst -11
+iconst -14
+par L
+istore M
+iconst -8
+istore d
+iconst -9

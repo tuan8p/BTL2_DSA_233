@@ -1,0 +1,12 @@
+iconst 2
+iconst 11
+imul
+istore F
+iload k
+iconst 17
+fconst 2.716021
+fstore A
+f2i
+fstore L
+fload I
+val m

@@ -1,0 +1,20 @@
+iconst 15
+iconst 20
+iconst 5
+iconst 2
+iconst -14
+iconst -20
+iload m
+ineq
+ior
+par J
+istore D
+istore i
+iconst -14
+istore d
+fconst 7.853861
+ineq
+ineq
+istore a
+top
+ilt

@@ -1,0 +1,11 @@
+iconst 9
+iconst -12
+istore I
+isub
+iconst -7
+iconst 11
+fconst 2.052008
+fconst 8.737495
+fmul
+iload A
+irem

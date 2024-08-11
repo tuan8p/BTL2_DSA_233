@@ -1,0 +1,13 @@
+iload a
+fconst -3.888888
+fstore k
+iload K
+f2i
+fstore m
+iconst -9
+iload E
+fload i
+fstore k
+iconst -20
+val M
+irem

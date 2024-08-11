@@ -1,0 +1,20 @@
+iconst 2
+fconst 1.305677
+fstore B
+iconst 2
+istore B
+iconst 20
+istore l
+iconst -2
+par K
+ior
+fconst -2.062397
+top
+fstore d
+iconst 17
+iload B
+iconst -19
+f2i
+fconst -4.009906
+fstore i
+iconst 19

@@ -1,0 +1,9 @@
+fconst -2.970458
+fconst 1.464693
+fconst -0.327936
+iconst -13
+ineg
+fstore f
+iload g
+ior
+ieq

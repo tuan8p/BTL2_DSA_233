@@ -1,0 +1,9 @@
+val m
+iconst -20
+iconst 1
+fconst -1.326847
+fstore F
+iconst -1
+istore L
+f2i
+fconst 8.561123

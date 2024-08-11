@@ -1,0 +1,17 @@
+iconst 13
+istore F
+istore m
+fload K
+iconst 16
+fstore B
+fstore F
+iload F
+igt
+ior
+ieq
+ineq
+fload H
+fload i
+iconst -20
+fadd
+iconst -11

@@ -1,0 +1,19 @@
+iload B
+val C
+iconst -7
+ineq
+iadd
+imul
+iload e
+istore c
+fconst 1.562768
+fconst 9.275362
+idiv
+iconst -8
+fneg
+ibnot
+iconst 6
+ibnot
+fconst -5.464693
+top
+fgt

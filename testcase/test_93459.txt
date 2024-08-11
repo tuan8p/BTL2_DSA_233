@@ -1,0 +1,14 @@
+iconst -4
+iconst 7
+ineq
+ibnot
+fconst -2.565380
+iload H
+fconst 1.931812
+iload H
+ior
+isub
+istore M
+iconst 7
+istore L
+par L

@@ -1,0 +1,21 @@
+iconst -12
+istore J
+par G
+fconst -2.736765
+fconst -7.380238
+iconst 20
+par F
+fstore a
+iconst 5
+istore J
+iconst 2
+fstore b
+iconst 19
+fconst 7.315767
+ilt
+fconst -1.227063
+iconst -14
+fconst -3.858067
+iconst 18
+iconst -3
+ibnot

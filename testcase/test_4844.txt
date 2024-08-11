@@ -1,0 +1,12 @@
+top
+iload e
+istore c
+fload G
+ibnot
+fstore e
+iload D
+ieq
+iconst 15
+isub
+istore e
+iload H

@@ -1,0 +1,15 @@
+fconst 7.607174
+iconst 2
+iconst -10
+istore a
+istore I
+iconst 15
+ibnot
+fload E
+fstore l
+fstore L
+imul
+val M
+fadd
+iconst 14
+istore A

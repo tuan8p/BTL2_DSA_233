@@ -1,0 +1,9 @@
+val L
+fconst 2.773238
+fconst 1.589980
+iconst -6
+fstore h
+fneg
+fload k
+istore M
+fstore E

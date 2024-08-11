@@ -1,0 +1,10 @@
+fconst 0.865730
+fstore b
+fconst 8.262503
+fload l
+fmul
+fsub
+iload E
+fload k
+iconst 5
+ior

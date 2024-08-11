@@ -1,0 +1,12 @@
+iload e
+iconst 8
+isub
+iconst -14
+i2f
+istore L
+istore M
+idiv
+iconst -6
+istore L
+iconst -2
+ieq

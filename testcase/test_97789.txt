@@ -1,0 +1,18 @@
+top
+iconst 14
+iconst -20
+iconst -9
+fconst 0.839785
+fstore m
+fconst 4.803048
+fstore k
+ineg
+par L
+fstore B
+fconst 6.201187
+igt
+fstore I
+par A
+fconst -3.485086
+fconst -4.676910
+fsub

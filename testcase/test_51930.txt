@@ -1,0 +1,17 @@
+iconst 14
+istore i
+iload K
+ineg
+ilt
+fconst -2.135645
+fload a
+iconst -4
+idiv
+fstore l
+iconst 14
+fconst 5.746694
+iconst -10
+fconst 8.390661
+ineq
+fconst 7.532234
+fmul

@@ -1,0 +1,9 @@
+fconst 9.083099
+fconst 0.091133
+iconst -6
+fadd
+fneq
+iconst 10
+imul
+i2f
+iload m

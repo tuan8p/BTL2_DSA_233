@@ -1,0 +1,12 @@
+iconst 3
+iconst -5
+iconst 20
+iload C
+iconst 15
+iconst -13
+iconst 9
+iconst 17
+iload a
+iload e
+iconst -11
+ibnot

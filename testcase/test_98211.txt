@@ -1,0 +1,18 @@
+iload k
+iload k
+fload a
+par h
+istore E
+fconst -8.125841
+iand
+iand
+igt
+fsub
+top
+irem
+iconst -6
+par h
+idiv
+fmul
+istore e
+iadd

@@ -1,0 +1,23 @@
+par i
+fconst -1.738848
+iconst 18
+istore i
+fconst 5.954126
+iload f
+igt
+iconst -16
+fconst -5.304080
+iload D
+fconst 8.112185
+iconst -9
+fstore G
+fconst 4.305228
+fneg
+iconst 20
+fconst 1.029810
+fconst 6.102966
+fconst -3.403713
+igt
+fconst -7.363065
+fconst 9.337702
+val j

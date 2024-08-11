@@ -1,0 +1,16 @@
+iconst -16
+istore K
+top
+iconst -14
+fload D
+fload a
+istore d
+fstore B
+fdiv
+iload G
+idiv
+istore m
+fstore m
+iconst 7
+iconst -15
+fstore G

@@ -1,0 +1,11 @@
+iload F
+istore a
+i2f
+istore A
+istore F
+istore M
+top
+iconst -19
+i2f
+iconst -4
+iload i

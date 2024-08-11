@@ -1,0 +1,23 @@
+iconst 10
+ibnot
+iload M
+igt
+fconst 4.581758
+iload c
+iconst -1
+iconst 9
+fstore b
+iload K
+iconst -15
+irem
+igt
+iload J
+iadd
+iload b
+iconst -12
+idiv
+iconst -19
+fconst -7.351317
+fadd
+iconst 12
+istore l

@@ -1,0 +1,9 @@
+par l
+fload e
+fstore G
+iconst 8
+fstore I
+fstore I
+fconst 2.348886
+fconst 8.217960
+fconst 3.283791

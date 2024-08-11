@@ -1,0 +1,13 @@
+fload I
+iload j
+iload A
+fconst -5.897629
+par k
+iconst 2
+iconst 6
+iconst -16
+fconst 6.520351
+fdiv
+iconst 13
+istore K
+fload B

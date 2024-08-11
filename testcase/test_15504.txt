@@ -1,0 +1,16 @@
+fconst 7.683868
+iconst -13
+iconst -2
+iconst 10
+iload i
+fconst 7.795918
+fdiv
+fconst 5.067986
+fconst 1.819164
+iconst -20
+fload D
+par K
+iconst -3
+iload C
+fconst 9.413778
+iconst 0

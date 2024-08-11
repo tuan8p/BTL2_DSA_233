@@ -1,0 +1,11 @@
+iload C
+val m
+iload a
+fconst 8.155519
+fconst -9.050601
+istore A
+fstore i
+istore c
+iload H
+iconst -8
+top

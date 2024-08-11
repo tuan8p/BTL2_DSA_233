@@ -1,0 +1,12 @@
+fconst 6.867641
+iconst -9
+iconst -9
+i2f
+fconst 4.352069
+fconst 6.268530
+fconst -8.265286
+iload e
+fadd
+fadd
+istore e
+istore i

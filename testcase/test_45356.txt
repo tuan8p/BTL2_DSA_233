@@ -1,0 +1,18 @@
+fconst -2.803574
+iconst 10
+ineg
+istore D
+iconst 14
+igt
+ibnot
+fconst -9.127516
+fdiv
+ineq
+istore D
+iconst -14
+top
+fconst -7.592369
+istore I
+iconst 18
+fconst -9.863216
+iconst -5

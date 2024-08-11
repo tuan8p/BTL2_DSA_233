@@ -1,0 +1,18 @@
+iconst 0
+iload A
+iload I
+fconst -2.036291
+iconst 14
+iconst -9
+fconst -4.292386
+iconst -19
+ieq
+f2i
+ineg
+fadd
+igt
+par l
+istore k
+iconst 4
+fconst -6.173233
+fneq

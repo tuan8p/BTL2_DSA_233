@@ -1,0 +1,16 @@
+fconst -9.117290
+fconst -9.005636
+iload j
+flt
+fconst 0.455155
+fconst 1.807611
+fconst 0.967773
+par B
+fconst -3.202499
+iload B
+iconst 20
+fconst 3.529066
+fmul
+fconst -5.553722
+iload b
+feq

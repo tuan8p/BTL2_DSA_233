@@ -1,0 +1,16 @@
+iconst 12
+iconst -9
+ineq
+istore m
+iconst 8
+fconst -3.548580
+fconst 2.808825
+fconst -1.911270
+fmul
+fstore G
+igt
+fstore E
+fgt
+feq
+iconst 4
+iconst 4

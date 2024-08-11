@@ -1,0 +1,15 @@
+iconst 6
+istore k
+iload I
+val D
+iload h
+ibnot
+i2f
+fconst 1.544436
+iload M
+iload d
+fconst -5.966195
+val k
+fmul
+fconst -1.284851
+istore l

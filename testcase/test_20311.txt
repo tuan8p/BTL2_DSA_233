@@ -1,0 +1,19 @@
+iconst -15
+fload B
+iconst 6
+iload m
+iload i
+istore i
+istore J
+iconst 17
+igt
+iconst 12
+iconst 8
+istore f
+fstore J
+iload l
+iconst 20
+imul
+iand
+ibnot
+iload G

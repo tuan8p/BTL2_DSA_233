@@ -1,0 +1,18 @@
+iconst 16
+iconst 2
+fload C
+iconst 2
+istore a
+iload C
+iand
+iload A
+iload a
+fstore c
+fstore c
+istore H
+istore C
+fload j
+istore d
+igt
+iconst 17
+iconst 17

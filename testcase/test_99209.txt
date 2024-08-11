@@ -1,0 +1,9 @@
+iload L
+istore D
+istore F
+fconst 9.802162
+fstore H
+fneg
+fconst -7.175753
+fconst 9.333735
+fsub

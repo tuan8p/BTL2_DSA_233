@@ -1,0 +1,18 @@
+iconst 7
+iconst -4
+istore f
+irem
+val i
+ior
+idiv
+ieq
+iload A
+istore L
+igt
+iadd
+iload a
+iconst -9
+iload c
+ieq
+iconst -20
+igt

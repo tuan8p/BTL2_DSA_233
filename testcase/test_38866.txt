@@ -1,0 +1,15 @@
+iconst 20
+top
+par C
+istore J
+istore i
+iconst -5
+iconst -10
+fconst 7.186300
+fstore D
+fstore m
+fconst -7.898374
+isub
+idiv
+flt
+fstore K

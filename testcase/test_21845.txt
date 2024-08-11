@@ -1,0 +1,20 @@
+fconst 7.449326
+iconst 10
+fneg
+iconst 14
+fconst -3.474121
+fstore i
+fadd
+ineg
+iconst 2
+istore j
+iconst 11
+igt
+iconst 16
+iconst 14
+fmul
+iconst -4
+iconst 0
+istore d
+f2i
+imul

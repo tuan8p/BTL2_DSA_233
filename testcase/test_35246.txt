@@ -1,0 +1,21 @@
+val A
+iconst -6
+iconst 10
+iload l
+fconst -6.838934
+fconst 7.190165
+fstore h
+iload B
+iconst -15
+fsub
+iload B
+fneg
+fconst 5.293988
+istore f
+iload b
+iconst -18
+iconst 1
+fadd
+istore a
+iconst 6
+iconst 20

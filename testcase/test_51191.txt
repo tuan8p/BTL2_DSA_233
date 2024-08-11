@@ -1,0 +1,9 @@
+fload m
+par m
+fstore l
+iload i
+iconst -11
+fstore M
+istore D
+fload A
+fadd

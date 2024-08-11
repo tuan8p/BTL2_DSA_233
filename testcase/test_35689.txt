@@ -1,0 +1,11 @@
+iconst -18
+fconst 9.203054
+fstore E
+fconst -9.694578
+fstore A
+fload I
+istore D
+fsub
+iload E
+i2f
+ieq

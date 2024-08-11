@@ -1,0 +1,17 @@
+iconst -16
+fconst -8.116865
+istore a
+val K
+fstore h
+istore d
+istore h
+iconst 14
+isub
+ior
+fconst -0.330835
+fconst -1.263760
+fconst -6.291683
+istore l
+fneg
+imul
+fstore h

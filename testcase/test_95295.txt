@@ -1,0 +1,15 @@
+iload C
+iconst 6
+fconst 6.109703
+ilt
+iconst 20
+fconst 9.685862
+iconst 20
+fconst 8.498657
+fconst 4.374486
+fconst -2.068091
+fconst 6.059038
+fconst 9.823957
+iconst -13
+irem
+iconst -14

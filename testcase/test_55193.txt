@@ -1,0 +1,22 @@
+fconst -5.848049
+fconst -8.811025
+fdiv
+fstore M
+fneq
+fconst 0.937095
+iconst 10
+iconst 18
+istore f
+i2f
+iand
+fneq
+iconst 4
+istore C
+fconst -7.447822
+imul
+fconst 3.917349
+istore K
+val H
+irem
+fconst -8.861665
+iconst -17

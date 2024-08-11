@@ -1,0 +1,11 @@
+fconst 9.789392
+fload J
+fload l
+feq
+fstore I
+fneq
+fneq
+iconst -9
+iconst 14
+fstore M
+fstore b

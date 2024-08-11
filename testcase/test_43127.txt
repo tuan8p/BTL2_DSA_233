@@ -1,0 +1,22 @@
+val F
+iconst -14
+iconst 17
+igt
+istore f
+iconst 3
+fconst -3.629561
+fneg
+irem
+f2i
+fload B
+iload f
+fconst 3.062101
+par l
+ineq
+fconst -3.732022
+iconst 10
+iload m
+istore C
+istore d
+iload B
+iconst 18

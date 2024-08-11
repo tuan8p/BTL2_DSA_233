@@ -1,0 +1,17 @@
+fconst 4.095696
+fconst 8.820354
+iconst 17
+iconst -18
+flt
+iand
+iload D
+fstore A
+top
+iconst -4
+iconst -12
+fdiv
+fconst 4.359470
+istore j
+fconst 0.720840
+fconst 9.831646
+iconst -4

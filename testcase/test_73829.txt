@@ -1,0 +1,11 @@
+iconst 1
+istore J
+iconst -19
+istore L
+istore K
+iconst 16
+fconst 2.097292
+iconst 4
+ilt
+ineq
+par f

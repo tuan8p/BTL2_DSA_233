@@ -1,0 +1,12 @@
+fconst 9.658850
+par g
+fconst -5.511457
+fconst -5.435029
+iconst -14
+ineg
+fconst -1.093000
+fconst 4.669656
+iconst -20
+iload l
+iand
+fstore k

@@ -1,0 +1,12 @@
+iconst 3
+istore H
+iload C
+fconst -7.337182
+istore C
+istore B
+iload C
+fstore I
+igt
+fconst -9.580822
+iload g
+fsub

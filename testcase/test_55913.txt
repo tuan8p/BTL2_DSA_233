@@ -1,0 +1,9 @@
+iconst 4
+fconst -2.408779
+iconst -15
+fconst 7.015221
+iload d
+iload A
+fstore I
+fneq
+ieq

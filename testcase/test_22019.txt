@@ -1,0 +1,11 @@
+fconst -0.694386
+fstore M
+fstore C
+fconst -0.182245
+fadd
+fstore F
+iload A
+iconst -4
+fstore f
+fstore h
+fneg

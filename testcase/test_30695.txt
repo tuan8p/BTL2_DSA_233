@@ -1,0 +1,13 @@
+iconst -20
+iload K
+idiv
+iconst 13
+par d
+fconst 7.668009
+fconst 8.015295
+istore f
+iload d
+fmul
+iconst -2
+istore E
+istore D

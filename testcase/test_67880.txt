@@ -1,0 +1,11 @@
+iload B
+iconst -4
+ineg
+iconst -3
+fconst -7.281303
+val A
+fstore E
+fneg
+iconst 3
+iconst 6
+fconst 8.356504

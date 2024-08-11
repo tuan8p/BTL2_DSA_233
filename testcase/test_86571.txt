@@ -1,0 +1,8 @@
+iload C
+iconst 9
+istore b
+iconst -6
+iload k
+istore l
+fload B
+istore e

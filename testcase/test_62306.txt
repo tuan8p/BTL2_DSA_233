@@ -1,0 +1,21 @@
+par k
+fconst 0.655097
+iconst 12
+istore G
+istore A
+istore c
+fconst 2.518242
+fconst 2.564970
+fstore M
+iconst -8
+ineq
+istore C
+istore H
+fload k
+istore J
+iconst 10
+fstore d
+istore k
+iconst -4
+iconst 1
+fstore h

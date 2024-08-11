@@ -1,0 +1,4 @@
+fload I
+top
+fconst -1.655069
+iconst -13

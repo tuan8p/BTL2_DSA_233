@@ -1,0 +1,10 @@
+fconst 1.937995
+fstore K
+iconst -12
+i2f
+iconst -18
+iconst -4
+imul
+fconst 3.452367
+iconst 18
+fconst 8.597124

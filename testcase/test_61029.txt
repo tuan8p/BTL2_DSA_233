@@ -1,0 +1,22 @@
+par L
+fconst 4.313645
+iload b
+iconst -11
+fconst 7.081274
+imul
+igt
+fstore K
+iload a
+iconst 16
+fstore B
+istore I
+iconst -4
+istore e
+iconst -7
+iconst 20
+istore B
+iconst -16
+fmul
+iload c
+iconst 10
+iconst 6

@@ -1,0 +1,19 @@
+iconst 8
+iconst -8
+imul
+iload L
+fconst 7.191132
+iconst -15
+fstore K
+fstore H
+iload E
+iconst -9
+istore c
+fload h
+fconst 1.893572
+iconst -19
+val B
+fsub
+ibnot
+istore l
+istore L

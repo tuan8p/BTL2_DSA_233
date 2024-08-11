@@ -1,0 +1,15 @@
+iload c
+iconst 6
+iconst 6
+ibnot
+iconst 16
+iload K
+idiv
+iconst -5
+iconst -8
+iconst 9
+fconst 8.639767
+fconst -1.711827
+fconst -6.273590
+fload k
+fsub

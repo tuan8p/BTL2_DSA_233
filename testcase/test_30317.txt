@@ -1,0 +1,14 @@
+fconst 5.235973
+iconst -15
+fstore a
+fconst 1.085060
+istore L
+iconst -13
+flt
+iconst 12
+ieq
+top
+par b
+istore E
+iconst 12
+istore c

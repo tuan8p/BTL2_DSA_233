@@ -1,0 +1,19 @@
+iconst -7
+val D
+iconst 16
+iload b
+ieq
+iconst 8
+fconst -7.144668
+iconst 11
+ibnot
+fneg
+fconst -4.712034
+iconst 2
+istore H
+istore G
+fconst -6.049143
+fdiv
+isub
+fstore I
+fmul

@@ -1,0 +1,11 @@
+iload h
+iconst 19
+fconst 9.405369
+val b
+iconst 12
+iconst -1
+fstore i
+fstore M
+iconst -8
+par F
+iload b

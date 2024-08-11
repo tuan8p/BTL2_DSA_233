@@ -1,0 +1,19 @@
+top
+fconst -2.858997
+fconst -0.353028
+fconst -0.171432
+fconst -9.948394
+iconst -15
+iconst -9
+iconst -9
+iconst -19
+iconst 19
+fstore G
+fstore E
+iconst -18
+fstore C
+istore E
+fconst -9.114217
+istore e
+ior
+istore m

@@ -1,0 +1,19 @@
+val D
+fload a
+fconst 5.191870
+fadd
+fstore h
+iload D
+iconst -4
+fconst 1.980347
+iconst 2
+fstore h
+ilt
+istore L
+ineg
+fgt
+iload B
+fconst 9.138992
+fdiv
+fstore M
+fstore G

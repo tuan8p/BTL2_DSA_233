@@ -1,0 +1,12 @@
+iconst -6
+iconst 5
+istore j
+ineq
+iconst 7
+iconst -16
+istore j
+iconst 16
+istore J
+isub
+iconst -2
+fconst -9.150571

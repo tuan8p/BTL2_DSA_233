@@ -1,0 +1,12 @@
+iload e
+iconst -3
+igt
+iconst 5
+fload a
+fstore e
+ibnot
+fstore a
+iload e
+imul
+istore e
+fstore e

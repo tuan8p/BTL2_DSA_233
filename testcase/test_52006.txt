@@ -1,0 +1,10 @@
+iconst 16
+iload I
+i2f
+ineg
+isub
+i2f
+iload f
+fconst 3.563129
+fconst 1.463510
+fdiv

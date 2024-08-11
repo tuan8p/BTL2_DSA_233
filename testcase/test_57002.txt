@@ -1,0 +1,15 @@
+iload A
+iload f
+irem
+iconst 14
+iconst -14
+iconst -13
+ilt
+fload I
+irem
+par e
+iload l
+fconst 8.065187
+iconst 14
+iconst -14
+iconst 10

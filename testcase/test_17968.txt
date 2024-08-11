@@ -1,0 +1,11 @@
+iload E
+iload e
+istore C
+iconst 8
+iconst -10
+fconst 0.336624
+istore j
+istore b
+fneg
+iconst -13
+iconst -3

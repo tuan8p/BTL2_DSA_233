@@ -1,0 +1,11 @@
+par M
+val j
+fconst -1.342280
+fconst 2.986820
+fsub
+iconst -16
+iconst 14
+fconst 6.470736
+fload F
+fstore B
+ior

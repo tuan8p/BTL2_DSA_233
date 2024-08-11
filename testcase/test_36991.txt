@@ -1,0 +1,18 @@
+iload L
+fconst 6.031963
+val B
+fstore F
+fstore d
+fload l
+val L
+istore A
+iload j
+iconst -2
+fstore b
+fmul
+irem
+fstore D
+iconst 6
+ieq
+ior
+fstore E

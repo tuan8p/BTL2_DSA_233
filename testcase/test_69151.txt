@@ -1,0 +1,7 @@
+iload G
+iload J
+istore c
+fconst 5.378639
+fstore A
+ineg
+iconst -2

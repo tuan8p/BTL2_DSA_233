@@ -1,0 +1,12 @@
+par C
+iconst 8
+iload E
+istore D
+ineg
+fconst 4.062986
+fstore f
+istore i
+fload L
+fstore G
+ieq
+irem

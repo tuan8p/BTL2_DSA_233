@@ -1,0 +1,17 @@
+par B
+iload H
+fconst 1.342005
+istore i
+fconst -4.504559
+istore M
+iconst 9
+ieq
+iconst 13
+i2f
+istore E
+iload I
+iconst -3
+istore b
+fconst 2.731370
+fconst 4.559643
+fconst 0.579447

@@ -1,0 +1,15 @@
+iload L
+iconst 13
+istore j
+iconst -18
+idiv
+i2f
+ibnot
+top
+ior
+iconst -2
+iconst 3
+fload m
+iload j
+fstore f
+fstore M

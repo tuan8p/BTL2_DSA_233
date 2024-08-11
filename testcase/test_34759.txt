@@ -1,0 +1,11 @@
+iconst -10
+iconst 12
+ilt
+igt
+iload c
+istore f
+istore C
+ior
+iconst -9
+ieq
+iload M

@@ -1,0 +1,14 @@
+par k
+fconst -7.804388
+fstore D
+fstore M
+fstore F
+iload D
+iconst -16
+iload k
+fconst -2.798261
+iconst 8
+ieq
+iload H
+fadd
+fstore F

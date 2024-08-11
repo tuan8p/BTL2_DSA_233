@@ -1,0 +1,14 @@
+val G
+fconst 0.523638
+iconst 10
+par c
+fstore l
+iconst 9
+iload B
+fconst -0.405920
+fstore k
+fconst 0.212964
+val B
+fconst 3.400783
+ieq
+istore E

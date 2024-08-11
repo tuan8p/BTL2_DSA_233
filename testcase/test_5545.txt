@@ -1,0 +1,11 @@
+par e
+iload I
+iconst 7
+istore g
+istore d
+iconst -14
+iconst -15
+istore F
+istore K
+iload A
+istore g

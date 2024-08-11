@@ -1,0 +1,13 @@
+iconst 5
+iload k
+fconst -3.373501
+ior
+fconst -9.869899
+fstore F
+fstore H
+fstore b
+iconst -18
+fneg
+iload G
+irem
+irem

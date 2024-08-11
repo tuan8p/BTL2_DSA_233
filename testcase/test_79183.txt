@@ -1,0 +1,15 @@
+iconst -2
+ineg
+istore h
+iconst -18
+ilt
+iand
+par B
+idiv
+fconst -8.922571
+fstore B
+igt
+fstore k
+iconst 8
+idiv
+iconst 0

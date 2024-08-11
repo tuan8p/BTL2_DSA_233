@@ -1,0 +1,18 @@
+iconst -20
+fconst -0.103065
+i2f
+iconst 18
+fconst 1.806004
+iconst 20
+fconst -7.231799
+val J
+fstore e
+fload J
+fdiv
+fconst 1.147136
+fload A
+fstore c
+ieq
+fstore B
+fstore m
+val f

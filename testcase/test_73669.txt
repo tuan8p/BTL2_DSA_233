@@ -1,0 +1,11 @@
+iconst -1
+top
+istore M
+iconst -3
+iconst 12
+ior
+iload m
+iload c
+iconst 16
+istore b
+fconst -7.671338

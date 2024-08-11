@@ -1,0 +1,14 @@
+fload B
+iload c
+istore D
+istore A
+iconst 4
+fstore c
+fstore I
+fstore D
+fstore f
+top
+ineq
+istore l
+imul
+ior

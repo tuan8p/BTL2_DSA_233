@@ -1,0 +1,11 @@
+fconst 9.520967
+fconst -3.210683
+fconst 6.289890
+iload L
+fconst 0.821102
+ibnot
+fadd
+fneg
+fconst -6.971361
+fconst 6.337545
+fconst -5.681954

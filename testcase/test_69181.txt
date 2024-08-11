@@ -1,0 +1,13 @@
+fconst 9.505207
+fconst -6.592658
+fconst 5.664434
+iload c
+fconst 0.051717
+fmul
+iconst 19
+iadd
+fconst -0.229576
+top
+iload g
+istore C
+fconst 7.259727

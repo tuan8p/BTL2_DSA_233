@@ -1,0 +1,22 @@
+iconst 7
+iconst -16
+ieq
+iconst 17
+iconst -5
+iconst -9
+fconst 9.687485
+iconst 11
+fstore l
+fconst 8.629784
+fload I
+iconst -6
+iload e
+par h
+iconst 15
+iload M
+irem
+imul
+iconst 11
+ilt
+par A
+iconst 2

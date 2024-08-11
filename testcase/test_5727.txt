@@ -1,0 +1,15 @@
+iconst -19
+fload l
+istore K
+fload F
+istore I
+fstore K
+fstore F
+iconst 3
+iload I
+fstore M
+iload I
+iconst 1
+iload A
+fload a
+ieq

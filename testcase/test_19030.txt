@@ -1,0 +1,11 @@
+iconst 5
+top
+fconst -8.741832
+i2f
+fstore d
+fstore C
+fconst -7.276201
+iload i
+igt
+fconst -6.411398
+iconst -1

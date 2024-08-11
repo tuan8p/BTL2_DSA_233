@@ -1,0 +1,15 @@
+par h
+iconst 10
+iload I
+imul
+fconst 9.558825
+iconst 17
+iconst -18
+fstore H
+fconst 4.055540
+fconst -2.320193
+istore B
+ior
+fadd
+iconst -14
+fconst 0.805712

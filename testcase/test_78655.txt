@@ -1,0 +1,21 @@
+fconst 8.757950
+iload e
+iconst 18
+iload D
+isub
+isub
+fload K
+idiv
+fconst -4.222184
+fconst 9.238647
+iload b
+iconst 11
+fconst -9.332486
+ineg
+iconst 11
+fconst 6.705755
+par a
+par L
+fconst 5.180917
+iconst -14
+fconst 9.551071

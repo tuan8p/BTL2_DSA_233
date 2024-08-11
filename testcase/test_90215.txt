@@ -1,0 +1,12 @@
+iconst -13
+iload F
+istore E
+istore J
+istore B
+istore i
+ieq
+imul
+fconst -1.189301
+iconst 0
+iconst 2
+iconst -12

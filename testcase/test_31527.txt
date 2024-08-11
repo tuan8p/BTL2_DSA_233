@@ -1,0 +1,12 @@
+iconst -9
+iconst -6
+iconst 20
+istore f
+iconst 9
+iconst -1
+irem
+iconst -14
+fload K
+iconst -9
+istore h
+fload e

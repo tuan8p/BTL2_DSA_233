@@ -1,0 +1,21 @@
+fload J
+fstore H
+fconst -2.031863
+f2i
+iload k
+fstore H
+iconst -2
+fstore e
+iconst -15
+iconst 18
+iload h
+ineg
+fconst -5.215535
+i2f
+iconst 18
+iconst -20
+ibnot
+iconst -1
+iload C
+iconst -16
+fload I

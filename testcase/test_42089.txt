@@ -1,0 +1,11 @@
+iload d
+iconst 19
+istore M
+iconst 3
+istore J
+iconst -8
+iload H
+top
+iconst 16
+iload J
+iadd

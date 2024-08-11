@@ -1,0 +1,15 @@
+iconst -19
+fconst -8.671564
+fconst -1.729898
+i2f
+iload h
+fconst 6.266438
+istore G
+fstore J
+top
+fstore E
+iload C
+ibnot
+fstore g
+fgt
+fstore C

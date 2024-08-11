@@ -1,0 +1,13 @@
+fconst 3.547105
+fstore E
+iconst -10
+fstore A
+fconst -0.980528
+fsub
+fconst 6.393526
+fsub
+fstore A
+fconst -9.420287
+fconst -5.069189
+fconst 8.565367
+ibnot

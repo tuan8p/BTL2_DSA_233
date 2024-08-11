@@ -1,0 +1,13 @@
+fconst -5.348083
+fload K
+fadd
+fconst -2.922058
+fneg
+iload B
+fconst -8.387823
+iload c
+iload g
+fneg
+iconst -4
+iadd
+fload G

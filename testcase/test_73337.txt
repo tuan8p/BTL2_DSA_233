@@ -1,0 +1,11 @@
+fload g
+val a
+fstore L
+iconst 11
+fconst 1.717560
+fload F
+fstore f
+fstore E
+fstore L
+ineg
+par f

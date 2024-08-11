@@ -1,0 +1,7 @@
+iload m
+istore j
+fconst 7.067316
+fstore L
+istore M
+fstore m
+fstore f

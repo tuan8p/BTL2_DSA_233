@@ -1,0 +1,11 @@
+iload H
+ibnot
+fconst 6.803192
+iconst 7
+fload E
+iload m
+iconst 17
+iload J
+iload B
+iload L
+iconst 6

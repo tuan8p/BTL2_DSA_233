@@ -1,0 +1,13 @@
+iconst -6
+fconst 9.362007
+iconst -7
+fstore h
+iconst -6
+iconst -9
+istore A
+istore l
+iconst 1
+istore E
+iadd
+fstore H
+fstore g

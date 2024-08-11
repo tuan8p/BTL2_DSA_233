@@ -1,0 +1,12 @@
+fload h
+iload l
+iload C
+ibnot
+iload e
+iconst 7
+fstore d
+iload m
+imul
+fconst -9.078856
+fload k
+fstore M

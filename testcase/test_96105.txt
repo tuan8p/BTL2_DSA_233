@@ -1,0 +1,14 @@
+iconst 13
+istore e
+iload G
+istore H
+top
+iconst 9
+iconst 7
+fload B
+iconst 3
+fstore A
+fload d
+fstore G
+istore l
+fload C

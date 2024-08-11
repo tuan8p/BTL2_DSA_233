@@ -1,0 +1,6 @@
+iconst 11
+istore F
+ineg
+istore L
+iconst 1
+iconst -16

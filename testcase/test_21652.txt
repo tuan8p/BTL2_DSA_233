@@ -1,0 +1,15 @@
+iload D
+iconst -15
+fconst -4.706792
+top
+ineg
+iconst 7
+fconst 1.758615
+fconst -3.826251
+fneq
+fneq
+iconst -4
+fconst 5.328835
+fconst 9.971937
+istore k
+iconst 10

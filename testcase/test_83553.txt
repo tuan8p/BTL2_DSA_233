@@ -1,0 +1,13 @@
+iconst -2
+iconst 13
+istore i
+iconst 7
+iconst 0
+val C
+iconst 3
+iconst -17
+iconst 6
+istore e
+fconst -8.353640
+fconst -6.062235
+fmul

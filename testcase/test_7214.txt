@@ -1,0 +1,10 @@
+iconst 3
+iload j
+ilt
+fload C
+ineg
+iconst -6
+fstore A
+iconst -20
+fstore c
+iload e

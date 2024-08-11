@@ -1,0 +1,16 @@
+iconst -11
+istore J
+iload b
+fload b
+imul
+istore g
+istore H
+fstore f
+iload b
+fneg
+ineq
+isub
+fstore e
+iload B
+istore a
+istore I

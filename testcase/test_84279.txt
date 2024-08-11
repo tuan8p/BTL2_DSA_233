@@ -1,0 +1,23 @@
+iconst 7
+iload a
+fconst 5.417451
+val E
+iconst -1
+fconst 5.914671
+fstore G
+fload C
+fconst -4.672257
+fload A
+iconst -11
+iconst 15
+ibnot
+iconst 1
+top
+fstore G
+iconst -15
+iload g
+fneg
+iand
+istore G
+fstore M
+fstore c

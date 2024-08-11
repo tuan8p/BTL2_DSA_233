@@ -1,0 +1,11 @@
+iconst -2
+iconst -15
+iconst -15
+idiv
+top
+ieq
+iload c
+fload A
+iconst 2
+iload C
+iconst 19

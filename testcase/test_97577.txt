@@ -1,0 +1,22 @@
+par h
+iconst -16
+fconst -8.210854
+iconst 0
+fstore L
+fload h
+iconst -11
+isub
+iadd
+iload A
+fstore f
+fconst -0.168785
+igt
+iadd
+f2i
+iconst 18
+iconst -6
+fadd
+fconst 8.842600
+fconst 8.316540
+iconst 5
+par L

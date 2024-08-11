@@ -1,0 +1,11 @@
+fconst -8.083676
+fconst 0.644848
+iconst 14
+istore I
+fconst -9.160328
+feq
+iload a
+isub
+iconst 7
+ieq
+fload g

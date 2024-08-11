@@ -1,0 +1,24 @@
+iconst -12
+istore J
+iconst -8
+fconst -0.751761
+istore k
+fconst 6.708183
+iconst -3
+fconst 9.423719
+fneq
+fstore g
+istore f
+f2i
+fneg
+iload a
+fneq
+iload D
+fsub
+fmul
+ilt
+iconst -6
+istore B
+ilt
+f2i
+istore H

@@ -1,0 +1,13 @@
+fload j
+fstore e
+fload j
+iconst 8
+fstore B
+iload e
+flt
+iconst -4
+fmul
+fstore C
+fload e
+fload f
+fgt

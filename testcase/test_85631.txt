@@ -1,0 +1,15 @@
+fconst -3.238401
+fconst -7.529469
+fconst -5.816856
+fstore L
+fconst 8.728806
+fconst -0.649733
+fstore c
+fstore i
+iconst -6
+iconst 1
+fconst -4.619709
+iconst 19
+iconst 6
+top
+istore C

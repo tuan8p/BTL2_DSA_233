@@ -1,0 +1,14 @@
+iconst 9
+fconst 9.379442
+iload F
+top
+iconst 16
+fload g
+iconst -16
+iconst 16
+i2f
+istore E
+top
+igt
+fmul
+iconst -15

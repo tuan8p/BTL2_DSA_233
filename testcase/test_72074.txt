@@ -1,0 +1,19 @@
+iconst -7
+iconst -9
+iconst 15
+iconst -10
+iconst 5
+iconst -3
+fconst 2.463251
+fneg
+imul
+fload l
+iconst 15
+idiv
+fstore a
+fload H
+fdiv
+fstore f
+istore A
+iconst -14
+istore A

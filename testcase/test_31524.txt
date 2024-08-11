@@ -1,0 +1,10 @@
+fconst -8.875621
+fconst -9.100224
+fsub
+fadd
+top
+iconst 2
+istore A
+iconst -4
+iload c
+iconst 2

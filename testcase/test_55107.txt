@@ -1,0 +1,10 @@
+fconst -1.417887
+fstore b
+val C
+fstore m
+fstore f
+fneg
+fstore B
+fstore d
+fload m
+fload E

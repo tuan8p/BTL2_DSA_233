@@ -1,0 +1,17 @@
+val i
+iconst -8
+istore J
+fconst -6.368839
+istore k
+iconst 8
+istore c
+iconst 15
+fstore c
+top
+istore G
+iload g
+fconst 6.088230
+fadd
+fconst 1.986588
+i2f
+isub

@@ -1,0 +1,11 @@
+iload C
+iconst -9
+istore m
+istore k
+iconst 11
+isub
+istore h
+istore I
+iand
+iconst 0
+igt

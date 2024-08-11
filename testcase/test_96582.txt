@@ -1,0 +1,18 @@
+fconst -2.573789
+iconst 16
+iconst -4
+iconst 5
+iconst -13
+imul
+iconst -15
+fconst 1.270677
+iand
+fconst 1.015959
+istore l
+iconst -9
+iconst 17
+istore b
+iadd
+fconst -7.406173
+top
+fconst 7.494728

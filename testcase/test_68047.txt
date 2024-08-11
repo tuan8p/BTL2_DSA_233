@@ -1,0 +1,15 @@
+fload g
+iconst 17
+iconst 9
+fneg
+iload D
+fstore g
+fstore m
+ior
+iadd
+fstore k
+iload l
+istore K
+fload L
+iand
+fstore C

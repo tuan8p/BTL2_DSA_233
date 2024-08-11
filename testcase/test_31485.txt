@@ -1,0 +1,14 @@
+fconst 4.802814
+iload e
+istore M
+fstore b
+fconst -2.232421
+fadd
+iconst -12
+iload K
+fmul
+ibnot
+istore B
+iload C
+ineg
+iconst -3

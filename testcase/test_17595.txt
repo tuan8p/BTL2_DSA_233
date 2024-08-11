@@ -1,0 +1,11 @@
+val M
+iconst -3
+istore e
+iconst 11
+istore I
+istore I
+iconst -9
+istore h
+iload M
+idiv
+iconst 11

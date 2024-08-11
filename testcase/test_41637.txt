@@ -1,0 +1,11 @@
+par h
+iconst 5
+istore J
+fconst 7.809771
+iconst 8
+fconst -0.040103
+istore m
+iand
+fconst -1.694236
+istore a
+fneg

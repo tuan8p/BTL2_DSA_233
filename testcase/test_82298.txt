@@ -1,0 +1,18 @@
+fconst -7.083203
+fload G
+iload m
+iload A
+istore I
+iload J
+isub
+istore l
+val m
+fstore I
+iconst 7
+fstore k
+fload G
+top
+fneg
+fconst 0.395189
+fstore C
+isub

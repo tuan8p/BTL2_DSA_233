@@ -1,0 +1,13 @@
+iconst -18
+iconst -15
+i2f
+igt
+istore I
+fconst -1.551252
+igt
+iconst -3
+iconst 15
+fconst -5.236823
+iconst 1
+fload e
+ineq

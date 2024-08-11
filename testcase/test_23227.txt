@@ -1,0 +1,12 @@
+iconst 3
+istore K
+fconst -4.595957
+ineg
+istore C
+iload H
+fconst -8.639704
+iload d
+ineq
+fmul
+iconst 9
+fconst -7.574213

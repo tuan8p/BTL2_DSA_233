@@ -1,0 +1,19 @@
+val A
+par K
+iconst 8
+iload f
+fload c
+istore c
+fconst -9.789059
+fstore b
+iand
+iconst -19
+fload l
+igt
+fmul
+istore M
+iload D
+ibnot
+iconst 15
+iand
+iconst 10

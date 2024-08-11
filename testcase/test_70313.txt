@@ -1,0 +1,8 @@
+top
+iload K
+iload m
+fload j
+fstore E
+istore G
+iconst 12
+iconst 7

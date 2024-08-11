@@ -1,0 +1,14 @@
+par l
+fconst -1.388947
+fconst 2.393269
+iconst 18
+iconst -3
+fconst 4.646668
+fconst 2.938622
+f2i
+isub
+fstore H
+iadd
+val F
+fload L
+istore l

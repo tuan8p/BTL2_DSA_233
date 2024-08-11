@@ -1,0 +1,5 @@
+iload F
+fload d
+fconst 5.612130
+iload A
+fconst 3.077572

@@ -1,0 +1,15 @@
+iconst 15
+iload H
+istore D
+iconst 13
+fconst 8.124657
+fconst 8.724634
+fload m
+fconst 1.663550
+fadd
+iconst 9
+fconst -4.153125
+fconst 4.860022
+igt
+fconst 3.408815
+fconst 5.928040

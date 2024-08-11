@@ -1,0 +1,17 @@
+fconst 0.381169
+fconst 7.906916
+fload L
+iconst 3
+iconst -8
+par L
+ilt
+irem
+iconst -4
+iconst 4
+fconst 5.976473
+fconst -0.988731
+par A
+iconst 19
+fconst -7.046497
+fgt
+iconst -15

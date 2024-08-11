@@ -1,0 +1,10 @@
+iconst 16
+istore M
+istore f
+iload F
+ineq
+fconst -9.085494
+imul
+fconst -3.466205
+fsub
+iload M

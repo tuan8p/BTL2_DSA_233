@@ -1,0 +1,22 @@
+fconst 3.611996
+fstore B
+fconst -3.010845
+fconst -1.493854
+iconst 2
+fstore D
+iconst 17
+iconst 4
+iconst 14
+istore a
+top
+fconst 9.658119
+istore I
+fstore F
+fload k
+fstore B
+istore m
+fstore d
+fconst -9.687503
+iload L
+iconst 12
+fsub

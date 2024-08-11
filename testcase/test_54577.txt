@@ -1,0 +1,11 @@
+fconst 9.762867
+fstore K
+iconst -4
+fstore I
+fconst 6.877340
+fstore C
+istore g
+top
+fstore a
+fstore a
+f2i

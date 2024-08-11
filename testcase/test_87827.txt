@@ -1,0 +1,21 @@
+iconst -4
+iconst -20
+iadd
+istore h
+iconst 13
+iconst 12
+fconst 9.905827
+fconst 9.493917
+fconst -2.094316
+iconst 3
+istore e
+iconst -16
+fconst -6.689753
+iconst 13
+fconst -2.304811
+iconst 9
+fstore I
+istore c
+fstore K
+fconst 6.603739
+iconst 1

@@ -1,0 +1,8 @@
+iload I
+istore l
+istore k
+istore K
+top
+istore i
+istore F
+istore A

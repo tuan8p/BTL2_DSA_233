@@ -1,0 +1,14 @@
+iconst 4
+fconst 2.270697
+ineg
+istore l
+iload H
+fload m
+isub
+iconst -13
+iconst -17
+idiv
+fconst -5.337753
+iconst 2
+istore d
+fconst 2.460579

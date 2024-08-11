@@ -1,0 +1,12 @@
+fconst -5.032853
+par k
+fconst 7.538933
+fstore g
+fstore D
+f2i
+iconst 20
+fconst -6.127321
+iconst 12
+fconst 7.408009
+flt
+iconst -2

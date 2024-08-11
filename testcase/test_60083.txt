@@ -1,0 +1,6 @@
+iconst 10
+fconst -8.748693
+iconst 6
+val e
+iload C
+fconst 3.005388

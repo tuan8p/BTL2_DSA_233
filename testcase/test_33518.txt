@@ -1,0 +1,14 @@
+iload B
+iconst 19
+istore m
+fconst -2.435542
+top
+fconst 1.095423
+istore C
+istore A
+fload H
+fconst 7.274630
+fconst 7.830940
+par l
+fneg
+istore b

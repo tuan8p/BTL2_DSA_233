@@ -1,0 +1,12 @@
+iconst -7
+iconst 14
+i2f
+iconst -11
+fconst -8.494984
+fconst -8.716139
+fconst 1.968509
+fconst -5.551355
+ilt
+iconst 10
+imul
+fconst 9.688799

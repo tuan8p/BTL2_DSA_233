@@ -1,0 +1,10 @@
+par M
+fconst 2.247967
+fstore M
+iload B
+iload e
+iload G
+iload C
+fstore E
+fstore l
+val b

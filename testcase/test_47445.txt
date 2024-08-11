@@ -1,0 +1,17 @@
+iconst 4
+iconst 18
+fconst -7.631558
+idiv
+ieq
+par i
+iconst 3
+iconst -19
+fconst -7.757795
+istore l
+iconst 18
+ieq
+fstore G
+iconst 8
+iconst 2
+igt
+iconst -3

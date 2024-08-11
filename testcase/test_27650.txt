@@ -1,0 +1,21 @@
+fconst 5.282478
+fload b
+fneg
+fconst -2.047173
+par I
+fconst 7.401249
+fstore j
+fconst -8.346410
+fneg
+iload F
+fconst 5.713539
+feq
+val G
+iload a
+fload m
+fstore h
+fmul
+fconst 3.101268
+fconst 5.861315
+fconst 4.369946
+fload H

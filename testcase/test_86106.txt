@@ -1,0 +1,14 @@
+iconst 20
+ineg
+fconst 7.433344
+fstore F
+istore d
+fconst -5.299441
+fconst -3.137391
+fconst 4.327665
+fstore H
+iconst -4
+fconst 2.792175
+fconst 5.431329
+par M
+ieq

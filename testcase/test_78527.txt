@@ -1,0 +1,17 @@
+par a
+top
+iconst 0
+iconst -15
+top
+istore F
+iload E
+igt
+iload K
+iload l
+fconst 8.850563
+fconst 0.531230
+istore g
+istore f
+fstore G
+irem
+ibnot

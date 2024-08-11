@@ -1,0 +1,9 @@
+iload i
+iload I
+iload C
+iconst 10
+imul
+iconst 8
+fload f
+iconst -18
+fstore L

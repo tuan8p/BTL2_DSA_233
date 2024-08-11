@@ -1,0 +1,22 @@
+fconst -9.132960
+iconst 14
+istore h
+val h
+iconst 20
+fconst -3.839937
+ieq
+fconst -6.525139
+ineg
+irem
+istore a
+iconst -17
+fconst -4.976199
+istore C
+ilt
+fstore B
+fneq
+fconst -3.022474
+fconst -3.153849
+iconst 1
+iconst -14
+fconst 8.990665

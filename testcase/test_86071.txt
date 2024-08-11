@@ -1,0 +1,22 @@
+iload k
+iconst -15
+val j
+ilt
+iconst -3
+ibnot
+fconst 0.378160
+ilt
+fconst -6.043563
+fstore L
+fneg
+iconst 10
+f2i
+iload A
+fconst 7.976517
+fadd
+iconst 9
+ineq
+fconst 6.582687
+iconst 16
+iconst 20
+istore L

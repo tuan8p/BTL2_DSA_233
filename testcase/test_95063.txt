@@ -1,0 +1,14 @@
+val A
+iconst -2
+i2f
+iconst 6
+iload e
+fconst -8.795153
+val f
+istore i
+iconst -11
+f2i
+fstore K
+ineq
+fconst 6.733110
+istore d

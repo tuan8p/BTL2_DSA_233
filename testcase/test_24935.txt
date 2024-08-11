@@ -1,0 +1,7 @@
+par B
+fconst 6.850574
+fstore c
+fconst 2.064026
+fstore J
+fconst -8.135815
+iconst 10

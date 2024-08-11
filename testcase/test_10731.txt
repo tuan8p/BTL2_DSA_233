@@ -1,0 +1,19 @@
+iconst -20
+val I
+iload L
+iconst 14
+fconst -1.645502
+fconst -2.299912
+ineg
+fconst 4.121979
+iconst 12
+iload K
+fconst -0.361985
+iconst 11
+ineg
+fconst -2.737752
+iconst 13
+iconst 0
+fneq
+fconst -3.875148
+fconst 6.735672

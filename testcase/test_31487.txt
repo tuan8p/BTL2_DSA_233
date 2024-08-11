@@ -1,0 +1,15 @@
+fconst 4.065279
+iconst -3
+iconst 8
+par D
+iconst 15
+fconst 6.387493
+iconst 6
+flt
+iconst 3
+iconst 19
+i2f
+iconst 16
+iconst -9
+fneq
+istore c

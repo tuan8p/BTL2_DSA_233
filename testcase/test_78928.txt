@@ -1,0 +1,7 @@
+top
+iload h
+istore e
+fconst -5.749223
+iconst -10
+fstore h
+fload I

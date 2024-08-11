@@ -1,0 +1,11 @@
+top
+iconst -5
+iconst 3
+iconst 0
+iload B
+ineq
+iload J
+ineg
+iconst -7
+iload E
+iconst -10

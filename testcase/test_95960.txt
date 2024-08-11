@@ -1,0 +1,14 @@
+iload D
+iconst 13
+fconst -5.885122
+fload I
+iload M
+istore F
+istore e
+iconst -17
+fload l
+fconst 4.100746
+fadd
+fconst 2.552044
+iconst 14
+fconst -6.861701

@@ -1,0 +1,24 @@
+fconst 7.629671
+iconst 15
+iconst -1
+fconst -6.021840
+par B
+iconst 2
+iconst -11
+fconst 2.022958
+ineg
+iadd
+par E
+ior
+iconst -18
+fstore l
+fconst 0.079871
+fstore e
+fconst -8.779294
+iload j
+iload l
+fconst -0.914362
+ineg
+i2f
+iload C
+fadd

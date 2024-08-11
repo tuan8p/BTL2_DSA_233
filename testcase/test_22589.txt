@@ -1,0 +1,18 @@
+iconst 3
+top
+iconst -4
+istore a
+istore E
+fconst 5.100821
+istore a
+istore I
+istore A
+istore D
+iconst -4
+iconst 6
+istore C
+istore k
+ibnot
+iconst 4
+f2i
+fconst -7.625974

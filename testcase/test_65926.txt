@@ -1,0 +1,24 @@
+fload k
+par c
+iload f
+iload i
+fstore D
+fstore e
+top
+ineg
+fstore j
+fload J
+iand
+isub
+istore K
+iload D
+fload D
+irem
+iload j
+ieq
+fconst -2.400987
+ior
+istore i
+iload E
+fstore L
+iconst -7

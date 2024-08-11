@@ -1,0 +1,15 @@
+iconst 4
+iload h
+fload a
+fneg
+fstore H
+istore L
+iconst 2
+iconst 10
+fstore h
+iconst -8
+imul
+iload H
+istore b
+istore m
+top

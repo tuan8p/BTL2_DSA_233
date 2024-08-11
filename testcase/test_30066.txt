@@ -1,0 +1,16 @@
+val D
+iconst 6
+iconst -17
+iload F
+iconst -7
+istore d
+fconst -9.795849
+iconst -15
+iconst -12
+fstore m
+iload A
+ieq
+fstore G
+ineq
+istore E
+f2i

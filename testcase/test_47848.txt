@@ -1,0 +1,17 @@
+par b
+iload D
+istore J
+iload G
+istore I
+iconst -5
+iload H
+top
+iconst 0
+istore i
+iload L
+fconst 5.298903
+fconst -0.286654
+iconst -4
+imul
+top
+ineg

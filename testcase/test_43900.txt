@@ -1,0 +1,11 @@
+val A
+iload I
+fconst -7.615940
+fconst -4.850389
+fneq
+ineg
+istore C
+flt
+istore A
+iconst 16
+iconst 18

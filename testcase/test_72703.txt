@@ -1,0 +1,11 @@
+fconst -6.319790
+fstore l
+top
+fconst -2.758142
+val A
+fload K
+fconst 7.942924
+fload K
+top
+fconst 4.109374
+fstore A

@@ -1,0 +1,11 @@
+iconst -20
+istore i
+iconst -3
+iconst 9
+isub
+irem
+istore g
+iconst -20
+fconst -5.542729
+istore C
+fconst 3.522900

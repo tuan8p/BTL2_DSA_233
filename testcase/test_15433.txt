@@ -1,0 +1,12 @@
+fload j
+iconst 6
+fstore e
+iconst 13
+ineq
+par f
+iconst 6
+fstore J
+iconst 11
+fload b
+iload f
+iconst -3

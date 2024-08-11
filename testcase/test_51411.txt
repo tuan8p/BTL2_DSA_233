@@ -1,0 +1,11 @@
+iconst 8
+iconst 19
+iconst -11
+iconst -5
+iload K
+istore k
+iconst -11
+ieq
+istore J
+iload A
+iconst -2

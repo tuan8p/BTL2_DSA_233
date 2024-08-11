@@ -1,0 +1,13 @@
+iconst 4
+iconst 0
+iconst 6
+iconst 11
+istore H
+istore g
+iconst -2
+irem
+iload k
+fconst 6.040436
+iconst 4
+iconst -10
+istore b

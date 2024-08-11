@@ -1,0 +1,16 @@
+iconst 20
+iconst -10
+fconst 2.075474
+fconst 5.575170
+fconst -9.085020
+iand
+fmul
+fstore k
+top
+fconst 4.774369
+fstore J
+imul
+istore k
+fadd
+fstore j
+istore g

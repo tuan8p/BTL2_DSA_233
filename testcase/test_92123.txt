@@ -1,0 +1,16 @@
+par E
+iconst -10
+istore E
+istore M
+iload c
+istore A
+istore E
+istore e
+iload K
+iconst 16
+fconst -9.489798
+istore J
+istore K
+fconst -1.939644
+iconst 15
+iconst -18

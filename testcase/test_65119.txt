@@ -1,0 +1,13 @@
+par D
+iconst 0
+iconst -20
+istore k
+ieq
+fconst 4.653011
+iload k
+iconst 13
+par K
+istore D
+istore m
+isub
+istore H

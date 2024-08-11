@@ -1,0 +1,13 @@
+fconst 1.959970
+iconst 19
+fconst -6.609427
+iconst 12
+fconst 7.272589
+top
+ieq
+fconst -5.241365
+fconst 0.826797
+igt
+fconst 9.154232
+fstore E
+iconst 10

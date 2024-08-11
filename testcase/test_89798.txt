@@ -1,0 +1,22 @@
+par I
+fconst 1.978979
+top
+fstore M
+iconst -17
+istore K
+iconst 16
+f2i
+iconst -12
+fconst -2.919879
+isub
+iadd
+fconst 2.261096
+iconst -11
+fconst 7.531092
+fconst -8.158673
+iload K
+fstore d
+fgt
+fconst 2.664622
+fstore D
+istore M

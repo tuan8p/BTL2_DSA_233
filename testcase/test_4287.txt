@@ -1,0 +1,15 @@
+fconst 7.009342
+iconst -9
+fconst 2.465887
+iconst -11
+fgt
+iconst 14
+fstore i
+iconst 0
+fsub
+fconst -6.221192
+iconst -10
+fconst -6.198671
+iand
+fconst -9.100220
+iconst 13

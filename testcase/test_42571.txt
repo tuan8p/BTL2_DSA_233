@@ -1,0 +1,21 @@
+top
+iconst -16
+iconst -6
+fload j
+fconst 0.643141
+fstore B
+imul
+fstore J
+iconst -20
+i2f
+fload d
+iload L
+iload d
+fsub
+ieq
+iload C
+fload a
+ieq
+fneq
+fstore j
+val K

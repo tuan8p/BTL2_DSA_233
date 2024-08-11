@@ -1,0 +1,14 @@
+fconst 4.221002
+fconst 6.109449
+fconst -9.828583
+feq
+fconst -3.423096
+iconst -13
+flt
+fconst -5.532193
+fconst -5.451184
+fconst 3.593031
+iconst 19
+iconst -19
+iconst 14
+iconst 8

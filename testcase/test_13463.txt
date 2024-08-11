@@ -1,0 +1,13 @@
+par D
+iload h
+istore e
+istore i
+fconst 2.559950
+iconst -20
+iconst 12
+iconst -9
+val G
+iload k
+iload F
+fstore L
+iload l

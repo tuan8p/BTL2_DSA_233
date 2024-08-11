@@ -1,0 +1,24 @@
+fload g
+fstore G
+iload h
+iconst -19
+istore d
+iconst 19
+iconst 20
+iconst -13
+istore L
+iconst 17
+igt
+idiv
+iconst -14
+fstore k
+ineq
+fstore i
+fstore J
+top
+fstore K
+par f
+iconst 18
+par d
+fconst 6.147924
+i2f

@@ -1,0 +1,14 @@
+val C
+iconst 1
+fconst -2.881081
+fconst -6.419971
+fconst 6.703100
+fconst -8.417804
+fstore b
+iload h
+imul
+fconst -0.193670
+iload e
+i2f
+fconst -6.700350
+fstore H

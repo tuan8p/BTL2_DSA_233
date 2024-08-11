@@ -1,0 +1,18 @@
+iconst 10
+iconst 8
+igt
+istore i
+fconst 3.306532
+fconst 8.498392
+iconst -12
+par H
+iconst -5
+fconst -2.221997
+imul
+iconst 15
+ilt
+fstore I
+iconst -2
+fconst 8.347237
+istore I
+iconst -3

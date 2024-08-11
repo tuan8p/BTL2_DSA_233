@@ -1,0 +1,14 @@
+fconst -5.106018
+fconst 3.364721
+fconst 5.182162
+fconst -0.598263
+fconst -8.230738
+fconst 4.566896
+iconst -19
+fneg
+feq
+iconst -3
+ieq
+fsub
+iload k
+idiv

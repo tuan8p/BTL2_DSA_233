@@ -1,0 +1,14 @@
+val J
+val G
+fload h
+iload L
+istore h
+iconst 9
+istore k
+iconst 10
+iload H
+fconst 1.049232
+fload e
+fadd
+iconst 17
+fstore H

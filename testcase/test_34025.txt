@@ -1,0 +1,12 @@
+fconst 1.913992
+iconst 7
+ibnot
+val a
+fload a
+iload K
+fconst -4.324703
+ibnot
+iload M
+idiv
+fstore f
+fload M

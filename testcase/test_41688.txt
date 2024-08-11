@@ -1,0 +1,11 @@
+iload g
+istore h
+iload a
+iconst 15
+imul
+istore G
+iconst -5
+imul
+fload h
+fload C
+iconst -8

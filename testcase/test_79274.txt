@@ -1,0 +1,9 @@
+iconst -15
+istore G
+iload I
+istore f
+isub
+ineg
+istore c
+igt
+ibnot

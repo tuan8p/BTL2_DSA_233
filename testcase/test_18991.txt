@@ -1,0 +1,20 @@
+iload k
+iconst -20
+iand
+ibnot
+iconst 8
+iconst 5
+iconst 0
+iconst -10
+idiv
+istore I
+fconst 5.141798
+fstore k
+imul
+istore m
+idiv
+istore L
+istore d
+istore g
+fneg
+iconst -20

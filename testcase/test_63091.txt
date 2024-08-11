@@ -1,0 +1,10 @@
+iconst 14
+istore D
+istore C
+ibnot
+iload I
+val g
+imul
+istore D
+iconst 16
+iconst -18

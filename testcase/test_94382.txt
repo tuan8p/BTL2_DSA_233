@@ -1,0 +1,22 @@
+iconst 20
+fconst 0.712456
+iconst -3
+istore g
+idiv
+iload M
+fstore k
+fstore m
+iand
+ineg
+iload b
+ibnot
+par a
+iload g
+iconst 17
+fconst -8.010303
+fconst 0.674643
+fstore E
+par I
+val M
+iload c
+fstore E

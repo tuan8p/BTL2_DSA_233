@@ -1,0 +1,15 @@
+iconst 5
+iconst -15
+iconst -6
+ineg
+iconst 16
+istore K
+iand
+iconst 7
+iconst -6
+iload i
+par b
+iload K
+iconst -8
+fconst -7.967019
+iadd

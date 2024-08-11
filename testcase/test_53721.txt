@@ -1,0 +1,14 @@
+fconst -2.719985
+top
+fconst 0.297757
+fstore d
+iconst 8
+istore B
+iconst 15
+fneq
+fconst 5.655474
+irem
+irem
+iand
+iconst 19
+top

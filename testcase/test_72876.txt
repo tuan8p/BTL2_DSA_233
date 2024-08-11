@@ -1,0 +1,22 @@
+iconst 2
+fconst -9.532436
+fconst 6.472080
+fconst 2.124423
+istore a
+fconst 0.503186
+fstore l
+fstore E
+iconst -11
+iconst 1
+iconst -18
+iconst 2
+fstore l
+iadd
+istore A
+fstore A
+fconst 9.865709
+fconst 5.151274
+fstore C
+istore b
+iconst -6
+iconst -18

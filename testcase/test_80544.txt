@@ -1,0 +1,9 @@
+iconst -15
+istore M
+iconst -17
+fload b
+istore e
+imul
+fstore i
+iconst -19
+istore j

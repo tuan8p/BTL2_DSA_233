@@ -1,0 +1,19 @@
+fconst -1.122665
+fload a
+val E
+fadd
+fstore g
+iconst -1
+fload A
+i2f
+iload g
+par C
+f2i
+fconst -1.899980
+isub
+fdiv
+fstore M
+fconst -7.949325
+iload A
+fstore d
+iconst 5

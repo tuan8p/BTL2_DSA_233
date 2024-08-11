@@ -1,0 +1,16 @@
+iload I
+iconst 0
+iconst 16
+iload g
+iconst 17
+iconst -14
+fconst -7.705199
+fstore E
+iconst -10
+ineq
+ior
+fstore a
+iload A
+f2i
+fneg
+iadd

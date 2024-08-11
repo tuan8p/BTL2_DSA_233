@@ -1,0 +1,14 @@
+fload H
+fload a
+fstore k
+iconst 1
+fneg
+iload I
+fconst -4.782117
+fgt
+fstore A
+fload k
+iconst 12
+fconst 0.753443
+iconst 4
+imul

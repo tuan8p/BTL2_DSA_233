@@ -1,0 +1,18 @@
+par c
+iconst 14
+fconst -7.924570
+iconst -4
+fconst 2.845457
+iconst -5
+istore I
+fconst -7.144397
+fmul
+fstore E
+fstore j
+fstore k
+iconst -11
+imul
+iconst -8
+fneq
+fconst 6.539818
+fconst 8.513226

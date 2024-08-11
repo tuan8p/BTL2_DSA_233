@@ -1,0 +1,11 @@
+iload L
+i2f
+i2f
+iconst 13
+ineq
+fconst -2.792472
+iconst -18
+fconst 8.458599
+iconst -10
+fmul
+iconst -2

@@ -1,0 +1,22 @@
+fload j
+fload L
+fdiv
+fstore c
+fdiv
+fconst 2.875857
+iconst 13
+fconst -8.774301
+iconst 11
+iconst 20
+istore b
+iload b
+ineq
+iload a
+fstore K
+iload g
+iconst -17
+fstore h
+fload m
+fconst 7.123587
+fstore H
+f2i

@@ -1,0 +1,23 @@
+top
+iconst 20
+fconst 8.862030
+i2f
+iconst 2
+fconst 8.652822
+idiv
+fconst -6.296569
+iconst -2
+fconst 5.885166
+par f
+iconst -3
+iconst -15
+iload d
+iadd
+fstore j
+iload e
+iload b
+i2f
+fstore H
+iconst -9
+fconst 1.811561
+istore d

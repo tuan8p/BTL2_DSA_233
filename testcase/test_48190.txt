@@ -1,0 +1,12 @@
+fload J
+iconst -17
+fstore i
+iconst -8
+fstore g
+iconst -17
+ieq
+iconst -9
+fconst 5.046560
+fstore i
+fstore h
+isub

@@ -1,0 +1,17 @@
+fload b
+fload d
+iconst -20
+fneg
+feq
+iload L
+iload h
+fstore E
+fsub
+flt
+iconst -4
+istore H
+irem
+fstore h
+iload J
+iload k
+iconst 6

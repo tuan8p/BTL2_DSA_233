@@ -1,0 +1,14 @@
+iload C
+iconst 8
+fconst 0.120525
+imul
+igt
+fconst -3.006910
+iand
+fgt
+iload I
+iconst 13
+ieq
+fconst 0.707775
+fdiv
+fconst -6.129340

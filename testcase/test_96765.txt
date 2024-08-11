@@ -1,0 +1,10 @@
+par H
+fload G
+fload k
+iconst 4
+fstore B
+iconst 6
+istore B
+iconst 15
+top
+fstore G

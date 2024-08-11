@@ -1,0 +1,12 @@
+fconst 7.770334
+iconst -15
+fconst 3.297358
+iconst -18
+ior
+fsub
+iconst -7
+istore e
+top
+iconst 13
+iload H
+fadd

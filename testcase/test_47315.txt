@@ -1,0 +1,15 @@
+iload H
+iconst -8
+iload I
+ilt
+ilt
+iload f
+top
+iload L
+iconst 5
+iconst 13
+iload k
+iload m
+iload j
+istore d
+iconst -11

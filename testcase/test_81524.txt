@@ -1,0 +1,15 @@
+top
+iload D
+istore m
+iconst 7
+iadd
+istore E
+iconst 12
+iconst -7
+fconst -8.785007
+fstore i
+iconst 18
+fstore I
+istore B
+iconst 7
+i2f

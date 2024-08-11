@@ -1,0 +1,17 @@
+iconst -13
+ibnot
+i2f
+iconst -16
+iconst 15
+istore k
+iconst 18
+istore c
+fload f
+iconst 15
+istore i
+f2i
+iload I
+istore c
+iconst 8
+ineq
+fstore d

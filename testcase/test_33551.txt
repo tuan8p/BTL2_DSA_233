@@ -1,0 +1,15 @@
+iconst -13
+iconst 13
+idiv
+istore g
+ineg
+idiv
+fconst -8.801740
+fconst -6.770651
+iconst -9
+fconst -1.888472
+istore J
+iload k
+istore G
+iconst -4
+fgt

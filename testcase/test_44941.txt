@@ -1,0 +1,16 @@
+iconst -8
+iload E
+iconst 7
+istore j
+idiv
+iadd
+fconst 6.816702
+idiv
+iconst -9
+ior
+ior
+iload D
+iconst 7
+iconst 5
+iload d
+iconst -15

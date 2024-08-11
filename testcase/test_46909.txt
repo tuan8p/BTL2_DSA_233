@@ -1,0 +1,12 @@
+iload f
+fconst -0.126937
+iconst -15
+f2i
+iconst 15
+i2f
+iconst 13
+imul
+fconst -2.866993
+val C
+fneg
+isub

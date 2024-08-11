@@ -1,0 +1,18 @@
+iconst 17
+fload e
+fneg
+istore d
+iconst -17
+ieq
+istore d
+fstore c
+iconst -16
+fload H
+fstore K
+fstore M
+iload m
+fgt
+fload A
+par f
+imul
+ineq

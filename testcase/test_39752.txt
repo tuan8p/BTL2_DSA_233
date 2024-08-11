@@ -1,0 +1,12 @@
+iconst -11
+iconst 13
+fconst 4.399234
+fload c
+iadd
+iconst -3
+fadd
+iadd
+ineq
+ilt
+iconst 9
+igt

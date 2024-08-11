@@ -1,0 +1,14 @@
+fconst 7.150055
+iload k
+iconst 3
+iconst 6
+istore e
+iadd
+iand
+isub
+val d
+ineg
+iconst 3
+fstore K
+istore k
+fstore a

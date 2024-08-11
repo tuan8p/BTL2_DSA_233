@@ -1,0 +1,13 @@
+fconst 2.515326
+top
+fstore E
+fstore a
+fload e
+iload M
+par B
+iconst 5
+feq
+fload m
+fstore D
+iconst 10
+ibnot

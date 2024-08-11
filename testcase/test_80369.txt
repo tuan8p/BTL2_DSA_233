@@ -1,0 +1,10 @@
+iconst -11
+iload a
+fconst 0.910550
+istore M
+val B
+istore D
+ineg
+fstore b
+iconst 9
+iconst -6

@@ -1,0 +1,9 @@
+iconst 6
+iconst 14
+idiv
+istore C
+ior
+ieq
+iconst -13
+istore L
+istore D

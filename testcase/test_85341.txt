@@ -1,0 +1,10 @@
+iload m
+iload l
+iload B
+imul
+iconst 9
+iload j
+iconst 12
+imul
+iconst 17
+fconst -0.232830

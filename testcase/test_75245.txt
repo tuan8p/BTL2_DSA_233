@@ -1,0 +1,21 @@
+fconst -2.779006
+iload f
+fconst -3.617504
+iconst 15
+istore H
+iconst -10
+iconst -15
+istore J
+fconst 9.170650
+iconst -10
+iconst -14
+istore F
+fstore K
+iconst -1
+fload J
+f2i
+istore l
+fconst 0.964224
+iconst -5
+ineq
+iadd

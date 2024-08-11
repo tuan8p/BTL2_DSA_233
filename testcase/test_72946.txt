@@ -1,0 +1,23 @@
+fconst 6.412252
+fload l
+fneq
+fconst -6.279421
+par d
+fstore c
+fconst -5.583244
+fconst 5.366817
+fload J
+fsub
+fconst -7.708374
+fconst -9.632458
+fstore H
+iconst 1
+iconst 17
+fdiv
+fconst -1.742352
+istore H
+istore f
+fconst 3.601789
+iconst -1
+iload M
+iconst -2

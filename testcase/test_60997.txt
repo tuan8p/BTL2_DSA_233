@@ -1,0 +1,19 @@
+fconst 6.795362
+iconst 0
+ineg
+fconst -5.978647
+fconst -4.888594
+fneq
+fconst -4.335364
+iconst -17
+ieq
+iconst -10
+idiv
+iconst 17
+ineg
+iload g
+istore h
+istore I
+fload m
+iconst -8
+fadd

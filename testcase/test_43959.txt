@@ -1,0 +1,12 @@
+iload h
+iconst 7
+fconst 2.834894
+ilt
+fconst 5.905627
+iconst -16
+iconst 0
+fconst 3.527030
+iconst -12
+val i
+iconst -10
+iconst -8

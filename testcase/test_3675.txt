@@ -1,0 +1,16 @@
+iconst 11
+fconst 4.364471
+iconst 5
+fconst -7.981528
+iconst -19
+ineq
+iconst 1
+fstore k
+iconst 6
+iconst 17
+fstore C
+iload D
+val B
+iconst -1
+fstore g
+ior

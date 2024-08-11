@@ -1,0 +1,12 @@
+iconst 14
+fconst 7.992872
+ibnot
+fstore H
+fconst 2.623935
+fstore M
+iload m
+istore G
+fconst -1.112309
+fstore a
+iconst 10
+iconst 15

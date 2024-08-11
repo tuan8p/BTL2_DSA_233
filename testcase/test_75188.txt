@@ -1,0 +1,17 @@
+iconst -8
+fload J
+fload M
+iconst 8
+fstore H
+fstore A
+iconst -16
+ineg
+iconst -16
+par F
+fstore B
+fload h
+iconst -15
+iand
+fconst -9.306034
+istore m
+ibnot

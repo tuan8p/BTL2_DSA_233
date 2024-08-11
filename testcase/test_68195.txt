@@ -1,0 +1,12 @@
+iconst 1
+iconst -7
+istore l
+iconst -11
+ineq
+iconst -2
+istore H
+iconst 11
+igt
+fconst -3.096896
+ineq
+iconst -2

@@ -1,0 +1,10 @@
+val G
+par J
+fload b
+fstore k
+iconst 2
+istore b
+fstore K
+istore A
+iconst 19
+fload G

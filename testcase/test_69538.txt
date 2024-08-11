@@ -1,0 +1,14 @@
+fconst 1.328592
+fconst 8.613464
+fstore A
+iconst 6
+ibnot
+feq
+fstore i
+iload K
+fconst 4.259138
+istore J
+istore c
+fneq
+val i
+istore e

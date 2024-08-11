@@ -1,0 +1,10 @@
+fload g
+fstore m
+fconst 7.089542
+fconst 0.579546
+fstore B
+fstore j
+flt
+fstore b
+fneq
+fstore E

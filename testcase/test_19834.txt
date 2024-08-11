@@ -1,0 +1,9 @@
+par c
+fconst -1.619502
+fconst 5.443314
+feq
+fadd
+fstore K
+fconst 4.332294
+iconst 13
+istore m

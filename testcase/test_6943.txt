@@ -1,0 +1,14 @@
+par c
+par D
+fconst 5.222927
+fconst 0.925036
+fconst -1.264993
+iload k
+fconst 2.039653
+iconst 20
+iload e
+par m
+fconst 0.151958
+fconst 1.927711
+top
+iconst 6

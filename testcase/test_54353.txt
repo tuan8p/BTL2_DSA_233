@@ -1,0 +1,8 @@
+iconst 1
+istore c
+iload h
+istore b
+istore E
+iload b
+iload D
+fconst 0.355562

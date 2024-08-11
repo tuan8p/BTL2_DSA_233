@@ -1,0 +1,10 @@
+fload I
+val e
+fstore L
+fload l
+iconst -10
+fstore C
+fstore c
+fconst 9.192451
+fneq
+iconst -13

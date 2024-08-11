@@ -1,0 +1,9 @@
+iconst -15
+istore B
+iload c
+istore i
+iconst -6
+iconst -3
+ineq
+istore H
+par c

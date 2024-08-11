@@ -1,0 +1,12 @@
+par e
+par M
+iconst -10
+iload J
+ior
+isub
+iload J
+iconst 14
+istore B
+isub
+fload J
+ieq

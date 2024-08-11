@@ -1,0 +1,13 @@
+iconst -19
+iconst 5
+imul
+iconst -2
+iload g
+fload F
+par J
+iconst -7
+iload E
+irem
+iconst 15
+val h
+fstore H

@@ -1,0 +1,10 @@
+iconst 3
+ineg
+i2f
+iload F
+iconst 13
+istore M
+iload j
+fconst -7.056696
+ibnot
+istore f

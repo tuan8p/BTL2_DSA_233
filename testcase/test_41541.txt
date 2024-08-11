@@ -1,0 +1,8 @@
+fconst -3.853828
+fconst -7.147096
+par M
+fconst -7.424399
+iconst 8
+iconst -8
+imul
+iconst -13

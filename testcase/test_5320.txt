@@ -1,0 +1,12 @@
+iload m
+iconst 8
+istore l
+istore L
+iload L
+ior
+istore g
+iload h
+fload G
+fstore A
+istore C
+i2f

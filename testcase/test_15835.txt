@@ -1,0 +1,16 @@
+iload I
+par j
+iconst 18
+istore e
+ior
+iload e
+istore K
+irem
+istore C
+fload G
+fstore m
+istore G
+ieq
+igt
+istore H
+ibnot

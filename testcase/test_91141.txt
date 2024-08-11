@@ -1,0 +1,16 @@
+fload K
+iconst 2
+iconst -17
+fconst -1.111105
+iload m
+iconst 0
+fstore c
+fstore c
+fadd
+val E
+fstore B
+fconst 8.701309
+flt
+fstore M
+ineq
+fstore f

@@ -1,0 +1,11 @@
+fconst 8.859325
+fconst -6.561436
+fneq
+iload M
+top
+istore M
+fconst 1.843047
+fstore a
+fconst 2.715407
+fconst 9.421844
+fload K

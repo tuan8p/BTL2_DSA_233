@@ -1,0 +1,13 @@
+iconst 18
+iload B
+iconst 15
+iadd
+istore H
+iconst 4
+igt
+iload B
+iconst -1
+iconst 11
+istore j
+istore K
+fconst 8.521662

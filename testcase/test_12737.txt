@@ -1,0 +1,15 @@
+iconst 4
+istore H
+iconst 6
+istore C
+iconst -2
+top
+istore H
+iload M
+iconst 18
+iconst 16
+ineg
+top
+istore d
+fconst -4.262373
+istore M

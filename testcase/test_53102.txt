@@ -1,0 +1,10 @@
+iconst -19
+iconst -16
+ior
+istore i
+irem
+fconst 0.560057
+ilt
+isub
+ineq
+fstore j

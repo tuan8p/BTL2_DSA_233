@@ -1,0 +1,17 @@
+par a
+fconst 2.247639
+iconst 15
+iload b
+iconst 15
+fconst 7.768591
+iconst 2
+fload B
+fconst 8.170139
+flt
+iconst -10
+feq
+fstore C
+fconst -7.083435
+fstore F
+flt
+i2f

@@ -1,0 +1,18 @@
+par C
+iload b
+fconst -5.597165
+fload g
+iload a
+fconst 6.714882
+fstore f
+fdiv
+fstore E
+ineq
+fconst -0.375055
+ieq
+istore A
+fstore J
+iload l
+fload C
+fstore C
+iload A

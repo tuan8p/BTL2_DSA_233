@@ -1,0 +1,23 @@
+iconst 3
+fconst 9.432020
+iload g
+istore M
+fconst -9.811307
+iadd
+igt
+iconst -18
+ineq
+istore e
+ineg
+istore m
+iconst 3
+fconst 9.425804
+imul
+iload h
+fdiv
+fstore D
+fstore I
+istore K
+igt
+fconst -4.574719
+fload g

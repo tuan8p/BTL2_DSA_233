@@ -1,0 +1,12 @@
+iconst -20
+val J
+par d
+iconst -1
+iconst 10
+istore f
+fconst -1.365172
+istore H
+iadd
+iconst -12
+fload J
+iload b

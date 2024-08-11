@@ -1,0 +1,8 @@
+iconst -15
+fconst 3.100739
+istore D
+iload a
+iconst -12
+iconst 1
+iconst 17
+ineg

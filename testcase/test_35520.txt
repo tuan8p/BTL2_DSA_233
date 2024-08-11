@@ -1,0 +1,14 @@
+iconst 8
+iconst 13
+istore j
+fconst -7.550316
+imul
+fstore L
+fstore J
+iconst -3
+iconst -18
+fneg
+ieq
+iconst -17
+igt
+par a

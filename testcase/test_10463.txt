@@ -1,0 +1,13 @@
+iconst 13
+istore E
+iconst -15
+ineq
+iconst 12
+par m
+istore M
+iconst -11
+iload C
+iload f
+top
+iconst -19
+val J

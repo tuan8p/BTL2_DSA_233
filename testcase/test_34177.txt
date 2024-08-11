@@ -1,0 +1,14 @@
+iconst -2
+ineg
+ineg
+fconst 5.323038
+iload j
+irem
+top
+iconst 1
+iconst -12
+iload b
+fload c
+f2i
+fload G
+i2f

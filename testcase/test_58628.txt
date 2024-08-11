@@ -1,0 +1,18 @@
+iconst 17
+iconst 9
+top
+istore D
+ineg
+fconst 5.834763
+istore f
+fstore h
+fstore L
+fstore e
+fconst 5.695038
+fconst 4.531923
+fconst 7.180794
+iconst 19
+ineq
+istore e
+fconst -2.775607
+irem

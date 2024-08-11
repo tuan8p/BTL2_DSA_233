@@ -1,0 +1,13 @@
+fconst 1.407494
+val k
+iconst 17
+iconst -16
+fconst 0.107218
+iconst 2
+iload k
+par F
+ilt
+iconst 6
+fstore B
+iconst -7
+iconst -5

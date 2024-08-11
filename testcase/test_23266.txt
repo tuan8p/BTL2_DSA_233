@@ -1,0 +1,18 @@
+iload c
+iconst 19
+iload E
+idiv
+fconst -4.852598
+fload G
+istore b
+iconst -5
+iconst -5
+istore B
+istore G
+istore M
+iload C
+istore G
+fconst 9.308159
+fload k
+fconst -8.113567
+fconst -2.528849

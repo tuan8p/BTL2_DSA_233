@@ -1,0 +1,15 @@
+top
+fconst 7.019276
+fconst 7.978405
+fconst 6.094587
+fstore B
+fconst 7.839355
+fstore D
+fconst -6.839976
+val f
+fstore D
+fadd
+iconst -8
+istore c
+fconst -8.134942
+fmul

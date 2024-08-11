@@ -1,0 +1,19 @@
+fconst -0.198242
+fconst -0.765154
+fstore j
+fstore H
+iconst 9
+iconst 9
+istore a
+istore d
+fadd
+istore b
+fstore l
+fconst -6.048985
+istore J
+iadd
+fstore a
+istore K
+imul
+iload F
+imul

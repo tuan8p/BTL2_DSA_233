@@ -1,0 +1,14 @@
+iload d
+iload e
+irem
+fconst -1.118034
+ilt
+istore E
+fload A
+iconst -17
+iconst -16
+fgt
+iload f
+top
+ineg
+fstore a

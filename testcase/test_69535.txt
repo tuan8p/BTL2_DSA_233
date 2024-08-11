@@ -1,0 +1,17 @@
+fconst -5.868977
+iconst 9
+fconst -5.942168
+iconst -5
+iconst -20
+iconst -7
+fstore E
+fconst 4.951395
+fconst -4.995331
+istore d
+fsub
+fstore L
+fgt
+fstore H
+flt
+feq
+fconst 3.012268

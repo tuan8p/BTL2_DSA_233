@@ -1,0 +1,15 @@
+iconst -12
+fload M
+iconst 12
+ior
+iload c
+imul
+istore B
+fconst 8.132992
+iconst 1
+iconst -15
+fconst -8.775605
+fsub
+istore m
+ilt
+fconst 6.387255

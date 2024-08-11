@@ -1,0 +1,5 @@
+iload k
+iload j
+idiv
+iconst -4
+istore g

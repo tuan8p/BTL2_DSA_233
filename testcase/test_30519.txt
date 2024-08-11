@@ -1,0 +1,16 @@
+fconst -6.953270
+fconst -9.450407
+fconst -1.538610
+flt
+fconst 3.415529
+iconst 6
+iconst 18
+istore C
+ineq
+iconst 3
+iconst 19
+top
+ilt
+iadd
+fconst 7.078321
+fneq

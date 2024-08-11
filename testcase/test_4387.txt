@@ -1,0 +1,13 @@
+iconst 7
+top
+ineg
+fconst 4.440001
+istore H
+top
+iconst -16
+fstore d
+istore d
+ineq
+iconst -3
+fstore C
+iconst -7

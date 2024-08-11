@@ -1,0 +1,7 @@
+iload g
+iconst 9
+istore k
+istore a
+val I
+iconst -14
+ineg

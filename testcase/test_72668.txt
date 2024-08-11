@@ -1,0 +1,10 @@
+val C
+fload b
+fstore m
+fstore F
+fstore A
+fstore b
+iconst 10
+iconst 1
+iconst -1
+iconst 3

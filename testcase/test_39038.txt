@@ -1,0 +1,12 @@
+fload F
+fstore K
+fconst 2.392920
+iload K
+fstore j
+istore H
+istore k
+fstore e
+fload j
+iconst 4
+istore L
+fsub

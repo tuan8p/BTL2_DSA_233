@@ -1,0 +1,12 @@
+iload G
+fconst 3.356379
+iload E
+fload M
+iload a
+iconst -12
+idiv
+iload k
+fstore i
+imul
+istore f
+fconst 6.507017

@@ -1,0 +1,17 @@
+val H
+iconst 20
+istore j
+iconst -12
+fconst 4.253391
+fload E
+istore K
+fload c
+iload i
+fstore j
+istore e
+iload d
+ieq
+iconst -1
+iconst -19
+fconst 9.676449
+iconst 16

@@ -1,0 +1,12 @@
+fload E
+par M
+fconst 3.345535
+fstore K
+iconst -18
+istore b
+iconst 16
+fdiv
+fconst 3.176373
+feq
+fconst -3.571208
+f2i

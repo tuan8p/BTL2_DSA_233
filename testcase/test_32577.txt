@@ -1,0 +1,13 @@
+fload f
+fstore F
+iload i
+iload L
+fneg
+top
+fstore D
+fstore g
+igt
+fconst -4.285146
+irem
+fstore G
+iload L

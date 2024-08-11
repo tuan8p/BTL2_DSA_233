@@ -1,0 +1,13 @@
+par m
+fconst -2.965803
+fstore m
+fload j
+fconst -4.671905
+fconst 3.509131
+fload h
+fconst -9.049878
+fload F
+iconst 3
+istore g
+ineg
+fconst 9.592480

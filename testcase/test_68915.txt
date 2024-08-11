@@ -1,0 +1,15 @@
+fconst -8.551892
+iload b
+fconst -0.327677
+iload D
+iconst 10
+fconst -2.394380
+val f
+fconst -9.304237
+fconst -1.781475
+fstore B
+imul
+isub
+iload K
+fload C
+iconst -11

@@ -1,0 +1,11 @@
+par K
+iconst 20
+fconst 9.290773
+fload A
+istore B
+istore D
+iconst 14
+istore L
+fconst 5.734654
+istore g
+fstore G

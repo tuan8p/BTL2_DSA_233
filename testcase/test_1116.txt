@@ -1,0 +1,22 @@
+iload m
+iconst -6
+iload e
+ieq
+isub
+ineq
+iadd
+ibnot
+iload I
+istore e
+iconst -11
+iadd
+iconst -14
+istore g
+fload g
+par i
+iload M
+fstore k
+istore m
+fload i
+istore d
+iload F

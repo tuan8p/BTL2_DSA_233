@@ -1,0 +1,20 @@
+par L
+iconst 10
+iconst 12
+isub
+igt
+iconst -10
+val I
+iload l
+iconst -5
+iload L
+fconst -6.258162
+fconst 3.050661
+istore f
+fstore L
+fmul
+iload F
+iconst 7
+iconst 10
+i2f
+feq

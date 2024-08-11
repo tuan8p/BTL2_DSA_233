@@ -1,0 +1,10 @@
+fconst 5.154779
+fload I
+fconst 9.907505
+iload a
+istore e
+fconst 3.313429
+iload C
+iload B
+iconst 9
+f2i

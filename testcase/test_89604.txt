@@ -1,0 +1,17 @@
+iload B
+val f
+fconst 4.308950
+fconst -0.004015
+fconst -3.372332
+fconst 9.203394
+fconst -4.727393
+iconst 11
+fconst 4.227272
+iconst 10
+fstore D
+ineg
+iadd
+iload d
+igt
+fneq
+fconst 4.085006

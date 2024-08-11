@@ -1,0 +1,15 @@
+fload C
+fstore a
+iconst 9
+fstore M
+istore B
+iconst -16
+iconst 18
+igt
+iload A
+igt
+fstore j
+fconst 7.698599
+fstore M
+istore m
+fneg

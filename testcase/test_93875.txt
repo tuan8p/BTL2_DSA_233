@@ -1,0 +1,16 @@
+iload d
+fconst -0.806165
+fneg
+iconst 17
+istore G
+istore l
+imul
+fconst 6.269371
+val I
+iconst -15
+fconst 6.203072
+fconst 5.226626
+fload j
+istore A
+istore G
+istore D

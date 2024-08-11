@@ -1,0 +1,15 @@
+fload d
+iload l
+fload K
+fstore l
+iload G
+fstore h
+iconst 6
+imul
+iload M
+fconst 7.060368
+iadd
+iload h
+fstore H
+fsub
+par c

@@ -1,0 +1,13 @@
+iconst -20
+iload i
+iload g
+istore a
+fconst -4.177883
+istore A
+ineq
+fload m
+istore a
+iload K
+istore M
+istore k
+fstore K

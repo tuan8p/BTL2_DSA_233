@@ -1,0 +1,12 @@
+fload K
+iconst -17
+fconst 5.772429
+fconst 7.991167
+fload H
+fconst 0.491941
+fconst -6.410162
+feq
+fadd
+iconst 0
+istore d
+fstore f

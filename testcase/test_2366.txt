@@ -1,0 +1,16 @@
+iconst 15
+i2f
+iload j
+iload l
+iload j
+ior
+istore j
+iload l
+istore G
+ior
+iload D
+iload j
+fload a
+fconst -4.601912
+top
+ineq

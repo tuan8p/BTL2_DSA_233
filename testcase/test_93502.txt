@@ -1,0 +1,14 @@
+iconst -12
+istore B
+val l
+iload L
+istore d
+fconst 6.256672
+fconst 1.294822
+istore k
+val a
+iconst -12
+fneg
+fconst 5.261217
+iconst -2
+iconst -6

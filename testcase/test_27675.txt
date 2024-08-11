@@ -1,0 +1,17 @@
+fload b
+fconst 7.895926
+f2i
+fload d
+fconst 7.895187
+iload H
+istore a
+fconst 7.236759
+fadd
+fstore F
+iload E
+iadd
+ior
+istore f
+fstore K
+f2i
+ineq

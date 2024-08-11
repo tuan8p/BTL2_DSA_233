@@ -1,0 +1,9 @@
+fconst -4.683885
+fconst -4.214259
+fstore j
+fstore L
+iconst 9
+iconst -16
+igt
+iconst 19
+fstore d

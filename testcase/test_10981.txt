@@ -1,0 +1,7 @@
+iload L
+iload I
+fload i
+fstore a
+istore D
+fconst 3.675424
+iconst -8

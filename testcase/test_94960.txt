@@ -1,0 +1,15 @@
+iconst 10
+par d
+iconst 11
+fconst -4.720779
+iadd
+fstore D
+fconst -6.268496
+iconst 14
+iconst 12
+fstore m
+fconst -4.422966
+ineq
+fstore I
+fload L
+iconst 16

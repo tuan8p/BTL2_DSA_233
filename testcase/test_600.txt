@@ -1,0 +1,13 @@
+par I
+iconst 11
+iload a
+ior
+iconst -16
+iand
+iload h
+iload L
+imul
+istore f
+top
+igt
+istore f

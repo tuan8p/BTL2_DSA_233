@@ -1,0 +1,19 @@
+fconst 3.201962
+iload e
+iconst -11
+iconst 12
+iconst -14
+iconst 17
+top
+fload m
+fstore a
+istore B
+iconst 3
+iconst 9
+feq
+istore d
+fneg
+fstore b
+fstore L
+top
+iconst -14

@@ -1,0 +1,15 @@
+iconst -2
+par H
+iconst -8
+fconst -2.252142
+istore J
+fload a
+fneq
+fsub
+ieq
+iload F
+istore j
+iconst -13
+iconst -13
+iadd
+istore i

@@ -1,0 +1,12 @@
+iconst 6
+fload j
+fconst -2.889059
+iload A
+fadd
+fconst -6.296498
+f2i
+fconst 2.319983
+fconst -7.381778
+iconst 11
+fconst -6.384907
+imul

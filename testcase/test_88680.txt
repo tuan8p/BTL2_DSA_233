@@ -1,0 +1,17 @@
+iconst -2
+iconst -15
+imul
+fconst -5.061903
+ieq
+iconst -18
+iconst 12
+imul
+idiv
+iload H
+istore L
+iload g
+fstore g
+ineg
+iload E
+fstore F
+iload g

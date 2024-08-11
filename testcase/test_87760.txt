@@ -1,0 +1,12 @@
+iload L
+val J
+iconst -9
+iconst -8
+ilt
+idiv
+iload l
+val k
+ieq
+iconst 1
+fconst -6.817321
+fload A

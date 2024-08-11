@@ -1,0 +1,16 @@
+fload k
+fstore a
+fstore C
+fconst -6.916084
+iconst -10
+fsub
+iconst 16
+iconst 5
+iconst 20
+iload k
+fconst -6.233240
+ineq
+fload A
+istore D
+iconst 6
+iload b

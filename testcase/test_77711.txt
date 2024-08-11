@@ -1,0 +1,10 @@
+fload D
+iconst 1
+iconst 5
+iconst -17
+ibnot
+fstore c
+fconst 4.180288
+iload K
+iconst -9
+fdiv

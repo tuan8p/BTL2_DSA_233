@@ -1,0 +1,11 @@
+iload B
+ineg
+iload K
+istore b
+val l
+istore D
+istore f
+par L
+istore I
+iconst -16
+iload f

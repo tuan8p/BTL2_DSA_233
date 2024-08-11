@@ -1,0 +1,7 @@
+iconst 1
+iload A
+ior
+istore I
+iload e
+iconst 2
+iconst 0

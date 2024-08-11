@@ -1,0 +1,20 @@
+fconst -5.570985
+f2i
+fneg
+iconst -17
+istore B
+istore K
+istore F
+istore K
+fconst 1.890549
+iconst -17
+istore J
+feq
+iconst 18
+feq
+iconst 9
+fsub
+iconst 15
+flt
+fstore J
+istore B

@@ -1,0 +1,15 @@
+fconst 1.581511
+fstore a
+iconst 11
+iconst 17
+iconst 11
+istore h
+fconst -6.994950
+istore i
+istore h
+fstore A
+f2i
+ineg
+fstore e
+fstore h
+ieq

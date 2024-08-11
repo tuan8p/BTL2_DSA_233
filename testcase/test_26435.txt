@@ -1,0 +1,12 @@
+fconst -6.876576
+fconst 7.212059
+fstore K
+top
+fstore B
+iconst -5
+feq
+fmul
+fstore h
+fconst -7.981867
+fconst 3.020545
+fsub

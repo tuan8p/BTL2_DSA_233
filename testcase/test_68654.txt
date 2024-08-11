@@ -1,0 +1,16 @@
+iload D
+istore e
+iconst -15
+iconst -15
+iload D
+istore m
+top
+fconst 5.596888
+fload d
+irem
+istore k
+iconst -3
+fstore f
+iconst -14
+idiv
+ior

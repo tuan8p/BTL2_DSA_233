@@ -1,0 +1,13 @@
+iconst 18
+iload K
+val F
+iconst -16
+iconst 5
+iload h
+iconst -19
+iconst -20
+fload H
+iconst 6
+iconst -10
+fstore e
+iload j

@@ -1,0 +1,12 @@
+iload D
+i2f
+istore k
+fload M
+istore M
+iconst -9
+fstore H
+ieq
+iconst 3
+imul
+fconst 7.571663
+fstore H

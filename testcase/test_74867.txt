@@ -1,0 +1,15 @@
+fload e
+fstore b
+iconst -9
+iconst -13
+iadd
+ieq
+fstore g
+iand
+fstore G
+iconst -17
+top
+fload M
+iconst 18
+fstore e
+iconst -2

@@ -1,0 +1,13 @@
+iload k
+iconst -1
+iload I
+igt
+iload f
+isub
+iconst -15
+iconst 9
+fconst 4.992403
+iand
+isub
+iconst -10
+istore I

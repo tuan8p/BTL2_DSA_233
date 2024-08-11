@@ -1,0 +1,13 @@
+iload C
+fload B
+iconst -5
+fconst -6.671598
+fconst -3.405836
+val I
+fstore I
+iload i
+flt
+istore I
+fconst -0.905725
+par a
+fadd

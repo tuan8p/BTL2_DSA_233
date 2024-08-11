@@ -1,0 +1,13 @@
+iconst 17
+fconst 9.566196
+fstore M
+fconst 7.924692
+istore h
+iconst 17
+istore h
+fload C
+iload G
+istore l
+fconst 4.292249
+iconst 17
+iconst 17

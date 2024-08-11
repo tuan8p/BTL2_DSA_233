@@ -1,0 +1,18 @@
+fconst 4.009588
+iconst 0
+istore m
+ibnot
+istore e
+iconst 1
+istore l
+isub
+imul
+istore f
+istore b
+iload l
+istore k
+fstore D
+ineg
+fload l
+istore I
+fconst 5.856271

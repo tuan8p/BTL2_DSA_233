@@ -1,0 +1,13 @@
+iconst 12
+istore m
+iconst -1
+imul
+iconst -7
+istore J
+iload I
+ibnot
+iload f
+fconst 9.825233
+iconst 16
+fload E
+ineg

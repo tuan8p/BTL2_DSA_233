@@ -1,0 +1,11 @@
+iload j
+fconst 6.768196
+fconst 7.838730
+top
+ibnot
+fconst -3.139082
+par h
+ibnot
+flt
+fadd
+fload d

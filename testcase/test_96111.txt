@@ -1,0 +1,9 @@
+fload F
+f2i
+fconst 9.909067
+fconst -2.684955
+fconst 9.680552
+iconst 2
+istore F
+fconst 0.988530
+fstore C

@@ -1,0 +1,10 @@
+iconst -19
+istore e
+iconst 15
+istore M
+istore K
+top
+istore J
+istore J
+istore G
+i2f

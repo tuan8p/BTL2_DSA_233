@@ -1,0 +1,23 @@
+par f
+fconst 3.189622
+fstore d
+fconst 7.412590
+fstore K
+iconst 1
+fstore g
+iconst 9
+fstore h
+istore A
+fstore d
+iadd
+igt
+fconst 5.670434
+fstore B
+fstore f
+irem
+f2i
+fconst -2.280392
+istore i
+fconst -5.073031
+iconst -3
+fstore b

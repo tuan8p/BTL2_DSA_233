@@ -1,0 +1,18 @@
+iload i
+iconst 1
+fconst -8.210102
+igt
+fstore L
+iconst -12
+fstore K
+ineg
+iconst -1
+top
+istore k
+f2i
+fload l
+iconst -9
+ior
+fload K
+fstore d
+iand

@@ -1,0 +1,13 @@
+iconst -20
+istore H
+iconst 20
+ibnot
+ilt
+iload d
+iconst -1
+fload J
+istore k
+fconst 2.719450
+fconst -6.631686
+istore K
+fadd

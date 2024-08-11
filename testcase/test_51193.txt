@@ -1,0 +1,16 @@
+iconst -8
+fconst 5.751326
+iload C
+iconst -19
+top
+iconst -11
+fconst -4.320109
+idiv
+iconst -17
+fsub
+fconst 8.918396
+iload m
+iconst -11
+iload J
+igt
+ieq

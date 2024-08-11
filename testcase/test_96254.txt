@@ -1,0 +1,15 @@
+fload h
+fload c
+fstore e
+iconst 0
+fstore e
+ibnot
+fstore e
+fconst -9.801631
+fstore d
+val h
+fconst -2.682035
+fstore E
+istore H
+iconst -8
+fstore e

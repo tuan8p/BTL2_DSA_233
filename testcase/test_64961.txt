@@ -1,0 +1,17 @@
+iload K
+iconst -12
+par k
+irem
+iload F
+istore D
+fconst 1.828457
+iload K
+iconst 8
+fconst -3.058953
+fgt
+iconst -13
+iload H
+fstore F
+iload E
+iconst -9
+fmul

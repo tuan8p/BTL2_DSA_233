@@ -1,0 +1,13 @@
+iload b
+val m
+fconst 5.667948
+fconst -8.999257
+top
+fload E
+iconst 1
+iconst 10
+fstore g
+fstore m
+fconst 8.875978
+iand
+iconst 7

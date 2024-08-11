@@ -1,0 +1,15 @@
+val M
+iconst 2
+istore I
+iconst -12
+imul
+iconst 17
+imul
+ilt
+fconst -5.293087
+istore g
+ieq
+par E
+fload G
+ineg
+istore B

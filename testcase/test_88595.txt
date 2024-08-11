@@ -1,0 +1,13 @@
+fconst 6.723257
+iconst 2
+fneg
+istore a
+iconst -6
+f2i
+fload I
+fconst -6.995562
+istore a
+iload B
+iconst -2
+istore M
+fconst 3.076358

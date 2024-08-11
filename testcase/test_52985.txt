@@ -1,0 +1,16 @@
+iconst -5
+iconst -14
+iconst 6
+par A
+istore h
+istore f
+iload H
+istore H
+iconst -16
+iconst 16
+istore d
+istore M
+iload k
+ior
+iload e
+istore m

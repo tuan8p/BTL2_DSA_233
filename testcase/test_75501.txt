@@ -1,0 +1,16 @@
+iconst -8
+ineg
+iconst -15
+istore i
+fconst -9.039544
+iconst 2
+istore L
+iload G
+fconst 8.252726
+fstore L
+fstore I
+ior
+val e
+iconst 8
+fadd
+fneg

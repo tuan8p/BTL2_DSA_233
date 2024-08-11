@@ -1,0 +1,20 @@
+fload j
+iload g
+top
+iconst -5
+iload l
+iconst -19
+iconst -8
+idiv
+idiv
+iload k
+iconst 20
+iconst 20
+ilt
+iconst 14
+iand
+ior
+iadd
+fstore D
+fstore h
+istore B

@@ -1,0 +1,13 @@
+fload H
+iconst -11
+fstore A
+istore j
+fconst -9.420017
+iconst 10
+iconst 14
+fconst 0.696552
+iconst 9
+idiv
+iconst 16
+istore e
+iadd

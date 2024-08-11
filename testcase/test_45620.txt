@@ -1,0 +1,16 @@
+fconst 8.913681
+fconst 1.996774
+fstore f
+fgt
+iconst -10
+top
+iconst -13
+fstore L
+fconst 2.435061
+fstore A
+fstore h
+top
+iconst 10
+ior
+fstore k
+fconst 7.980371

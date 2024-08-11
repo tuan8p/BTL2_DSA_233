@@ -1,0 +1,9 @@
+fconst 7.875040
+fconst -4.697278
+fload J
+fgt
+fadd
+fstore e
+fneq
+iconst -13
+iconst 9

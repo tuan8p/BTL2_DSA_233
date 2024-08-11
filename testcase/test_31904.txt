@@ -1,0 +1,17 @@
+iconst -11
+iconst -9
+iand
+iconst 12
+istore J
+irem
+iconst 4
+istore L
+iload E
+istore g
+iconst -17
+iconst -10
+iload d
+istore F
+iconst -14
+istore l
+fconst 4.693119

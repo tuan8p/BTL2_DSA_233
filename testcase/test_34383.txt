@@ -1,0 +1,17 @@
+iconst -8
+iconst -7
+iconst -1
+par A
+fconst -8.023814
+iload A
+istore K
+fconst 2.339297
+istore d
+fconst -3.918455
+istore h
+iconst 18
+ior
+fstore b
+istore k
+iload D
+iload c

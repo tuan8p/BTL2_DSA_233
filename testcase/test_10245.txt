@@ -1,0 +1,12 @@
+iconst 16
+istore A
+top
+val h
+istore l
+fconst -2.021544
+fconst -0.971883
+iload B
+iload d
+istore M
+istore i
+istore k

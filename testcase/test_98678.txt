@@ -1,0 +1,16 @@
+fload c
+iconst 7
+istore F
+iconst 20
+fstore g
+val B
+ibnot
+fstore E
+fstore f
+fstore I
+fstore f
+iconst -3
+istore K
+ieq
+fstore M
+iconst -16

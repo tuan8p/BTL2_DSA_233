@@ -1,0 +1,13 @@
+iconst -14
+iconst 4
+iload a
+iload E
+iconst -4
+iconst 8
+iconst 16
+ieq
+fconst 8.815016
+iconst -13
+top
+fstore A
+iload H

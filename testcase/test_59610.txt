@@ -1,0 +1,11 @@
+iconst 1
+istore f
+par F
+iconst 9
+istore a
+iload K
+fconst -3.464038
+istore D
+iconst 9
+ibnot
+ieq

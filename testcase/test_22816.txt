@@ -1,0 +1,18 @@
+fload H
+iconst 4
+iload g
+ior
+fstore B
+iload f
+iload i
+isub
+iload J
+iload K
+fconst -0.873777
+iadd
+ilt
+iconst 7
+iconst 6
+istore j
+iconst -9
+ibnot

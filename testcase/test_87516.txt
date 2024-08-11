@@ -1,0 +1,13 @@
+val J
+iconst 0
+iconst -15
+istore B
+par I
+ibnot
+fload K
+top
+fstore g
+fstore m
+igt
+istore D
+fconst -5.408359

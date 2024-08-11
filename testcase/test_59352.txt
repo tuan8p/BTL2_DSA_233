@@ -1,0 +1,15 @@
+fconst -1.382962
+fstore H
+fconst -5.727618
+fstore L
+fstore B
+iconst -2
+istore H
+fmul
+fstore L
+fstore M
+iconst 6
+val H
+fconst -7.917877
+ibnot
+fstore e

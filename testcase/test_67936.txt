@@ -1,0 +1,13 @@
+fload B
+fconst 5.642218
+iconst 15
+iconst -4
+iconst 3
+imul
+fdiv
+isub
+iload A
+iconst -13
+fstore b
+iconst -7
+fconst 2.514738

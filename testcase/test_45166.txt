@@ -1,0 +1,8 @@
+iconst 12
+fconst -0.361674
+fconst 0.419956
+fstore G
+iconst 0
+fconst 3.485279
+iconst 19
+ieq

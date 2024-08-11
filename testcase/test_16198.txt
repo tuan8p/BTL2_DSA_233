@@ -1,0 +1,5 @@
+iload C
+fload c
+iload i
+idiv
+iload f

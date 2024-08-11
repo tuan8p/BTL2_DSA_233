@@ -1,0 +1,13 @@
+iconst -13
+fload e
+iconst 7
+fconst 8.683767
+fconst 8.642365
+iconst 6
+fstore L
+fneg
+fconst -3.553374
+istore J
+fmul
+top
+fneq

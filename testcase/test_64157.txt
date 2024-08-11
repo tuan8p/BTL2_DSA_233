@@ -1,0 +1,21 @@
+iconst 7
+iconst 5
+iconst -8
+fconst 6.814344
+fconst -1.098356
+ineq
+fconst -3.088369
+isub
+fload k
+istore L
+iconst 20
+iconst 18
+iconst 11
+fstore a
+istore E
+iconst 5
+iand
+fconst -4.286221
+fneg
+fstore j
+fstore a

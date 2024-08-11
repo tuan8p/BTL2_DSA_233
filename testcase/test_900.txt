@@ -1,0 +1,15 @@
+iload d
+iconst 7
+ibnot
+iconst -12
+istore d
+ieq
+istore D
+iconst -1
+ineg
+irem
+val K
+irem
+val F
+iload a
+fconst 7.686642

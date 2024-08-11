@@ -1,0 +1,17 @@
+fconst -5.783320
+fstore G
+top
+iconst -19
+fconst 0.027785
+iconst 5
+igt
+iconst -14
+ineq
+fconst -5.566974
+iconst 3
+istore g
+iconst -3
+istore M
+ior
+iconst -17
+fconst -4.599138

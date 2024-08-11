@@ -1,0 +1,15 @@
+val K
+fconst -6.032835
+fconst -0.946796
+iconst 0
+top
+iconst 0
+iload f
+fconst 5.144416
+iconst -6
+fload c
+val g
+imul
+iload g
+iload I
+iload f

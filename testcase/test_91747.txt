@@ -1,0 +1,18 @@
+fconst 7.921059
+iconst 9
+iconst -19
+istore e
+istore j
+ineq
+irem
+iand
+iconst 3
+istore d
+iconst 6
+iconst -11
+iload m
+ieq
+iconst -1
+istore F
+istore K
+iand

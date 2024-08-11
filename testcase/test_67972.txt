@@ -1,0 +1,10 @@
+iconst 16
+iconst 12
+iconst 19
+iload C
+istore E
+iconst -4
+istore L
+imul
+iconst -17
+istore m

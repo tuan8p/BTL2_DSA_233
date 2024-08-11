@@ -1,0 +1,12 @@
+fconst -8.772417
+fconst 1.737669
+iconst -1
+iconst 17
+isub
+fneq
+istore C
+fconst 0.559704
+istore H
+istore B
+val m
+iconst -16

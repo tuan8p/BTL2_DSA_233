@@ -1,0 +1,19 @@
+fload m
+fconst 8.256361
+fstore F
+iload l
+iload d
+i2f
+iload K
+fstore b
+iconst -4
+iconst -15
+imul
+iconst 6
+iload b
+iconst 10
+par L
+istore M
+fstore f
+fstore m
+fstore m

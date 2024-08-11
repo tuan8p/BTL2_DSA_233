@@ -1,0 +1,14 @@
+top
+iload g
+iload H
+iload A
+igt
+imul
+iconst -13
+iload l
+ibnot
+iconst 2
+iconst -6
+istore a
+iload g
+iconst -20

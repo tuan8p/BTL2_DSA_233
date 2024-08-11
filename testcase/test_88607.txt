@@ -1,0 +1,16 @@
+iconst 3
+fconst -6.703640
+ineg
+iconst 3
+top
+fload l
+ineq
+par E
+iconst -15
+iload j
+flt
+istore k
+fconst 8.186848
+ineg
+iload e
+fconst 4.810196

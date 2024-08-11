@@ -1,0 +1,20 @@
+iconst -2
+fload e
+iconst 12
+iconst -16
+fconst 7.273834
+fstore K
+iconst 10
+feq
+fstore K
+fstore b
+fadd
+fneg
+fstore H
+iconst -10
+fstore l
+iconst 11
+iconst -15
+istore J
+iconst 6
+fsub

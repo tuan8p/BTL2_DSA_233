@@ -1,0 +1,13 @@
+iconst -1
+iconst 8
+i2f
+ineg
+isub
+ieq
+fconst -0.256691
+fneg
+istore H
+istore i
+fstore f
+fstore h
+istore M

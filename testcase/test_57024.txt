@@ -1,0 +1,7 @@
+iconst 11
+iconst -3
+istore J
+iconst 2
+istore b
+fload j
+isub

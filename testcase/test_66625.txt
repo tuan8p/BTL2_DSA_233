@@ -1,0 +1,11 @@
+fconst 0.500332
+fstore I
+fconst 5.043216
+iload d
+iload a
+idiv
+iconst -9
+fneq
+iconst 2
+iconst 6
+ieq

@@ -1,0 +1,14 @@
+iconst 19
+top
+iconst -19
+iconst 4
+istore I
+i2f
+par E
+istore M
+iconst 13
+istore h
+iload c
+fconst 4.888972
+fstore e
+fconst -7.201925

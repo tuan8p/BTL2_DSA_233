@@ -1,0 +1,19 @@
+val M
+fconst 6.532738
+fstore G
+fconst 5.042704
+iconst 18
+par C
+fconst 6.734034
+fstore c
+iconst 7
+iconst -15
+fstore h
+iconst -16
+istore l
+iload I
+fadd
+istore m
+fload C
+ineg
+fload K

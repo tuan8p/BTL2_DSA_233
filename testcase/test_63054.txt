@@ -1,0 +1,17 @@
+iconst 3
+iconst 4
+top
+iconst 6
+iconst 6
+fconst 5.995021
+iconst 19
+iconst 19
+fstore G
+fconst 2.098469
+i2f
+fstore G
+f2i
+iload b
+fstore a
+iload k
+fload m

@@ -1,0 +1,11 @@
+iconst -9
+top
+iconst -20
+iload I
+istore m
+iconst 1
+istore l
+fconst -2.469995
+istore h
+iload l
+par g

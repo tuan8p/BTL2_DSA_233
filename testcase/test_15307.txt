@@ -1,0 +1,9 @@
+iconst 17
+istore j
+istore A
+iconst -14
+ilt
+ieq
+i2f
+fload c
+istore l

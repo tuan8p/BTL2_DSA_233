@@ -1,0 +1,13 @@
+iconst -3
+istore i
+istore D
+iconst -15
+ieq
+istore B
+iconst 20
+istore I
+top
+istore h
+istore h
+fload g
+iconst -9

@@ -1,0 +1,17 @@
+iconst -12
+iconst 16
+fconst 5.734722
+fstore H
+iadd
+fconst 1.622250
+istore l
+fconst 2.175975
+ibnot
+istore b
+iconst -15
+fadd
+fneg
+iconst -1
+iconst -17
+iconst 10
+ibnot

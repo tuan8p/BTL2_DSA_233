@@ -1,0 +1,16 @@
+fload L
+fstore e
+fload H
+iconst -9
+fadd
+par m
+fstore d
+iconst -5
+istore d
+fconst 1.767509
+ieq
+iconst 1
+fneq
+istore h
+iconst 13
+fstore M

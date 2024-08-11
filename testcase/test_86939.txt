@@ -1,0 +1,12 @@
+iconst 2
+iconst -15
+isub
+istore D
+iconst 1
+isub
+iconst 16
+iconst 4
+ieq
+iconst 8
+istore D
+iconst -3

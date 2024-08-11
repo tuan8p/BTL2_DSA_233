@@ -1,0 +1,15 @@
+fconst 2.390036
+fconst 6.806370
+iconst 18
+fconst 3.248009
+istore G
+fconst 9.267326
+iconst -10
+istore M
+fneq
+iconst -7
+idiv
+flt
+istore d
+istore M
+iconst 0

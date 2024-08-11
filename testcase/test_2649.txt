@@ -1,0 +1,16 @@
+fload A
+iconst 1
+istore c
+istore g
+par I
+fconst 5.426834
+iconst -11
+f2i
+iload c
+istore M
+fconst 4.392190
+top
+fconst 9.894413
+fconst 9.690556
+fdiv
+istore I

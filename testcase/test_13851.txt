@@ -1,0 +1,13 @@
+iconst 3
+istore G
+iconst 20
+istore g
+iconst -19
+iconst -17
+fconst -4.002820
+fneg
+iconst -4
+fstore H
+iconst -2
+fconst 5.428056
+iconst -8

@@ -1,0 +1,15 @@
+iconst -20
+iload I
+ibnot
+istore I
+fconst -4.498017
+iconst -6
+ineq
+iload c
+iconst -18
+iconst -4
+iand
+iconst -18
+istore c
+istore k
+istore G

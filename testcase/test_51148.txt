@@ -1,0 +1,5 @@
+fload k
+fstore A
+fstore k
+fload K
+iconst 16

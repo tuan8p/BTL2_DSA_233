@@ -1,0 +1,9 @@
+fconst 3.004989
+fneg
+fstore C
+iconst 9
+fload m
+iload L
+fstore f
+iconst 8
+idiv

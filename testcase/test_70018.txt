@@ -1,0 +1,19 @@
+fconst -2.220870
+par i
+fconst -8.900036
+iconst -5
+istore K
+istore l
+iload c
+flt
+fdiv
+fsub
+iload m
+iconst -4
+istore B
+iload l
+fload c
+iconst -14
+ilt
+fgt
+iload K

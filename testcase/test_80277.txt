@@ -1,0 +1,8 @@
+par m
+iconst 4
+iconst -15
+istore I
+iconst -17
+iload c
+istore m
+istore m

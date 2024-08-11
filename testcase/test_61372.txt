@@ -1,0 +1,14 @@
+iconst 19
+fconst 7.482544
+iconst 5
+ieq
+iconst -14
+isub
+fstore G
+fstore B
+iconst 14
+iconst 15
+iconst 0
+fconst -6.394852
+iconst 6
+igt

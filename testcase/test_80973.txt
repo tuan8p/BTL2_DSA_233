@@ -1,0 +1,13 @@
+iconst 6
+iconst -2
+ineq
+fconst 2.208784
+val m
+fconst -5.620755
+fconst 5.684262
+istore a
+fconst 0.730829
+istore j
+iconst -10
+fconst 1.353317
+fconst 4.786373

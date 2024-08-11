@@ -1,0 +1,18 @@
+fconst -7.463150
+fconst -3.622472
+feq
+iconst 2
+iconst -16
+fconst 7.995533
+fstore G
+val d
+istore f
+ineg
+par J
+fconst -6.256225
+istore K
+fstore j
+iconst -4
+fconst -8.783632
+fconst 1.587994
+istore i

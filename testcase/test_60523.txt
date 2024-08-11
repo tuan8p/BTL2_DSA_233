@@ -1,0 +1,9 @@
+iload G
+iconst 4
+iconst -2
+top
+istore g
+iconst 14
+iconst 7
+top
+iconst 3

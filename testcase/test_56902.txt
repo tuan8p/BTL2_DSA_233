@@ -1,0 +1,14 @@
+iconst 10
+iconst 0
+fconst 7.138580
+top
+fconst -4.600930
+fconst -7.566636
+iconst 8
+ior
+ineq
+fstore i
+ibnot
+iadd
+iconst -20
+istore J

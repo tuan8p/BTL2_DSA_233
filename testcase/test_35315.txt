@@ -1,0 +1,14 @@
+par k
+iconst -6
+top
+ineg
+istore d
+fconst 4.696228
+istore j
+iconst -8
+fconst -5.417841
+iconst 12
+istore H
+iconst -17
+fstore E
+fneq

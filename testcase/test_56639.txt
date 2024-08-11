@@ -1,0 +1,14 @@
+iload L
+iload L
+fconst 8.815554
+fconst -8.494389
+igt
+fconst 0.453865
+fconst 9.297606
+iadd
+par h
+iconst 20
+ineq
+iconst 6
+iconst -8
+iload H

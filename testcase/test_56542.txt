@@ -1,0 +1,16 @@
+iconst 10
+iconst -13
+iconst -16
+istore f
+fconst -8.536414
+top
+iconst -15
+fstore I
+fconst 6.783756
+iconst 6
+ieq
+istore I
+fconst -6.575411
+isub
+fdiv
+iload C

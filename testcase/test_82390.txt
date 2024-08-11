@@ -1,0 +1,12 @@
+par K
+fload m
+fstore f
+fstore G
+fload B
+fload D
+iload I
+fload D
+fstore e
+fstore G
+fstore K
+fstore g

@@ -1,0 +1,12 @@
+iload F
+iconst -16
+iconst -9
+iconst 2
+ineg
+iconst -2
+iload I
+iconst -20
+iconst 2
+iconst -8
+iload A
+imul

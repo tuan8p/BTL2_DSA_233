@@ -1,0 +1,10 @@
+iconst -8
+iconst -3
+isub
+iadd
+iload j
+ineq
+iconst 0
+iload K
+i2f
+imul

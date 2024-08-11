@@ -1,0 +1,8 @@
+fconst -0.150632
+iconst -8
+iconst -15
+irem
+idiv
+fstore A
+istore F
+fconst 9.743383

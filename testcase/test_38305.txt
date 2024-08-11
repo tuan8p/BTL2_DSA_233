@@ -1,0 +1,18 @@
+iconst 15
+istore l
+istore A
+iload C
+isub
+irem
+ieq
+iconst -18
+istore m
+ior
+iconst 11
+iconst 13
+iconst 6
+idiv
+ibnot
+istore k
+fconst 6.914165
+isub

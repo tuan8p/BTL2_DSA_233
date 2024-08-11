@@ -1,0 +1,18 @@
+fconst -1.415345
+fload D
+top
+iload B
+iconst 1
+fstore H
+iload H
+iload D
+iconst 14
+iconst 7
+istore E
+fload l
+feq
+iload D
+ibnot
+iconst 8
+fload d
+iload G

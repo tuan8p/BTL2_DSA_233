@@ -1,0 +1,16 @@
+fload e
+fneg
+iconst 17
+fstore I
+fstore m
+iload G
+ieq
+iconst 7
+istore b
+istore c
+fstore E
+iconst 18
+iconst 12
+iload A
+iconst -14
+iconst 11

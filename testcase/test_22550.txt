@@ -1,0 +1,16 @@
+top
+iconst 1
+fconst -1.600762
+fconst 2.289410
+iconst -7
+iconst 12
+val l
+istore A
+fstore C
+fload E
+idiv
+fstore e
+fload c
+istore G
+imul
+fload C

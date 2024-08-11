@@ -1,0 +1,18 @@
+iconst -16
+iconst 13
+idiv
+iload A
+isub
+iconst -2
+fload j
+fconst 4.052906
+fconst -7.135658
+ilt
+ilt
+top
+fconst 4.135133
+istore L
+f2i
+fconst 6.338593
+iload j
+ineq

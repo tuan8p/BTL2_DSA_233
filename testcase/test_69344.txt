@@ -1,0 +1,11 @@
+iconst 6
+iconst 17
+istore F
+iadd
+iconst -7
+iconst 14
+ineg
+iload l
+fconst -9.967506
+irem
+iconst -12

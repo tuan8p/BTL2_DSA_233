@@ -1,0 +1,18 @@
+iload L
+fconst 0.030250
+fconst 3.933525
+fconst 7.273296
+fconst 4.804177
+iconst 17
+isub
+fload k
+idiv
+iconst 7
+fadd
+fload H
+ibnot
+fmul
+iload e
+fstore k
+flt
+iconst -17

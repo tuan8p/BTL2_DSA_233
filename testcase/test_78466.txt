@@ -1,0 +1,13 @@
+iconst 17
+fload f
+fconst 2.215303
+fadd
+iconst -15
+istore B
+par D
+fgt
+i2f
+iconst 3
+iconst -7
+iconst 2
+fload h

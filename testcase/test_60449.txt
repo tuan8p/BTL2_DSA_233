@@ -1,0 +1,18 @@
+iload m
+iconst -9
+istore L
+istore g
+fconst -5.348182
+fconst -8.734258
+istore G
+iconst 2
+fconst 8.290276
+idiv
+istore H
+istore l
+iconst 2
+iconst 13
+flt
+fstore M
+fstore k
+istore e

@@ -1,0 +1,13 @@
+iload l
+istore C
+iload b
+ineq
+ibnot
+ieq
+iload f
+iadd
+fconst -1.617750
+iconst -6
+iconst 7
+fconst -6.121159
+isub

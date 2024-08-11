@@ -1,0 +1,8 @@
+top
+val d
+fconst -9.283141
+iconst -6
+fconst -8.570114
+fsub
+fstore m
+fstore c

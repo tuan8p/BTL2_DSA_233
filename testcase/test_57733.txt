@@ -1,0 +1,13 @@
+iconst -18
+ineg
+istore D
+iconst -16
+i2f
+iload l
+ieq
+istore E
+istore C
+fload L
+iload l
+iconst 1
+fneg

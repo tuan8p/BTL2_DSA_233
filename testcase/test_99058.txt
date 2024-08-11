@@ -1,0 +1,11 @@
+top
+iconst 2
+iload K
+iand
+istore D
+fconst 3.670001
+fstore G
+iload d
+irem
+fload a
+iload g

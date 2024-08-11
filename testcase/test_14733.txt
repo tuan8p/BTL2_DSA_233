@@ -1,0 +1,14 @@
+iload C
+ibnot
+top
+iconst 14
+fconst -8.788448
+ior
+fconst -8.245362
+fconst -1.257504
+fstore D
+fconst 8.194366
+fconst 0.979196
+iconst -13
+iadd
+fconst 5.781599

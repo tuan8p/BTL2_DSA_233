@@ -1,0 +1,22 @@
+fconst -8.065568
+iconst 7
+istore K
+iload I
+iload a
+fstore j
+val j
+istore l
+fstore I
+ilt
+fconst -6.109658
+fconst 0.456264
+fstore I
+ilt
+iconst 9
+irem
+iconst -19
+fconst -5.545518
+fstore C
+fneg
+ieq
+ibnot

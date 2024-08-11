@@ -1,0 +1,13 @@
+fconst 5.327949
+iconst -18
+fconst 9.339506
+iconst 9
+fconst -6.446074
+istore b
+istore F
+fsub
+ineq
+istore B
+flt
+istore m
+fconst 2.631657

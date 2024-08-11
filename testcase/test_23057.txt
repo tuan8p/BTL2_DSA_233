@@ -1,0 +1,18 @@
+fload J
+fconst 8.092655
+iconst -1
+iconst -10
+istore A
+ineq
+fneq
+fstore F
+iconst -8
+fstore H
+igt
+fstore B
+feq
+istore H
+fstore D
+iconst 19
+flt
+istore i

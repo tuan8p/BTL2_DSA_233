@@ -1,0 +1,9 @@
+iconst 2
+iconst -6
+istore H
+ieq
+iload A
+iload i
+top
+iconst -9
+fconst 6.246397

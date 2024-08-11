@@ -1,0 +1,20 @@
+iload g
+iload J
+fconst 1.458173
+fload G
+fconst -0.767543
+iconst -17
+fadd
+iconst 12
+fconst -8.802336
+fload g
+fconst 2.029360
+isub
+fconst -6.944800
+fstore E
+iconst -10
+fload k
+fconst 6.231897
+fstore D
+iconst 12
+iconst 12

@@ -1,0 +1,17 @@
+fconst 0.143517
+fconst -3.878837
+iload a
+fneg
+fconst 9.946320
+fstore d
+fload B
+fstore l
+top
+fconst -4.232403
+par c
+fconst -9.735713
+fstore c
+ineg
+val F
+fconst -2.312335
+fneg

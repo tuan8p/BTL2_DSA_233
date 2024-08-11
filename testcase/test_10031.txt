@@ -1,0 +1,13 @@
+fconst -9.511108
+fstore H
+fstore J
+fconst 1.082634
+iconst -16
+iconst 8
+fconst -1.141869
+iconst 1
+fconst 6.613329
+iconst 14
+top
+fconst -3.837788
+fconst 3.743424

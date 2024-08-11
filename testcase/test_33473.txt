@@ -1,0 +1,18 @@
+par k
+iconst 5
+fconst -6.042839
+fstore B
+fstore c
+fconst -7.591400
+istore L
+fconst 5.471047
+fconst -8.109003
+iconst -17
+iconst 19
+fstore g
+ieq
+iconst -7
+iconst 1
+istore E
+fconst 3.089323
+irem

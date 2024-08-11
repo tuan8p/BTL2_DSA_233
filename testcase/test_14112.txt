@@ -1,0 +1,13 @@
+top
+iload J
+istore j
+fconst 7.089846
+i2f
+iconst 6
+fconst 7.441389
+fconst 6.191803
+fstore f
+istore F
+iconst 11
+ieq
+iconst -16

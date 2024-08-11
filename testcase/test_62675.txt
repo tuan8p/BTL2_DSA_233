@@ -1,0 +1,15 @@
+fconst 1.364116
+iconst 2
+istore f
+f2i
+fstore j
+fstore G
+istore e
+iload m
+fstore h
+istore m
+iconst -1
+iload E
+iconst -4
+fstore g
+fneg

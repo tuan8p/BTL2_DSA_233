@@ -1,0 +1,8 @@
+iload C
+istore c
+ineg
+istore l
+istore L
+istore H
+istore m
+fconst -9.153826

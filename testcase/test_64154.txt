@@ -1,0 +1,19 @@
+iconst -16
+fconst -7.547456
+iconst 13
+iconst -2
+istore M
+iconst 19
+fstore F
+par i
+iconst -6
+ineq
+fconst -0.260573
+fconst -9.556945
+top
+imul
+fconst -5.877394
+ineg
+igt
+istore K
+istore g

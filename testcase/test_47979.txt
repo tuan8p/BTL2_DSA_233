@@ -1,0 +1,17 @@
+iload I
+fload k
+fload J
+fstore d
+ibnot
+fneq
+fconst -0.185955
+istore A
+fstore B
+iconst -17
+fstore D
+iconst 5
+fstore m
+fstore D
+fstore J
+fconst 7.038023
+istore c

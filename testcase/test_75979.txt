@@ -1,0 +1,17 @@
+iconst 20
+fconst 9.084593
+istore f
+fstore b
+top
+fstore e
+fconst -9.217556
+fconst -7.546889
+fconst 6.207733
+flt
+fconst 8.929676
+fconst -4.278104
+fstore E
+fstore B
+fconst -2.724037
+fadd
+fstore I

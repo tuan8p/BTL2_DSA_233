@@ -1,0 +1,10 @@
+par K
+val c
+fconst 9.998789
+iconst 13
+ibnot
+f2i
+iconst -16
+fload G
+istore I
+iconst 9

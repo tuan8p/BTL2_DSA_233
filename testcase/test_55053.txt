@@ -1,0 +1,20 @@
+fload J
+iload I
+iconst 15
+par h
+iconst 19
+fstore d
+istore E
+istore j
+fconst 1.336351
+istore B
+fstore G
+fmul
+iconst -10
+iadd
+fstore j
+fgt
+fstore A
+fmul
+iconst 1
+iand

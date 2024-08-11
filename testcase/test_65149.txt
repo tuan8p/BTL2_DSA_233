@@ -1,0 +1,21 @@
+iconst 14
+iconst 8
+fconst 9.422436
+ieq
+ibnot
+istore k
+iconst 18
+fconst -9.484519
+iconst 13
+istore L
+iconst -18
+val d
+iconst -8
+fload k
+iconst 8
+fconst -5.084876
+iconst 9
+fconst -8.944723
+top
+ior
+ineq

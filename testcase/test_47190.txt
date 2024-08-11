@@ -1,0 +1,15 @@
+iconst -9
+fconst 6.191105
+iconst 19
+fconst 2.117401
+iconst 9
+fconst 2.661429
+imul
+fadd
+fconst 8.566174
+iconst -14
+iconst 11
+iconst 3
+istore m
+feq
+fstore g

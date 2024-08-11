@@ -1,0 +1,14 @@
+fconst -6.738046
+fconst 2.903797
+iconst -11
+istore c
+istore b
+fadd
+fconst -7.848678
+fconst 2.425045
+fconst -7.592376
+fstore H
+fgt
+ibnot
+fconst 5.966175
+fconst -1.101210

@@ -1,0 +1,14 @@
+iconst 15
+fconst -5.234484
+iconst 2
+istore g
+fstore i
+istore d
+fconst -9.075775
+iconst -9
+par J
+fload C
+val m
+fstore b
+iconst -20
+fload l

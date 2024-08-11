@@ -1,0 +1,13 @@
+iconst 4
+iconst -2
+ior
+ieq
+iconst 7
+istore J
+iconst 7
+fconst -4.374335
+fconst 9.593470
+ilt
+fconst -8.010880
+fconst -9.516244
+fconst -9.613379

@@ -1,0 +1,18 @@
+iconst -7
+istore b
+iload D
+ilt
+imul
+top
+iconst -6
+istore d
+iconst 9
+fload L
+iload k
+iconst 17
+istore D
+fneg
+igt
+fstore A
+istore e
+iload E

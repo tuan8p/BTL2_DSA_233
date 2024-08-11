@@ -1,0 +1,15 @@
+iconst -13
+fconst 7.465473
+iconst 12
+fconst 6.453569
+f2i
+fstore B
+fgt
+ior
+par e
+top
+ior
+iconst -15
+fstore d
+fstore b
+iconst 2

@@ -1,0 +1,15 @@
+fconst -4.784210
+iload k
+istore e
+fload c
+istore J
+iload g
+f2i
+iconst -3
+istore k
+par A
+istore m
+isub
+fload m
+ieq
+istore m

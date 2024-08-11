@@ -1,0 +1,9 @@
+iconst 9
+iload A
+ilt
+val M
+iload H
+iload c
+istore a
+istore k
+iadd

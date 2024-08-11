@@ -1,0 +1,13 @@
+iconst 4
+iconst -14
+iconst -19
+iconst -15
+iconst -13
+fconst -4.217497
+fconst -9.974543
+iload A
+fconst -3.090177
+iconst 14
+igt
+fconst 8.130398
+istore e

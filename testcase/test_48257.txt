@@ -1,0 +1,20 @@
+fload k
+par E
+iconst -14
+istore H
+iconst 16
+idiv
+iadd
+istore J
+iload e
+iload M
+istore l
+iconst -1
+fconst 1.072684
+fstore j
+val A
+iload M
+flt
+i2f
+iload H
+iconst 12

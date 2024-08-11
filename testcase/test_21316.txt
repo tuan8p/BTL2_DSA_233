@@ -1,0 +1,18 @@
+fload h
+fconst 6.712410
+fconst 3.628250
+iconst 3
+iconst 6
+fconst 6.516714
+irem
+iconst 12
+fstore f
+istore L
+fconst -1.891880
+iload E
+ibnot
+fload g
+top
+iconst -10
+fconst 0.366611
+iload i

@@ -1,0 +1,20 @@
+iload e
+par c
+fconst 9.165630
+iconst 0
+istore G
+istore E
+iconst 15
+iconst 5
+iconst 10
+fneg
+fload b
+iconst -1
+istore C
+iconst 19
+iconst -11
+fsub
+istore G
+iload L
+iload e
+iload H

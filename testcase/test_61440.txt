@@ -1,0 +1,15 @@
+val E
+fconst 8.060955
+iconst -3
+fconst -5.801206
+iconst 8
+fconst 5.150504
+istore j
+fconst -8.264323
+iload f
+istore J
+iconst 3
+fconst -7.412870
+fconst 5.965521
+iconst -14
+fconst -5.938298

@@ -1,0 +1,14 @@
+fload M
+iconst -19
+iconst 1
+istore m
+iconst -12
+iconst -6
+iconst -8
+istore c
+iadd
+fstore M
+fconst 4.334972
+fconst 9.121876
+imul
+fstore i

@@ -1,0 +1,11 @@
+iconst -4
+fconst 2.644277
+iconst -8
+val J
+fconst -0.112444
+fconst 3.918938
+fconst -8.167329
+ibnot
+fconst 7.356253
+flt
+fconst 1.879249

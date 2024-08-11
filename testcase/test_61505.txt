@@ -1,0 +1,22 @@
+iconst 3
+istore A
+fconst 1.100177
+istore m
+fstore M
+fneg
+fstore g
+fstore e
+ineg
+iconst -17
+imul
+ineq
+ineq
+iconst 13
+ior
+iconst 6
+fstore f
+fconst 1.419260
+fmul
+fstore i
+fstore E
+iconst -11

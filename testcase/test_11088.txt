@@ -1,0 +1,15 @@
+iconst -10
+iconst -7
+ineg
+fload C
+iconst 7
+ineq
+iconst -3
+fload f
+iload B
+irem
+f2i
+iadd
+fconst -3.400484
+ilt
+fadd

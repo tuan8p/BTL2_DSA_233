@@ -1,0 +1,17 @@
+fconst 9.187771
+fload a
+fstore m
+val K
+top
+fstore C
+fconst 1.336584
+iload D
+iload k
+fstore M
+istore m
+iload H
+iload j
+fstore M
+fconst -5.255700
+fneg
+fload c

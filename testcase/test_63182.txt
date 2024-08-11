@@ -1,0 +1,17 @@
+fconst -1.833405
+fconst 4.245554
+fstore e
+fdiv
+iconst 0
+fconst 4.026209
+fconst -0.282341
+iconst 11
+fconst -9.099089
+par e
+fconst 5.199038
+fconst 2.577322
+fstore j
+ineg
+iconst -14
+iconst -16
+fneg

@@ -1,0 +1,18 @@
+iconst 0
+fconst -7.995100
+iload A
+fconst 6.676134
+imul
+iconst 16
+fstore l
+istore L
+fconst 1.947427
+iload g
+fconst -5.066930
+ieq
+iconst 4
+fconst 9.276508
+iload c
+iconst 16
+ilt
+fsub

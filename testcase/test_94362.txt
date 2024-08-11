@@ -1,0 +1,16 @@
+fconst 1.769445
+fstore D
+val K
+fconst -8.743069
+fconst -4.469251
+fstore h
+iconst -1
+fconst 0.415445
+top
+istore J
+fstore D
+iconst 0
+top
+fstore d
+fconst 9.269785
+fconst 2.524555

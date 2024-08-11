@@ -1,0 +1,13 @@
+fconst 2.470788
+fconst 2.168961
+val k
+fconst 3.413843
+feq
+iconst 3
+iconst -1
+istore l
+fconst 6.661394
+iconst -16
+iconst -3
+istore b
+fconst 8.001219

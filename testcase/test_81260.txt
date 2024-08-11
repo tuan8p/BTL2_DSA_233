@@ -1,0 +1,21 @@
+iconst 16
+iconst 9
+par e
+ior
+par F
+fload m
+fconst -2.289895
+iload C
+fload f
+par F
+fstore l
+fadd
+fneq
+idiv
+istore c
+istore h
+iload I
+fstore h
+iload B
+iload a
+iconst -8

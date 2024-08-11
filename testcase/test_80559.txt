@@ -1,0 +1,8 @@
+fload H
+fconst -8.203845
+par g
+fconst 9.105705
+fstore j
+iload e
+iconst 3
+iconst -2

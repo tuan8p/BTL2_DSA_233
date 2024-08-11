@@ -1,0 +1,14 @@
+fconst 2.114941
+iconst 11
+istore B
+fconst -7.098441
+val D
+fconst -9.823159
+istore J
+fneq
+iconst -7
+fmul
+istore b
+iconst 1
+iconst -10
+iconst 1

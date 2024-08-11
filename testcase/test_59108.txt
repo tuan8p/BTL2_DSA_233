@@ -1,0 +1,13 @@
+par e
+iload F
+fconst 5.747513
+fconst -9.361300
+iload A
+iload F
+top
+imul
+top
+fconst -2.275873
+top
+iload E
+fconst -0.492024

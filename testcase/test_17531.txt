@@ -1,0 +1,11 @@
+iload E
+iconst -4
+iconst 8
+iconst -16
+iconst -16
+fconst -5.451940
+f2i
+fload J
+iconst -9
+fconst 0.280247
+iload k

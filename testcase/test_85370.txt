@@ -1,0 +1,10 @@
+top
+iload L
+iload k
+iconst 3
+idiv
+iload e
+fconst -8.690645
+ibnot
+istore E
+iconst 14

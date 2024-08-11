@@ -1,0 +1,18 @@
+iconst 4
+iload a
+fload f
+fstore i
+fconst 3.632952
+fstore M
+fstore f
+fload j
+fconst 0.519261
+iload G
+fsub
+isub
+iconst -10
+fadd
+iconst 15
+fmul
+iconst 18
+iconst 18

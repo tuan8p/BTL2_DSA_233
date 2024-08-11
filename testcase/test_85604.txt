@@ -1,0 +1,11 @@
+fload l
+fstore b
+fstore H
+fstore J
+fstore G
+fneg
+iconst -13
+fstore i
+iconst 17
+iand
+iconst -13

@@ -1,0 +1,14 @@
+iconst -19
+istore d
+val l
+iconst 10
+ior
+iconst 2
+iload F
+iload M
+iload l
+ineg
+ior
+isub
+fconst -1.913273
+iload G

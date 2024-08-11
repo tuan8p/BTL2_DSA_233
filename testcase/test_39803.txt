@@ -1,0 +1,19 @@
+iconst 11
+iload A
+iload i
+fconst -7.360185
+iload i
+iconst 2
+istore K
+istore b
+iconst -5
+iconst -13
+top
+isub
+irem
+fconst 2.915501
+fconst -2.354517
+fsub
+iload E
+irem
+iconst 11

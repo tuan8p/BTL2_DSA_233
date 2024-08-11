@@ -1,0 +1,15 @@
+iconst 9
+fconst 9.551756
+fconst 2.229631
+fconst 6.191753
+iconst 15
+iconst 4
+iload G
+iconst 4
+val F
+iconst -20
+fconst 3.235249
+iadd
+igt
+ior
+fstore b

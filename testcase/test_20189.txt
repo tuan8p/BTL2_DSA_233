@@ -1,0 +1,14 @@
+fconst -5.529735
+iconst -3
+iconst 4
+par d
+fstore e
+iconst 16
+i2f
+iconst 10
+fstore i
+istore l
+iconst -11
+fstore G
+isub
+fstore F

@@ -1,0 +1,18 @@
+par B
+iload I
+fconst -8.103245
+iload A
+ior
+iconst 19
+iconst 18
+iconst -6
+fconst 4.051746
+iconst 10
+fstore g
+fconst 5.360916
+fstore H
+iconst -1
+fconst -7.070293
+fconst 9.653770
+fstore H
+fconst 5.169316

@@ -1,0 +1,12 @@
+iconst 2
+istore J
+iload M
+istore I
+iload m
+istore F
+iconst 16
+ineq
+fconst 7.669317
+fconst 9.526999
+istore A
+istore J

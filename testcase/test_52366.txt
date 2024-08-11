@@ -1,0 +1,14 @@
+iconst -10
+fconst 2.144752
+fconst -8.528170
+iconst 14
+istore m
+iconst 5
+fconst -3.372949
+iand
+fmul
+fload e
+istore c
+istore K
+iand
+ilt

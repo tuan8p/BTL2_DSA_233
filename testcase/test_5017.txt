@@ -1,0 +1,18 @@
+iconst 5
+istore i
+istore i
+iconst -10
+iconst -18
+istore I
+iconst 11
+top
+iadd
+istore l
+fconst 0.698877
+iconst -20
+istore G
+iload c
+f2i
+istore c
+istore F
+i2f

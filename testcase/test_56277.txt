@@ -1,0 +1,13 @@
+iconst -9
+par H
+fconst -3.575211
+istore b
+fconst -8.473883
+fconst 8.620987
+fadd
+istore b
+iconst -19
+istore c
+fconst 0.365869
+iconst 9
+iconst 17

@@ -1,0 +1,22 @@
+iload A
+iconst -11
+iload g
+idiv
+istore e
+istore F
+imul
+igt
+istore J
+ibnot
+idiv
+iload b
+par J
+igt
+idiv
+par H
+iconst -1
+ieq
+iand
+iload l
+istore f
+iconst 11

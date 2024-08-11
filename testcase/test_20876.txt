@@ -1,0 +1,18 @@
+top
+iconst 11
+iload B
+ieq
+iload i
+iload a
+fconst -2.456655
+fconst -3.754246
+ibnot
+iload g
+par m
+par F
+iconst 9
+iconst -9
+fconst -9.519724
+iload c
+par K
+fconst -1.939839

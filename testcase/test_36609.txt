@@ -1,0 +1,19 @@
+iconst 19
+top
+istore H
+iconst -5
+ilt
+fconst -6.436480
+fstore e
+iload E
+fconst -5.885683
+fstore b
+iconst 17
+fconst -1.032159
+fstore l
+feq
+fstore d
+fstore c
+fdiv
+iconst -4
+fstore e

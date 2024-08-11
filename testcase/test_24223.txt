@@ -1,0 +1,16 @@
+iconst 6
+iconst 4
+iconst 6
+fconst -3.482286
+iconst -20
+istore C
+imul
+iconst 10
+i2f
+fneg
+iload m
+fconst -7.815128
+fconst 5.302430
+iadd
+irem
+iconst 5

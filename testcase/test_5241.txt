@@ -1,0 +1,16 @@
+fload E
+fstore B
+fconst 9.739771
+iload F
+iconst 4
+fadd
+fconst 8.761181
+ibnot
+iload D
+ior
+i2f
+fadd
+fconst -5.049297
+val K
+iconst 4
+fadd

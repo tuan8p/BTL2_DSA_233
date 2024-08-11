@@ -1,0 +1,7 @@
+top
+fconst 7.420296
+fconst -0.840016
+iconst -20
+fload C
+iconst 10
+fneq

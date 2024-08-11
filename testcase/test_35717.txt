@@ -1,0 +1,11 @@
+fconst 3.638650
+fconst 4.722551
+feq
+fconst -4.322886
+iload H
+fneq
+fconst -9.202446
+iconst 16
+iand
+iconst 18
+iconst 3

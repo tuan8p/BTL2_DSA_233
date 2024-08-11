@@ -1,0 +1,12 @@
+iconst 20
+fconst 9.845398
+iconst 8
+fconst 6.155622
+iand
+fconst -0.827872
+ior
+fstore j
+iconst -8
+istore D
+fdiv
+feq

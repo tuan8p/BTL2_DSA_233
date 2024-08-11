@@ -1,0 +1,8 @@
+fload A
+fstore f
+fconst 1.002104
+fload i
+fconst 1.344380
+val K
+iload J
+iload J

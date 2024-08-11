@@ -1,0 +1,14 @@
+fload F
+iconst 8
+istore h
+val C
+fconst -2.533271
+iload f
+fconst 8.555466
+iconst -3
+ineg
+iconst -7
+iconst 11
+fstore H
+iconst -1
+imul

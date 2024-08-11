@@ -1,0 +1,20 @@
+iload D
+iconst -12
+iand
+ineg
+iconst -15
+idiv
+iconst 15
+iconst -2
+iload m
+iload j
+fconst 9.677828
+ineg
+ilt
+istore A
+fconst 5.434838
+iconst 15
+istore K
+iconst 13
+istore E
+fadd

@@ -1,0 +1,24 @@
+iconst 16
+istore j
+iconst 12
+istore A
+iconst -5
+fconst 1.598049
+istore A
+istore B
+iconst 18
+iconst 13
+iconst 18
+fconst 7.285196
+istore A
+iconst -7
+iconst 1
+fconst -0.285284
+iconst -8
+f2i
+top
+fneq
+iload h
+istore j
+iload F
+irem

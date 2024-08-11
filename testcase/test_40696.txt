@@ -1,0 +1,12 @@
+iconst -11
+par J
+istore D
+iload J
+ibnot
+ior
+iload E
+istore F
+istore a
+fconst 2.087626
+istore A
+ibnot

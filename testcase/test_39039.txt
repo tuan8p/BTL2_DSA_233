@@ -1,0 +1,11 @@
+iload j
+iconst 1
+i2f
+imul
+iconst -5
+fconst -6.896370
+istore A
+fconst 3.959094
+iconst -7
+fconst -4.087144
+iconst 11

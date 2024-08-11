@@ -1,0 +1,22 @@
+iconst 5
+istore e
+iload I
+iconst -18
+istore L
+iconst 9
+ineg
+iconst -1
+fconst -5.934416
+iconst -14
+ieq
+igt
+ilt
+iadd
+iconst -6
+val J
+iconst -13
+ineq
+iconst 14
+istore l
+iload a
+istore j

@@ -1,0 +1,17 @@
+iconst 14
+iconst 7
+idiv
+istore b
+top
+istore c
+istore C
+irem
+fconst -7.451415
+iand
+fconst 7.533619
+iconst -5
+fload H
+iconst 3
+ilt
+istore G
+iload h

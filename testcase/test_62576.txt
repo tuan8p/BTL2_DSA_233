@@ -1,0 +1,14 @@
+top
+val d
+fconst -0.372662
+iload K
+iload a
+iload a
+istore L
+fconst -5.725956
+istore G
+iconst -10
+iconst -9
+iconst 12
+fconst 5.628004
+iconst -15

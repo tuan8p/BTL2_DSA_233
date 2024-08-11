@@ -1,0 +1,11 @@
+fconst 0.451303
+iload i
+fconst 9.062416
+fload C
+fsub
+fstore H
+fstore G
+fstore c
+iload b
+fload e
+fstore h

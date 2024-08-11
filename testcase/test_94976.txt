@@ -1,0 +1,8 @@
+fload A
+f2i
+fconst 7.311619
+iconst 0
+fconst 0.425681
+i2f
+iconst -5
+istore a

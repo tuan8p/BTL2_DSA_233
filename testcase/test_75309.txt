@@ -1,0 +1,22 @@
+fload c
+fconst 4.824847
+fstore I
+fdiv
+iconst 1
+iload i
+fstore k
+par d
+fstore m
+iload E
+iconst 2
+ilt
+iload K
+fstore L
+idiv
+irem
+idiv
+istore K
+iload E
+istore A
+feq
+iload L

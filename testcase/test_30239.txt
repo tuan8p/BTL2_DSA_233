@@ -1,0 +1,13 @@
+fconst 1.213784
+iload K
+fload I
+fconst 2.568008
+iload J
+iload g
+iload h
+ibnot
+flt
+ilt
+fconst 2.279729
+fload k
+fload a

@@ -1,0 +1,12 @@
+top
+iload A
+iload B
+fconst 3.700661
+fconst 1.677490
+fstore A
+iconst -9
+fstore m
+fconst -6.316519
+iload D
+fload j
+irem

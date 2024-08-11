@@ -1,0 +1,13 @@
+fconst 4.469557
+iconst 5
+iconst -18
+iconst 17
+fconst -9.413962
+val m
+fconst -2.365397
+fstore E
+iconst 2
+fstore g
+iconst 12
+iadd
+fconst 2.246849

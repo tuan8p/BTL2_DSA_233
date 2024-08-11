@@ -1,0 +1,14 @@
+fconst -9.583643
+f2i
+fconst -6.518197
+fmul
+iconst -9
+iconst -14
+iconst 2
+fconst -1.187387
+fconst 8.579691
+ieq
+fsub
+f2i
+fconst 3.655085
+iload a

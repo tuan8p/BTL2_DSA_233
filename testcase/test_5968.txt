@@ -1,0 +1,10 @@
+fload C
+fconst 9.314774
+iconst -15
+iload i
+iload i
+fload h
+fstore a
+iconst 11
+iconst -10
+istore J

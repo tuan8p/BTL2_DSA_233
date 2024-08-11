@@ -1,0 +1,9 @@
+fconst 8.056822
+fconst 1.750626
+fsub
+par d
+fstore g
+iconst 4
+istore I
+feq
+iconst -19

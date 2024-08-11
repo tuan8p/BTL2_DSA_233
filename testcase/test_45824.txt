@@ -1,0 +1,11 @@
+iconst -14
+val A
+ibnot
+iconst 10
+iconst -19
+par F
+iconst -4
+iconst -14
+fconst -6.430392
+idiv
+istore g

@@ -1,0 +1,13 @@
+fconst -5.181916
+iload l
+iload H
+fstore e
+fstore a
+iload l
+ieq
+istore H
+istore c
+iconst -16
+top
+i2f
+fstore h

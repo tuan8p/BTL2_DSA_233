@@ -1,0 +1,11 @@
+fconst -9.486461
+iconst 7
+iconst -7
+ineq
+fstore J
+istore E
+istore k
+fconst 7.296392
+i2f
+fstore c
+igt

@@ -1,0 +1,17 @@
+iconst 6
+fload I
+fload e
+istore H
+iconst -7
+iconst -10
+iconst 18
+iconst 12
+fneq
+fstore I
+istore h
+fstore L
+iconst -16
+iload G
+iload K
+fstore H
+fadd

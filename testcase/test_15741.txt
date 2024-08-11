@@ -1,0 +1,13 @@
+iconst 13
+val d
+fconst -8.963001
+fstore H
+iconst 9
+fload e
+iconst -17
+idiv
+iload I
+fadd
+ior
+fconst 8.658484
+isub

@@ -1,0 +1,11 @@
+iconst 9
+i2f
+istore A
+istore J
+istore I
+iconst -15
+iload c
+istore K
+iload i
+istore L
+fconst 3.902739

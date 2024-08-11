@@ -1,0 +1,9 @@
+fload B
+fload J
+f2i
+flt
+fstore h
+fstore K
+fload E
+fload g
+iconst 3

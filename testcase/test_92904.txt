@@ -1,0 +1,11 @@
+fload J
+iconst -3
+val i
+fstore d
+fconst 0.492820
+istore D
+fconst 0.243764
+fneg
+fneg
+iconst -1
+iconst -19

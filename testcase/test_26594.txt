@@ -1,0 +1,13 @@
+iconst 2
+par K
+istore e
+iconst -10
+i2f
+iconst -14
+iconst 3
+iconst 4
+igt
+iadd
+fconst 9.123474
+istore m
+fstore i

@@ -1,0 +1,14 @@
+iload e
+iconst 5
+ior
+iconst -5
+iconst -15
+val L
+iand
+par F
+iconst 8
+fconst -8.301875
+fconst 7.273838
+fconst 0.154003
+fstore i
+iconst 19

@@ -1,0 +1,16 @@
+fconst -0.190184
+f2i
+fconst 4.656577
+iconst -4
+iload j
+fstore J
+iload k
+fconst -6.278640
+iconst 2
+irem
+ior
+fgt
+fconst -2.443676
+iload J
+fneg
+fstore j

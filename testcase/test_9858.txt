@@ -1,0 +1,7 @@
+iload A
+iconst 11
+iload k
+iconst -6
+fconst -2.678056
+fload D
+iand

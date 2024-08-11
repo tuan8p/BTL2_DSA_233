@@ -1,0 +1,14 @@
+val d
+iload E
+fconst -1.604689
+istore c
+fstore g
+fconst 3.900101
+iload l
+fneg
+fstore C
+feq
+fstore d
+fconst -4.366543
+ineg
+fadd

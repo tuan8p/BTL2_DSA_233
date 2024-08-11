@@ -1,0 +1,17 @@
+fconst 9.822296
+iconst 1
+fstore C
+f2i
+iconst 13
+irem
+ior
+fload f
+ineg
+iconst 19
+istore M
+ieq
+iconst -1
+iconst -7
+imul
+fmul
+fsub

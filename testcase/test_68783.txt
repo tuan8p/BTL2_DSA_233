@@ -1,0 +1,19 @@
+fconst 0.672651
+fload D
+fconst 0.559646
+f2i
+fload c
+fstore k
+fconst 8.873188
+fstore l
+fconst 1.641961
+fconst -5.046182
+top
+fconst 1.058082
+par M
+fstore f
+fstore G
+fconst 9.112642
+fconst 0.751996
+val H
+fconst -0.934202

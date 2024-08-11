@@ -1,0 +1,15 @@
+val i
+iconst -7
+istore J
+istore k
+istore b
+fconst 5.378746
+iconst 7
+fstore h
+iconst 9
+iload J
+iconst -2
+fstore i
+fconst -6.074328
+iload G
+fconst 6.028624

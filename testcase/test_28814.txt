@@ -1,0 +1,19 @@
+fload m
+iload k
+iconst -13
+ieq
+fconst 9.208220
+iconst -15
+iload h
+iload D
+istore I
+iconst -7
+fload I
+idiv
+fconst 6.925770
+iload j
+fstore E
+fconst 9.800961
+fstore l
+iand
+iload C

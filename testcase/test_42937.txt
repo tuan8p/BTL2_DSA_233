@@ -1,0 +1,19 @@
+fconst 5.909517
+fstore J
+iconst -19
+iconst -19
+istore K
+fload B
+fgt
+iconst -7
+fload G
+fconst -6.677248
+istore G
+fconst 0.709538
+fload m
+ior
+iconst 13
+imul
+istore m
+istore i
+fgt

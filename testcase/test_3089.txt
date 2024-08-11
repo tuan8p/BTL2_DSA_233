@@ -1,0 +1,14 @@
+iconst -17
+iconst 7
+iconst -9
+ior
+top
+iload m
+iload I
+imul
+idiv
+par g
+fconst -2.517602
+fconst 1.309896
+iload i
+iload k

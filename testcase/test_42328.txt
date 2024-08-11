@@ -1,0 +1,15 @@
+iconst 13
+istore h
+fconst -3.387614
+fstore C
+istore C
+istore G
+iconst -7
+iconst -6
+fconst 8.745800
+istore j
+fstore b
+fconst -3.640175
+istore L
+istore H
+fadd

@@ -1,0 +1,13 @@
+fconst -6.044375
+fconst -0.149913
+fgt
+fconst -2.541286
+iconst -20
+fconst 6.052711
+fdiv
+fconst 1.098005
+fneq
+fconst 7.017179
+istore M
+fload E
+fconst 5.703165

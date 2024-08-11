@@ -1,0 +1,12 @@
+iconst 8
+iconst 10
+iload E
+iconst 7
+istore B
+irem
+iload e
+imul
+iconst 8
+iconst 7
+iconst 11
+fload h

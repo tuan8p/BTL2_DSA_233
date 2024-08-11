@@ -1,0 +1,8 @@
+iconst 4
+istore M
+iload i
+iconst 16
+val G
+fconst 4.598703
+istore D
+iload j

@@ -1,0 +1,14 @@
+iconst 8
+iconst -12
+fconst -6.422597
+fstore H
+iconst 14
+istore B
+iconst 2
+fload K
+top
+fconst -4.599719
+iconst 2
+istore a
+istore c
+iconst 3

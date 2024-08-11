@@ -1,0 +1,13 @@
+iload L
+iconst -10
+ibnot
+par m
+fconst -8.295568
+iconst -3
+iload i
+iconst 8
+iload H
+iconst 4
+top
+fconst 2.602550
+fconst -8.598576

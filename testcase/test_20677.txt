@@ -1,0 +1,16 @@
+fconst -0.623783
+val D
+iconst 9
+iload J
+istore B
+iload H
+istore j
+istore d
+top
+istore J
+ineg
+fconst 6.452791
+ieq
+iconst 3
+isub
+fdiv
