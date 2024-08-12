@@ -201,10 +201,10 @@ void StackFrame::calculateBasicAndLogic(std::string str) {
             if (topFirst.getOper() == 0) throw DivideByZero(line);
             this->push(topSecond / topFirst);
         }
-        else if (str == "feq") this->push(operation(topFirst == topSecond, topFirst.getStatus()));
-        else if (str == "fneq") this->push(operation(!(topFirst == topSecond), topFirst.getStatus()));
-        else if (str == "flt") this->push(operation(topSecond < topFirst, topFirst.getStatus()));
-        else this->push(operation(topSecond > topFirst, topFirst.getStatus())); // fgt
+        else if (str == "feq") this->push(operation(topFirst == topSecond, INT));
+        else if (str == "fneq") this->push(operation(!(topFirst == topSecond), INT));
+        else if (str == "flt") this->push(operation(topSecond < topFirst, INT));
+        else this->push(operation(topSecond > topFirst, INT)); // fgt
     }
 }
 void StackFrame::checkTypeAndConvert(std::string str) {
